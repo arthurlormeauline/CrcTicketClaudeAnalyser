@@ -104,15 +104,40 @@ Tout le matériel vient du constructeur **"Crow"**.
     - Installation plus longue
 - **Visite d'entretien** : tous les **3 ans** (changement des piles notamment)
 
-### Experience client actuelle
+### Expérience Client
 
-- Alarme intrusion / fumée : simple
-  - appel + sms : contact 1
-  - appel + sms : contact 2
-  - appel + sms : contact 3
-  => Si aucune réponse, pas d'appel cegedev
+#### Avant
 
-- Alarme intrusion / fumée : confirmé (deuxième déclenchement dans les 5 minutes 30 secondes)
-  - appel + sms : contact 1 + CEGEDEV
-  - appel + sms : contact 2
-  - appel + sms : contact 3
+- **Alarme intrusion / fumée : simple**
+  - Appel + SMS : **Contact 1**
+  - Appel + SMS : **Contact 2**
+  - Appel + SMS : **Contact 3**  
+  → Si aucune réponse, pas d'appel à **Cegedev**
+
+- **Alarme intrusion / fumée : confirmé**  
+  (deuxième déclenchement dans les **5 minutes 30 secondes** ; pour la fumée : pendant plus d'une minute)
+  - Appel + SMS : **Contact 1** + **Cegedev**
+  - Appel + SMS : **Contact 2**
+  - Appel + SMS : **Contact 3**
+
+#### Nouvelle Expérience Client
+
+- Dès qu'il y a une alerte, **Cegedev** peut intervenir.
+- L'appel vocal est supprimé → remplacé par un **SMS conversationnel** : nécessite une réponse de la part du client pour indiquer s'il est à l'origine du déclenchement.
+
+  - **Si oui** :  
+    - Envoi d'un SMS :  
+      _"Merci, n'oubliez pas de désactiver le système, Cegedev reste disponible..."_
+  - **Si non** :  
+    - L'alerte part directement à **Cegedev**.
+  - **Si pas de réponse** :  
+    - Après **1 minute**, vérification si l'alarme est toujours en service ou si elle a été arrêtée :
+      - **Si arrêtée** :  
+        - Notification au client indiquant que le système a été désactivé, précisant quel profil l'a désactivé (chaque profil a un code différent).
+      - **Si pas arrêtée** :  
+        - L'alerte part à **Cegedev**.
+
+- **Pour la fumée** :  
+  - Dès le déclenchement de l'alarme, notification au client.  
+  - Attente de **1 minute** :  
+    - **Si toujours en alarme** → l'alerte part à **Cegedev**.

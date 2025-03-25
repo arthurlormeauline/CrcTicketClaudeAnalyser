@@ -51,7 +51,10 @@ les animaux se déplacent ensemble, la totalité du poid est prise en compte
   au bout de 30 sec ; la sonde est posée à même le sol, sans système d'accroche => attention à la perte !
 
   * centrale d'alarme : le cerveau du système, brancher au secteur : les piles ont 24h d'autonomie, au bout de 30min de coupure
-    de courant, on transmet une alerte sms au client
+    de courant, on transmet une alerte sms au client. Doit avoir un accès internet (via câble reséeau) ; plus wifi ; plus carte
+    réseau type sim pour 4g en back up
+    Effectue des tests cycliques pour s'assurer qu'elle est apte à transemttre
+    A placer de manière centrale, le plus haut possible
 
 * lever de doute :
 * intervention :

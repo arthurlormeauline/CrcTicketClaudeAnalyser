@@ -6,6 +6,10 @@
 
 * set up github sur pc (ssh)
 
+* finir setup wsl (suivre doc)
+
+* setup k8s et aws tools (suivre doc)
+
 * Comprendre quels sont les services que TUS own réellement
 
 * Comprendre système jira

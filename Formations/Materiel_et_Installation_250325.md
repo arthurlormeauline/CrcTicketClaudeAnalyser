@@ -1,66 +1,118 @@
-# Formation installation
+# Formation Installation
 
 ## Historique
 
-Anciennement confintex 6 filiale sécurité de Groupama
+Anciennement **Confintex 6**, filiale sécurité de **Groupama**.
 
 ## Partenaires
 
-* Cegedev : telesurveillance
-* aquila : vigiles
-* mutuaide assistante : mesure compensatoire (réparer provisoirement)
+- **Cegedev** : télésurveillance  
+- **Aquila** : vigiles  
+- **Mutuaide Assistante** : mesure compensatoire (réparer provisoirement)
 
-## Présentation et pose du matériel
+## Présentation et Pose du Matériel
 
-tout le matériel vient du constructeur "crow"
+Tout le matériel vient du constructeur **"Crow"**.
 
-* clavier / badge / télécommande : activer, désactiver l'alarme
-  * deux modes : mise en service totale, ou partielle
-  * on valide part un code ou badge
-  * la sirène part du clavier (il n'y a que le clavier qui sonne, 80 db) ; le son intérieur est aigue -> il est désagréable, 
-  l'objectif est de faire fuire
-  * clavier intérieur uniquement
-  * 10 badges/utilisateurs max
-  * temporisation 20s en entrée, 60s en sortie : permet de partir et de rentrer chez soi : on ne temporise que les détecteurs lié à l'accès du lieu (porte d'entrée proche du clavier)
-  * système totale ou partiel ("mode à la maison") : permet de choisir un mode partielle par exemple quand on dors on veut sécuriser le rdc et le garage
-  * les piles durent autour de 3 ans
-  * télécommande en option permet d'activer, désactiver, prévenir le centre de télésurveillance
+### Clavier / Badge / Télécommande
 
-* Système de télésurveillance
-  * Do shock : Do = détecteur d'ouverture : permet de détecter ouverture et shock porte et fenêtre ;
-se place à l'interieur ; la partie electronique se pose sur la partie dormante et l'aimant sur la partie ouvrante
+- Activer, désactiver l'alarme
+  - Deux modes : mise en service **totale** ou **partielle**
+  - Validation par **code** ou **badge**
+- La sirène part du clavier (80 dB) : 
+  - Son intérieur aigu -> désagréable, objectif : faire fuir
+  - **Clavier intérieur uniquement**
+- **10 badges/utilisateurs max**
+- Temporisation :
+  - **20s en entrée**, **60s en sortie** : permet de partir et de rentrer chez soi
+  - Se limite aux détecteurs liés à l'accès du lieu (porte d'entrée proche du clavier)
+- Système **total** ou **partiel** ("mode à la maison") :
+  - Exemple : sécuriser le RDC et le garage pendant la nuit
+- **Piles** : durée de vie d'environ **3 ans**
+- **Télécommande** (en option) : activer, désactiver, prévenir le centre de télésurveillance
 
-  * PIR - PIRCAM : détecteur de mouvement (PIR), détecteur de mouvement avec prise de photos (PIRCAM) ; immunité aux animaux,
-jusqu'à 25 kg (si j'ai un chat et un chien, je totalise le poid des deux) ; le détecteur détecte la masse de chaleure, donc si
-les animaux se déplacent ensemble, la totalité du poid est prise en compte
-    * posé à 2,10 m
-    * porté de 10m
-    * 90° d'ouverture de détection (pour une détection optimale, vaut mieux placer dans un angle, pour éviter l'angle mort)
-    * on détecte mieux les mouvements latéraux, donc faut pas installer de face (on détecte la coupure des faiseaux, donc si
-  j'avance pile face au faisceau, vert la source du faisceau, je ne coupe rien et je ne déclenche pas le système)
-    * il ne faut pas que l'animal passe à moins de 2 mètres du détecteur
-    * usage intérieur uniquement
-    * la caméra ne filme pas, elle prend des photos
+### Système de Télésurveillance
 
-  * détecteur de fumée : sirène intégrée, complétement autonome => il peut fonctionner tout seul
+#### Do Shock
 
-  * sirène extérieure : alerter, dissuader (c'est gros, ça se voit) : résiste aux intempérie, sonne 3 minutes
-    * 2,5 mètre maximum de hauteur !
+- **Do** = détecteur d'ouverture : détecte ouverture et chocs sur portes et fenêtres
+- Placement :
+  - À l'intérieur
+  - Partie électronique sur la partie dormante
+  - Aimant sur la partie ouvrante
 
-  * sonde d'inondation : détecte présence d'eau, se met au sol, ce qui n'est pas ouf pour les ondes radios ; se déclenche
-  au bout de 30 sec ; la sonde est posée à même le sol, sans système d'accroche => attention à la perte !
+#### PIR - PIRCAM
 
-  * centrale d'alarme : le cerveau du système, brancher au secteur : les piles ont 24h d'autonomie, au bout de 30min de coupure
-    de courant, on transmet une alerte sms au client.
-    * Doit avoir un accès internet (via câble reséeau) ; plus wifi ; plus carte réseau type sim pour 4g en back up
-    * Effectue des tests cycliques pour s'assurer qu'elle est apte à transemttre
-    * A placer de manière centrale, le plus haut possible
-    * Ne se visse pas obligatoirement
-    * Plus c'est discret mieux c'est
-    * A protéger avec détecteur de mouvement
-    * A ne pas placer directement sur ou dessous la box internet
+- **PIR** : détecteur de mouvement  
+- **PIRCAM** : détecteur de mouvement avec prise de photos  
+- Immunité aux animaux (jusqu'à **25 kg**) :
+  - Si plusieurs animaux, totaliser leur poids
+  - Détecte la masse de chaleur
+- Installation :
+  - **Hauteur** : 2,10 m
+  - **Portée** : 10 m
+  - **Angle de détection** : 90° (placer dans un angle pour éviter les angles morts)
+  - Détection optimale : mouvements latéraux (éviter une installation de face)
+- Restrictions :
+  - Ne pas placer à moins de 2 m des animaux
+  - Usage **intérieur uniquement**
+- Caméra : ne filme pas, prend des photos
 
-* Le matériel est percé/vissé (en dehors des do et shock)
-  * si le client reffuse catégoriquement le perçage, mais ça devient sous sa responsabilité, et au moment de la desinstallation,
-  le décollage est beaucoup plus dégradant (c'est aussi plus long à installer)
-* visite d'entretient : tous les 3 ans, pour changer les piles notamment.
+#### Détecteur de Fumée
+
+- Sirène intégrée, complètement autonome
+- Peut fonctionner seul
+
+#### Sirène Extérieure
+
+- Objectifs : alerter, dissuader
+- Caractéristiques :
+  - Résiste aux intempéries
+  - Sonne pendant **3 minutes**
+  - **Hauteur max** : 2,5 m
+
+#### Sonde d'Inondation
+
+- Détecte la présence d'eau
+- Placement :
+  - Au sol (attention aux ondes radios)
+  - Déclenchement après **30 sec**
+- Attention : posée à même le sol, risque de perte
+
+#### Centrale d'Alarme
+
+- **Cerveau du système**, branchée au secteur :
+  - Piles : autonomie de **24h**
+  - Alerte SMS au client après **30 min** de coupure de courant
+- Connexions :
+  - Accès internet (câble réseau)
+  - Wi-Fi
+  - Carte réseau type SIM pour 4G en backup
+- Tests cycliques pour vérifier la transmission
+- Placement :
+  - **Centrale**, le plus haut possible
+  - Discrète, mieux c'est
+  - Protéger avec un détecteur de mouvement
+  - Ne pas placer directement sur ou sous la box internet
+
+### Installation du Matériel
+
+- Matériel **percé/vissé** (sauf Do et Shock)
+  - Si le client refuse le perçage :
+    - Sous sa responsabilité
+    - Décollage plus dégradant lors de la désinstallation
+    - Installation plus longue
+- **Visite d'entretien** : tous les **3 ans** (changement des piles notamment)
+
+### Experience client actuelle
+
+- Alarme intrusion / fumée : simple
+  - appel + sms : contact 1
+  - appel + sms : contact 2
+  - appel + sms : contact 3
+  => Si aucune réponse, pas d'appel cegedev
+
+- Alarme intrusion / fumée : confirmé (deuxième déclenchement dans les 5 minutes 30 secondes)
+  - appel + sms : contact 1 + CEGEDEV
+  - appel + sms : contact 2
+  - appel + sms : contact 3

@@ -51,11 +51,16 @@ les animaux se déplacent ensemble, la totalité du poid est prise en compte
   au bout de 30 sec ; la sonde est posée à même le sol, sans système d'accroche => attention à la perte !
 
   * centrale d'alarme : le cerveau du système, brancher au secteur : les piles ont 24h d'autonomie, au bout de 30min de coupure
-    de courant, on transmet une alerte sms au client. Doit avoir un accès internet (via câble reséeau) ; plus wifi ; plus carte
-    réseau type sim pour 4g en back up
-    Effectue des tests cycliques pour s'assurer qu'elle est apte à transemttre
-    A placer de manière centrale, le plus haut possible
+    de courant, on transmet une alerte sms au client.
+    * Doit avoir un accès internet (via câble reséeau) ; plus wifi ; plus carte réseau type sim pour 4g en back up
+    * Effectue des tests cycliques pour s'assurer qu'elle est apte à transemttre
+    * A placer de manière centrale, le plus haut possible
+    * Ne se visse pas obligatoirement
+    * Plus c'est discret mieux c'est
+    * A protéger avec détecteur de mouvement
+    * A ne pas placer directement sur ou dessous la box internet
 
-* lever de doute :
-* intervention :
-* visite d'entretient : tous les 3 ans, pour changer les piles notamment
+* Le matériel est percé/vissé (en dehors des do et shock)
+  * si le client reffuse catégoriquement le perçage, mais ça devient sous sa responsabilité, et au moment de la desinstallation,
+  le décollage est beaucoup plus dégradant (c'est aussi plus long à installer)
+* visite d'entretient : tous les 3 ans, pour changer les piles notamment.

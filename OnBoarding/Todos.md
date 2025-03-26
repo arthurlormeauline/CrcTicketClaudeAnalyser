@@ -1,14 +1,10 @@
 # Todos
 
-* Créer règles dans outlook
-
-* importer vimrc de vscode et intellij
-
-* set up github sur pc (ssh)
-
 * finir setup wsl (suivre doc)
 
 * setup k8s et aws tools (suivre doc)
+
+* récupérer le schéma qu'Emeric m'a montré lundi 24 mars jour de mon arrivé
 
 * Comprendre quels sont les services que TUS own réellement
 

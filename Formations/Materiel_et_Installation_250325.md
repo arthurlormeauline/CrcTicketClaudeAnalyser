@@ -141,3 +141,26 @@ Tout le matériel vient du constructeur **"Crow"**.
   - Dès le déclenchement de l'alarme, notification au client.  
   - Attente de **1 minute** :  
     - **Si toujours en alarme** → l'alerte part à **Cegedev**.
+
+  - **Alerte agression** : sms "êtes vous en danger", si oui=> appel force de l'ordre
+  - **Alerte médicale** : pareil que alerte agression mais appelle une ambulance
+
+### Process d'installation
+
+#### Application Team tool
+
+Fonctionne sur chrome uniquement.
+On reçoit les messages du planificateur dessus
+
+Prérequis : 1 obligatoire : la box internet fonctionnelle
+
+### Etude de risque
+
+Importance de l'échange ; poser des questions !
+
+- A-t-il déjà été cambriolé : protéger cette pièce obligatoirement
+- y a-t-il des zones de valeures ?
+- y a-t-il des animaux de companie ?
+
+Identfier les portes d'entrées principales, les zones de circulations, les zones où se situent les zones de valeure,
+les ouvrants sensibles (facile, fragile, sas entrée, sans vis à vis, baie vitrée etc.)

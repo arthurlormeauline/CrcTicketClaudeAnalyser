@@ -29,3 +29,6 @@ Comme ça on dev notre propre projet.
 - débrancher les appels à leurs back-end pour que event fe appel notre back end à nous
 - amélioration du visuel : voir avec équipe TUS, et CRC
 
+## Contacts
+
+team offre ; Malek

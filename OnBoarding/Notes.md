@@ -54,10 +54,6 @@
 - camunda
 - zookeeper : gestion des pods de kafka
 
-## Testing
-
-Compte en QA avec données event (à chercher dans le crm):  GBHCIDTUS0102
-
 ## cycle de vie US
 
 - chris analyse

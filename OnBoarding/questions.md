@@ -8,7 +8,3 @@
 
         - vault
         - consul !!!!!
-
-## In jira
-
-- Ready for qualif

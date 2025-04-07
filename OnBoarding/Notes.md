@@ -53,6 +53,7 @@
 - flux,  gitops, gitlab
 - camunda
 - zookeeper : gestion des pods de kafka
+- GLPI : outil de ticket (comme jira)
 
 ## cycle de vie US
 

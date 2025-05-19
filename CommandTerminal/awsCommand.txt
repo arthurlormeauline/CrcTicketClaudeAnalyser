@@ -1,0 +1,6 @@
+ aws sso login --profile PROTECTLINE-DEV-QA_Integrateur-098808187153
+ aws eks update-kubeconfig --name protectline-dev-qa --profile PROTECTLINE-DEV-QA_Integrateur-098808187153
+
+aws eks update-kubeconfig --name team-usages-prod --profile USAGES-PROD_Integrateur-642160904842 
+
+    

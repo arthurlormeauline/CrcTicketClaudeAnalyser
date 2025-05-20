@@ -35,10 +35,6 @@
 - Device Management orchestrator : https://github.com/protectline/devicemanagement-orchestrator
 - Device Management UI (FE) : https://github.com/protectline/devicemanagement-fe (intégré au CRM, ou en direct onglet "parc")
 
-- Device Management api : **gh à venir**
-- Deviec Management ordre : **gh à venir**
-- Device Management traitement : **gh à venir**
-
 - Event service : https://github.com/protectline/event (event fe ???????? : https://github.com/protectline/event-fe)
 - Télésurveillance service : https://github.com/protectline/telesurveillance
 - Notification service : https://github.com/protectline/notifications

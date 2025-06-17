@@ -1,11 +1,69 @@
 # Fixer les tests cassés dans Device
 
-## Moduels cassés (04_04_2025)
+## aws connector
 
-- aws connector
-- crow connector
-- installation connector
-- sercomm connector
-- ws
+V !! --> need docker on local machine.
 
-Peut être un pb de compatibilité entre les libs spring kafka et spring boot ; la solution serait d'upgrader vers une version plus récente de spring kafka et spring boot
+## Common
+
+V
+
+## Contracts connector
+
+V
+
+## Crow connector
+
+XXX - 2 deads
+
+## DataEnricher connector
+
+V
+
+## Event connector
+
+V
+
+## Installation connector
+
+XXX - 2 deads
+
+## Keycloak connector
+
+V
+
+## Meari connector
+
+V
+
+## Model ws
+
+V
+
+## Operation connector
+
+V
+
+## Sercomm connector
+
+XXX - 1 dead 
+
+## Site connector
+
+V
+
+## Tb connector
+
+V
+
+## Tb facade connector
+
+V
+
+## Telesurv connector
+
+V
+
+## ws
+
+XXX - lot of Deads

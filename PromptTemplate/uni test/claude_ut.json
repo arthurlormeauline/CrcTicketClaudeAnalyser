@@ -1,0 +1,17 @@
+{
+  "classe de travail": "GatewayLocalUsersServiceTest",
+  "tache": {
+    "description": "dans TestResults - GatewayLocalUsersServiceTest.xml, tu trouveras les résultats des tests de la classe (tu peux trouver les erreurs avec le mot cles stderr); remplis la partie détail ci dessous avec les informations des erreurs rencontrées dans les tests et ce que tu as fait pour fixer",
+    "détail des tests cassés": [
+      {
+        "nom": "",
+        "erreur et traitement": [
+          {
+            "message d'erreur": "",
+            "traitement": ""
+          }
+        ]
+      }
+    ]
+  }
+}

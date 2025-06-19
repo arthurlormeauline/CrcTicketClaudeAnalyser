@@ -16,3 +16,5 @@
   - Ctrl + E : Fichiers récents
   - Ctrl + Shift + E : Emplacements récents
   - Ctrl + G : Aller à la ligne
+
+  script location : C:\Users\a.lormeau\AppData\Roaming\JetBrains\IntelliJIdea2024.3\consoles\ide

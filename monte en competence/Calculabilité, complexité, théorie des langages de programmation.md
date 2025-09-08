@@ -1,0 +1,3 @@
+
+- automate cellulaire
+- Compilateur, interpréteur

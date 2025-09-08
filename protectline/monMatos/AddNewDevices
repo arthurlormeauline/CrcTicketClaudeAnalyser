@@ -1,0 +1,70 @@
+[
+    {
+        "serialNumber": 3038817,
+        "model": "GRP-CAMERA-INT",
+        "location": "default",
+        "locationDetail": "Celine",
+        "constructor": "Crow",
+        "parentId": "Crow-0013A1259658",
+        "additionnalInfos": {
+            "macAdresse": "0013A1201610",
+            "constructorId": "0013A1201610",
+            "userId": "GBHUSERTUS000",
+            "contractId": "GBHCIDTUS000"
+        }
+    },
+    {
+        "serialNumber": 3038817,
+        "model": "GRP-CAMERA-INT",
+        "location": "default",
+        "locationDetail": "Celine",
+        "constructor": "Crow",
+        "parentId": "Crow-0013A1259658",
+        "parameters": {
+            "key1": "values",
+            "key2": "values"
+        },
+        "additionnalInfos": {
+            "macAdresse": "0013A1201610",
+            "constructorId": "0013A1201610",
+            "userId": "GBHUSERTUS000",
+            "contractId": "GBHCIDTUS000"
+        }
+    }
+    {
+        "serialNumber": 3038817,
+        "model": "GRP-CAMERA-INT",
+        "location": "default",
+        "locationDetail": "Celine",
+        "constructor": "Crow",
+        "parentId": "Crow-0013A1259658",
+        "parameters": {
+            "key1": "values",
+            "key2": "values"
+        },
+        "additionnalInfos": {
+            "macAdresse": "0013A1201610",
+            "constructorId": "0013A1201610",
+            "userId": "GBHUSERTUS000",
+            "contractId": "GBHCIDTUS000"
+        }
+    },
+    {
+        "serialNumber": 3038817,
+        "model": "GRP-CAMERA-INT",
+        "location": "default",
+        "locationDetail": "Celine",
+        "constructor": "Crow",
+        "parentId": "Crow-0013A1259658",
+        "parameters": {
+            "key1": "values",
+            "key2": "values"
+        },
+        "additionnalInfos": {
+            "macAdresse": "0013A1201610",
+            "constructorId": "0013A1201610",
+            "userId": "GBHUSERTUS000",
+            "contractId": "GBHCIDTUS000"
+        }
+    }
+]

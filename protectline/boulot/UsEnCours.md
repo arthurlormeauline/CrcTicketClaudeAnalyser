@@ -1,3 +1,4 @@
 # Us en cours
 
-SIU-5821 Telesurveillance retrait des numéros
+SIU-5959 et SIU-5960 Streaming cegedev
+

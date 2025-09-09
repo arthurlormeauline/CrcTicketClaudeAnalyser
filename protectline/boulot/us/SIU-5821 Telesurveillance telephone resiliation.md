@@ -1,0 +1,45 @@
+# SIU-5821 Telesurveillance retrait des numéros de tel quand resiliation
+## Résumé 
+
+dev fini et testé en local good, maintenant en code review
+
+## Data
+
+pour créer contrat chez Cegedev : {
+	"metadata": { 
+		"messageId" : "110e8401-e29c-11d5-a717-446655440001",
+		"callerId" : "teamOperation.teamtool",
+		"messageType" : "POST"
+    },
+	"customer": {
+		"firstname" : "Patrick",
+		"lastname" : "GBHUSERTUS000",
+		"address" : {
+			"line1" : "4-5 avenue des freres lumiere",
+			"line2" : "Batiment 7A",
+			"postalCode" : "75001",
+			"city" : "Paris"
+		},
+		"mobilePhoneNumber" : "0612121212",
+		"email" : "arthur.lormeau@protectline.fr",
+		"secretCode" : "1234"				
+	},
+	"contract": {
+		"contractId" : "GBHCIDTUS000",
+		"offer" : "GBH01",
+		"supplier" : "Groupama"
+	}
+}
+
+pour resilier : 
+  {
+	"metadata": { 
+		"messageId" : "110e8401-e29c-11d5-a717-446655440001",
+		"callerId" : "teamOperation.teamtool",
+		"messageType" : "PATCH"
+    },
+	"contract": {
+		"contractId" : "GBHCIDTUS000",
+        "terminationDate" : "2025-09-07"
+	}
+}

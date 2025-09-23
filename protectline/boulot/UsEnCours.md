@@ -1,4 +1,3 @@
 # Us en cours
 
-SIU-5703 : amélioration ux event fe
-
+SIU-5941 : DataEnricher Safehome

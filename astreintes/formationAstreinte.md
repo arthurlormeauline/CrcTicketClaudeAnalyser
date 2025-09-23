@@ -17,6 +17,12 @@ alarme cloudwatch
 -> maintenance msk : ça fouare mais c'est moins grave / faut juste attendre la fin de la maintenance, puis redémarrer le datajs (une fois par mois, les mardi soir vers 21h)
 kubectl rollout restart deploy dataenricher-js 
 
+après re démarrage de data js on regarde les topics : 
+- teamusages.dataEnrichementCrow.heartbeat.save
+- teamusages.dataEnrichement.heartbeatSercomm.send
+si c'est dans les choux, on empty topic et on redémarre data js encore une  fois
+
+
 ### gateway dec
 
 vie d'une alarme :

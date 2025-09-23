@@ -1,0 +1,29 @@
+# Grooming du 10 septembre 2025
+
+-------- à faire ensemble non ?
+## SIU-5704 [Alarm] Durée de retention des données
+- estimation : 3/20
+
+## SIU-5739 [Traçabilité] Durée de retention des données
+- estimation : 3/20
+--------- estimation conjointe : 6/20
+
+
+----------
+## SIU-6100 [DataInjestor] traitement télémétrie crow
+-> dependance avec le 6033 non ? 
+- estimation : 10/20 
+
+## SIU-6033 Création d’un topic Kafka pour les données de télémétrie d’une centrale d’alarme
+Demander à Crow pour alimenter le kafka -> comment on fait ça ?
+- estimation : 2/20
+--------
+
+
+## SIU-6031 [Defaut Pile] : Amélioration du rappel de défaut de pile
+-> process camunda ? Quel est le nom exacte du process ? Quel moyen de tester (on génère un defaut pile)?
+Quel est le scénario de test d'acceptance ?
+- estimation : 5/20 - 10/20 (en fonction de la complexité du scénario)
+
+## SIU-5985 [CROW] TNR et validation du mediator-REST 5.2
+Tests en QA

@@ -1,0 +1,10 @@
+Je veux que tu regardes dans le code, je t'ai laissé plusieurs todos (4 en tout : AuthorizationUtilTest, TokenUtilsTest, AuthorizationUtil et TokenUtils).
+
+Je veux que tu implémente ce qui est demandé.
+
+Plusieurs règles : 
+- pas de commentaire (et pas d'emojis)
+- tu fais du tdd : tu fais les tests avant de faire le code, les tests nouveaux (ou les modifications apportées aux tests déjà existant)
+doivent rendre compte des nouvelles implémentations. Les tests doivent ne pas passer avant l'implémentation du code. Ensuite tu commits.
+Ensuite tu implémentes les nouvelles fonctionalitées avec le minimum de code pour que les tests passent. Une fois que les tests passent,
+tu commits. 

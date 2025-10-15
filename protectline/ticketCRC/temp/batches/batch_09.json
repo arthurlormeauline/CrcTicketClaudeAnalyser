@@ -1,0 +1,272 @@
+[
+  {
+    "ticket_id": 1107436,
+    "contract_id": "MPG42MRADDG5",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1107436",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG42MRADDG5",
+    "creation_date": "2025-08-21",
+    "has_usage_mention": false,
+    "all_comments": [
+      "je lui demande d'activer et désactiver le système mais client ne sait pas faire , appels long transfert n2\n\nLe client a signalé un problème avec son téléphone et son alarme, qui s'est déclenchée alors qu'il était à l'intérieur. Il a exprimé des frustrations concernant la caméra qui restait allumée et le changement de fond d'écran de son téléphone. L'agent a expliqué que la lumière bleue de la caméra était normale et a tenté de guider le client pour activer le système d'alarme, mais le client a rencontré des difficultés. L'agent a décidé de transférer le cas au service technique de niveau deux",
+      "Traitement N2 \nClient contacté \nsa caméra ne ce met pas en mode privé malgré un redémarrage et un reboot de la caméra \n@ref que peut on faire ?"
+    ]
+  },
+  {
+    "ticket_id": 1105987,
+    "contract_id": "MPC42EWZA526",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1105987",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC42EWZA526",
+    "creation_date": "2025-08-20",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le client appelle car sa caméra extérieure est déconnectée pendant ses vacances, ce qui l'inquiète. L'agent explique que la caméra est déconnectée depuis le 1/10 à 20h01 et que cela pourrait être dû à des problèmes de réseau. Il conseille de vérifier la connexion à son retour. Le client exprime sa frustration de ne pas pouvoir surveiller sa propriété. L'agent assure que le reste du système fonctionne. Degré de satisfaction : 6.\n\nUne fois rentrée faire un speed test avec la client + ré appairage de la cam ext",
+      "Mail client : Bonjour\nNous avons contactés vos services ce jour (39 00),Notre caméra extérieur ne fonctionne plus subitement depuis lundi 20h , nous sommes en vacances et nous ne sommes pas rassurés . nous allons attendre de rentrer comme nous la demander votre conseiller .\ncordialement Mme Flament\n\nréponse : Madame FLAMENT, \n\nVotre demande concernant le contrat Orange Maison Protégée a été prise en compte.\n\nNous avons bien observé une déconnexion de la caméra extérieure depuis le 18 août 2025.\n\nNous vous recommandons donc de nous contacter au 3900 une fois à votre domicile pour réappairer cette caméra extérieure.\n\nRestant à votre disposition pour toute question supplémentaire,\n",
+      "Le client appelle pour signaler le vol de sa caméra extérieure et exprime sa frustration face à l'inefficacité du système de sécurité. Il s'inquiète de la possibilité de récupérer des images vidéo et de porter plainte. L'agent propose d'envoyer un technicien pour remplacer la caméra sans frais, mais le client reste insatisfait de la sécurité offerte. Le client note une insatisfaction générale concernant la protection de sa maison. Degré de satisfaction : 3.\n\n@ref Le client a subi un vol sur sa caméra extérieure et son panneau de signalisation. Il souhaite savoir pourquoi rien n’a été détecté, alors que le système a détecté un mouvement du voisin juste avant devant cam ext..\n18/08 dans les alentours de 20h \nsav cam ext ok",
+      "Dossier effraction constitué \nLe client a activé son système le 20 août à 19h55.\nNous ne disposons d’aucun clip vidéo concernant les individus ayant volé la caméra extérieure.\nPourtant, à 19h44, la caméra avait bien remonté une alarme suite au passage du voisin devant la porte.\nNous ne comprenons pas pourquoi aucune alarme n’a été déclenchée lors du vol de la caméra par les individus.",
+      "Relance usages par Teams par rapport à ce ticket : https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1158247",
+      "Vu avec Hanafi, je ne retrouve aucun évènement en date du 20 aout 2025.",
+      "Je te retourne le ticket car dans le M1, il apparait que le client a bien armé son système le 20 aout (voir en pj) "
+    ]
+  },
+  {
+    "ticket_id": 1102790,
+    "contract_id": "MPA43SB4DDL9",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1102790",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA43SB4DDL9",
+    "creation_date": "2025-08-18",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "Caméra extérieure ré appairé, je test pour voir si fonctionnel la caméra ne détecte pas le client alors que le client à bien attendu les 6 min avant que la caméra s'active, cour dégagé et zooning en PJ, le client attend le retour du service informatique (@usages) \n\nLe client a appelé concernant sa caméra extérieure qui ne fonctionnait pas. L'agent a guidé le client pour débrancher la caméra, appuyer sur le bouton marche pendant 5 secondes, et générer un QR code via l'application. Après plusieurs tentatives, la caméra a été reconnectée, mais la détection ne fonctionnait toujours pas. L'agent a promis de relancer le service technique pour résoudre le problème. Degré de satisfaction : 5."
+    ],
+    "all_comments": [
+      "Réponse mail :\n\nMonsieur VANDAELE,\n\nVotre demande concernant le contrat Orange Maison Protégée a été prise en compte.\n\nDans un premier temps, nous vous invitons à vérifier que toutes les autorisations ont bien été accordées à l'application Orange Maison Protégée.\n\nPour cela, il faut aller dans les paramètres de votre téléphone afin de trouver l'application. \n\nRestant à votre disposition pour toute question supplémentaire,",
+      "Le client a signalé un problème avec sa caméra extérieure qui ne lui envoie pas de notifications lors de passages devant celle-ci. L'agent a expliqué que des faux positifs étaient détectés, mais a reconnu qu'il y avait un problème avec la caméra. Le client a également mentionné un souci de temporisation avec l'alarme. L'agent a promis de résoudre ces problèmes et de rappeler le client pour un suivi.\n\n@refs comme constaté avec le client et Lison aucun des clips pris par la cam ext a été remonté sur le mobile du client car détecté comme faux positifs or ce n'est pas absolument pas le cas notamment les clips du 16/08\npouvez-vous voir avec Usages si les filtres ont été trop \"poussés\" sur cette cam ext, si nous pouvons faire qqc a distance ou si je dois la changer svp ? ",
+      "Pouvez-vous regarder pourquoi, lors des tests le 16/08/2025, cela remonte en faux positif alors que sur le simage nous avons bien le client au milieu de sa cour ?\n\nFaux positif détecté\nExtérieur\tcaméra Ext –\t15/08/2025 22:20:05\nclip négatif\nExtérieur\tcaméra Ext –\t15/08/2025 22:20:05",
+      "Le client revient vers nous.\n\nLe problème persiste",
+      "Le client a contacté le service technique d'Orange pour un problème avec une caméra extérieure de son alarme, qui ne lui envoie pas de notifications lors de détections. L'agent a expliqué que le dossier est en cours de traitement par le service informatique et que des tests sont effectués, ce qui prend du temps. Le client a exprimé son inquiétude, mais l'agent l'a rassuré en lui promettant un retour dès que possible. Degré de satisfaction : 7.",
+      "Caméra extérieure ré appairé, je test pour voir si fonctionnel la caméra ne détecte pas le client alors que le client à bien attendu les 6 min avant que la caméra s'active, cour dégagé et zooning en PJ, le client attend le retour du service informatique (@usages) \n\nLe client a appelé concernant sa caméra extérieure qui ne fonctionnait pas. L'agent a guidé le client pour débrancher la caméra, appuyer sur le bouton marche pendant 5 secondes, et générer un QR code via l'application. Après plusieurs tentatives, la caméra a été reconnectée, mais la détection ne fonctionnait toujours pas. L'agent a promis de relancer le service technique pour résoudre le problème. Degré de satisfaction : 5.",
+      "Le client appelle concernant une caméra extérieure qui ne détecte pas les véhicules, malgré des tests effectués. Il mentionne que cela fait un mois qu'il paye pour un service non fonctionnel. L'agent confirme qu'il va remonter le problème et demande un remboursement de 8 € pour la facture. Le client exprime sa frustration face à la situation, mais l'agent assure qu'il fera le nécessaire. Degré de satisfaction : 6.\n\n- Faire remonter le problème de détection des véhicules au service technique.\n- Demander un remboursement de 8 € pour le client."
+    ]
+  },
+  {
+    "ticket_id": 1102509,
+    "contract_id": "MPG3ZBFLNRNT",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1102509",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG3ZBFLNRNT",
+    "creation_date": "2025-08-18",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages problème de détection cam ext quelle action mener svp ?"
+    ],
+    "all_comments": [
+      "on ne s'entend pas , elle nous recontacte ",
+      "Le client a contacté le service technique pour des problèmes avec sa caméra extérieure, qui n'a pas détecté d'intrusion alors que son fils est venu chez lui. L'agent a expliqué qu'il y avait eu un faux positif et a proposé de faire des tests lorsque le client sera chez lui. Le client a également mentionné un délai de mise en route de l'alarme extérieure. Le client semble satisfait de l'assistance reçue, notant son degré de satisfaction à 7.",
+      "Le client appelle car il ne recevrait pas les notifications de clips intrusion sur son téléphone\n(le client ne nous avait jamais rappelé pour faire des essais) \nappel long transfert @N2",
+      "N2 \ninj mvl sms ",
+      "Le client a signalé des problèmes avec sa caméra extérieure, ne recevant pas les alertes d'intrusion. L'agent a guidé le client pour modifier la zone de détection via l'application, confirmant que les zones de passage étaient bien configurées. Malgré cela, la caméra n'a pas pris de photos lors des passages. L'agent a promis de transmettre le problème à l'équipe informatique pour analyse. Le client a exprimé une certaine frustration face à la situation. Degré de satisfaction : 6.\n\nModification de la zone de zooning (en PJ) \nla client à bien attendu le délai avant de traverser pas de détection ni de faux positif\nTUS ok \n\n",
+      "Traitement N2*",
+      "@Ref, la détection est KO malgré les tests y a t-il une action supplémentaire à faire ? ",
+      "@Usages problème de détection cam ext quelle action mener svp ?"
+    ]
+  },
+  {
+    "ticket_id": 1103177,
+    "contract_id": "MPA43D2MH5DX",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1103177",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA43D2MH5DX",
+    "creation_date": "2025-08-18",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@usages vous pouvez checker l'état de la caméra à distance svp? et essayer de comprendre pourquoi le client n'arrive pas à la reconnecter à sa box fibre? "
+    ],
+    "all_comments": [
+      "Le client s'est rendu en boutique pour sa cam int qui ne se reconnecte pas ( fiche navette en PJ ) , je tente donc de le contacter mais inj impossible de laisser un mvl >> N2",
+      "Traitement N2 \nClient appelle c",
+      "Traitement N2 \nCliente iNMVL ",
+      "Pouvez-vous lui envoyer un mail si elle ne répond pas aux appels svp ?",
+      "N2 pouvez vous tentez une nouvelle fois et faire un mail si INJ",
+      "Traitement N2: \n\nLe client a signalé un problème avec sa caméra intérieure qui ne fonctionne plus depuis le passage à la fibre. Il a tenté de la reconnecter sans succès, notamment lors du scan du QR code. L'agent a proposé d'utiliser la fonctionnalité WPS pour reconnecter la caméra et a suggéré de rappeler lorsque le client serait disponible. Le client a apprécié le suivi et a convenu de rappeler le lendemain. Degré de satisfaction : 8.\n\n@RD, le client n'a pas pu manipuler avec nous aujourd'hui car il a un RDV médical très important, mais nous avons convenu qu'il nous recontacte demain. Si la manipulation ne réussi pas un SAV caméra sera lancé",
+      "@usages vous pouvez checker l'état de la caméra à distance svp? et essayer de comprendre pourquoi le client n'arrive pas à la reconnecter à sa box fibre? ",
+      "Callback INJ+Mvl",
+      "Le client a demandé à l'agent de contacter son époux, en fournissant le numéro 0687218002. L'agent a confirmé le numéro et a remercié le client pour sa coopération. Le client a exprimé sa satisfaction pour l'assistance reçue. Degré de satisfaction : 9.\nSppedTest : Livebox 7 :  \nTéléchargement : 36.2\nTransfert : 26.1\nLe client a contacté le service technique concernant des problèmes de connexion de sa caméra intérieure après un changement de Livebox en août. Il a signalé que la caméra se désactive et que le voyant est rouge, indiquant que la lentille est cachée. L'agent a expliqué que cela est normal si aucun mouvement n'est détecté. Après avoir effectué un test de vitesse Internet, l'agent a confirmé que la connexion était bonne et a promis de faire remonter le problème au service informatique. Degré de satisfaction : 8.\n\n"
+    ]
+  },
+  {
+    "ticket_id": 1101469,
+    "contract_id": "MPC434AG6NJW",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1101469",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC434AG6NJW",
+    "creation_date": "2025-08-16",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@usages\nvoir message au dessus de Aniça\npossible  ou pas que ce soit lié ??"
+    ],
+    "all_comments": [
+      "Le client appelle pour signaler qu'il ne reçoit plus de notifications ou d'appels du centre de télésurveillance en cas d'intrusion. L'agent examine le dossier et constate que des SMS ont été envoyés, mais le client ne les reçoit pas. Ils conviennent de faire un test lorsque le client sera disponible. Le client semble frustré par la situation, mais l'agent assure qu'ils vont remonter l'information. Degré de satisfaction : 6.",
+      "Le client appelle pour signaler qu'il ne reçoit pas les notifications par SMS ni les appels du centre de télésurveillance en cas d'intrusion. Il a effectué un test d'alarme, mais n'a reçu que des notifications via l'application. L'agent lui suggère de vérifier les paramètres de son téléphone, mais le client insiste sur le fait que le problème est survenu après un souci de paiement. Le client semble frustré par la situation. Degré de satisfaction : 3.",
+      "Client ne recoit pas les messages en cas d'intrusion ni appel depuis sa suspension de contrat suite à un impayé\nJe vois que le message est bien envoyé dans les évènement, client recoit les message pour réinitialiser le mdp\nJe demande au client de voir en boutique apple ou avec le service iphone pour savoir pq ne recoit rien\nClient refuse et maintient que ca vien de chez nous, je lui prévient que pb peut prendre plusieurs semaines avant d'etre résolu mais client ne veut tjr pas aller chez apple\n@ref\nClient ne recoit plus les message ni appel en cas d'intrusion sur son tel depuis une suspension de service suite à impayé en juin 2025\nClient n'a pas de filtre dans ses messages pouvez-vous voir à quoi ca peut etre dut ?",
+      "@Melissa, il nous faut des infos concernant le téléphone (modèle, version d'iOS, ...)",
+      "Le client a contacté le service pour signaler qu'il ne reçoit plus les notifications d'intrusion depuis une suspension de service. Il utilise un iPhone 12 avec l'application Maison Protégée version 4.9.2. Le client a vérifié les paramètres et a confirmé que son conjoint rencontre le même problème. L'agent a pris note des informations pour les transmettre au service informatique pour une analyse plus approfondie. Le degré de satisfaction du client est de 7.\n\n@ref\nModèle du tel : iPhone 12\nVersion app : 4.9.2\nNuméro de contrat : MPC434AG6NJW\nTéléphone pro : non\nProblème nouveau : depuis la suspension de service suite à impayé en juin 2024\nVPN : non\nWi-fi/4G,5G : les deux ko\nPlusieurs pers avec accès à l'appli : ne reçoivent que les notifs de l'appli mais ni les sms ni les appels en cas d'intrusion\nOpérateur mobile + box : orange",
+      "PI @relation distrib\nModèle du tél. : iPhone 12 \nVersion app : 4.9.2 \nNuméro de contrat : MPC434AG6NJW \nTéléphone pro : non \nProblème nouveau : depuis la suspension de service suite à impayé en juin 2024 \nVPN : non \nWi-Fi/4G, 5G : les deux ko \nPlusieurs pers. avec accès à l'appli : ne reçoivent que les notifs de l'appli mais ni les SMS ni les appels en cas d'intrusion \nOpérateur mobile + box : Orange \n\nDepuis une suspension de service, le client ne reçoit plus les notifications d'intrusion.",
+      "@offres qu'en pensez-vous, la suspension de service peut avoir un lien avec la non réception des notifications en cas d'intrusion? cela pourrait être un bug? ",
+      "@usages\nvoir message au dessus de Aniça\npossible  ou pas que ce soit lié ??"
+    ]
+  },
+  {
+    "ticket_id": 1101813,
+    "contract_id": "MPC42TPKM7CN",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1101813",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC42TPKM7CN",
+    "creation_date": "2025-08-16",
+    "has_usage_mention": false,
+    "all_comments": [
+      "@ref pour remonté appli\n\nModèle du tel : samsung zed flip6\nVersion app : 4.9.2, 22.07.25\nNuméro de contrat : MPC42TPKM7CN\nTéléphone pro : les deux\nProblème nouveau : depuis qu'elle a changé de tel (3 mois)\nVPN : non\nWi-fi/4G,5G : wifi\nPlusieurs pers avec accès à l'appli : non\nOpérateur mobile + box : orange",
+      "@RD, cliente n'arrive pas à se connecter à l'appli depuis qu'elle a changé de mobile.\nMessage d'erreur \"ID ou MDP incorrect\" et cliente ne reçoit pas le SMS avec le code de vérif lorsqu'elle fait le parcours MDP Oublié.\nModèle du tel : samsung zed flip6 \nVersion app : 4.9.2, 22.07.25 \nNuméro de contrat : MPC42TPKM7CN \nTéléphone pro : les deux \nProblème nouveau : depuis qu'elle a changé de tel (3 mois) \nVPN : non \nWi-fi/4G,5G : wifi \nPlusieurs pers avec accès à l'appli : non \nOpérateur mobile + box : orange \n\nPouvez-vous regarder ce qu'il en est, svp?\n",
+      "Pouvez-vous regarder si on a reçu une demande de changement de SMS et si on a envoyé le sms ?"
+    ]
+  },
+  {
+    "ticket_id": 1101687,
+    "contract_id": "MPC438APUUX5",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1101687",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC438APUUX5",
+    "creation_date": "2025-08-16",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages, alertes intrusion le 16/08 à 1h39 tandis que le système est désarmé et est en cours d'armement partiel. Pas de SMS conversationnel, ni d'appel de CGDV.\nDisparition intrusion à 10h43 (sur le CRM) mais qui remonte à ce moment là en apparition intrusion auprès de CGDV et génère le SMS et la prise en charge par CGDV.\n\nCRM:\nAlerte intrusion  Entrée\tdoshock\t-\t16/08/2025 10:44:12\nsms conversationnel Intrusion contact 1 +33768260820 -\t-\t-\t16/08/2025 10:43:27\nAlerte intrusion Entrée\tdoshock\t-\t16/08/2025 10:43:16  \nActivation partielle Entrée\tkeypad\tMoundji\t16/08/2025 01:39:49\nDésactivation -\tgateway\tCheyma\t16/08/2025 01:39:40\nActivation partielle  Entrée\tkeypad\tMoundji\t16/08/2025 01:39:39\nAlerte intrusion  Entrée\tdoshock\t-\t16/08/2025 01:39:26\nAlerte intrusion  Entrée\tdoshock\t-\t16/08/2025 01:39:26\n\nM1:\n16/08/25 10:44:43, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Alarme à traiter doshock Entrée null\n16/08/25 10:44:30, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Intrusion doshock Entrée\n16/08/25 10:44:22, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Disparition intrusion\n16/08/25 10:43:27, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Intrusion doshock Entrée\n16/08/25 10:43:27, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Disparition intrusion\n16/08/25 01:39:52, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Désarmement Partiel gateway Cheyma\t\n15/08/25 18:40:56, ven. BOUCHAIB Moundji PTL-MPC438APUUX5 Désarmement Partiel gateway Cheyma\n\nLe client veut savoir s'il y a vraiment eu une alerte. Et quand, car il y a 9h d'écart entre les 2 historiques concernant l'apparition de l'alerte.\nSauriez-vous y voir plus clair, svp?"
+    ],
+    "all_comments": [
+      "Le client appelle pour signaler des alertes d'intrusion reçues par son père, qui a été très inquiet. L'agent confirme qu'il y a eu des alertes à 1h39 et 10h44, mais explique que la seconde alerte ne correspond pas à une intrusion réelle. Le client exprime sa frustration face à la situation et l'agent promet de remonter l'information pour clarification. Le degré de satisfaction du client est de 6.\n\n@refs sur le CRM alerte à 1h39 alors que le système était deja MHS et de plus l'alerte chez CEGEDEV n'est remonté qu'a 10h47 car client n'a reçu l'appel qu'a cette heure, \n\npouvez-vous analyser cela svp ? \n\n",
+      "@Usages, alertes intrusion le 16/08 à 1h39 tandis que le système est désarmé et est en cours d'armement partiel. Pas de SMS conversationnel, ni d'appel de CGDV.\nDisparition intrusion à 10h43 (sur le CRM) mais qui remonte à ce moment là en apparition intrusion auprès de CGDV et génère le SMS et la prise en charge par CGDV.\n\nCRM:\nAlerte intrusion  Entrée\tdoshock\t-\t16/08/2025 10:44:12\nsms conversationnel Intrusion contact 1 +33768260820 -\t-\t-\t16/08/2025 10:43:27\nAlerte intrusion Entrée\tdoshock\t-\t16/08/2025 10:43:16  \nActivation partielle Entrée\tkeypad\tMoundji\t16/08/2025 01:39:49\nDésactivation -\tgateway\tCheyma\t16/08/2025 01:39:40\nActivation partielle  Entrée\tkeypad\tMoundji\t16/08/2025 01:39:39\nAlerte intrusion  Entrée\tdoshock\t-\t16/08/2025 01:39:26\nAlerte intrusion  Entrée\tdoshock\t-\t16/08/2025 01:39:26\n\nM1:\n16/08/25 10:44:43, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Alarme à traiter doshock Entrée null\n16/08/25 10:44:30, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Intrusion doshock Entrée\n16/08/25 10:44:22, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Disparition intrusion\n16/08/25 10:43:27, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Intrusion doshock Entrée\n16/08/25 10:43:27, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Disparition intrusion\n16/08/25 01:39:52, sam. BOUCHAIB Moundji PTL-MPC438APUUX5 Désarmement Partiel gateway Cheyma\t\n15/08/25 18:40:56, ven. BOUCHAIB Moundji PTL-MPC438APUUX5 Désarmement Partiel gateway Cheyma\n\nLe client veut savoir s'il y a vraiment eu une alerte. Et quand, car il y a 9h d'écart entre les 2 historiques concernant l'apparition de l'alerte.\nSauriez-vous y voir plus clair, svp?"
+    ]
+  },
+  {
+    "ticket_id": 1101112,
+    "contract_id": "MPG42LSUF4GN",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1101112",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG42LSUF4GN",
+    "creation_date": "2025-08-14",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "COPILOT : L'agent lui demande de débrancher et rebrancher la caméra, mais celle-ci ne s'allume pas. Après plusieurs tentatives, l'agent informe le client qu'une nouvelle caméra sera envoyée par voie postale. Le client mentionne également des erreurs techniques avec un autre équipement. L'agent promet de transmettre le dossier à ses responsables pour résoudre le problème. \n\nWPS KO - LIVEBOX 5\n\nLa caméra ne s'allume pas aucun voyant donc plus fonctionnel, même après avoir testé plusieurs prises et débrancher rebrancher câble au dos de la cam, je lance SAV dessus.\n\nClient évoque également des déclenchements intempestifs en date du 02/08 vu sur M1 je confirme que plusieurs détecteurs ont déclenché sans raison apparente, personne au domicile, pas d'animaux sur place, il n'y a pas eu de tentative d'effraction suite à l'inter d'AQUILA et des FO. \n\nAprès avoir vu avec Ambre qui tout comme moi ne comprend pas le dossier, je rappelle le client afin de lui dire que j'envoie le dossier pour qu'il soit étudié par le service concerné mais inj msg vocal laissé f7c6b2dabdc84652a62d2ae327b20d01\n\n\n@Usages, pouvez-vous m'expliquer pourquoi plusieurs détecteurs ont déclenché le système en date du 02/08 alors qu'il n'y avait personne dans la maison, pas d'animaux, pas d'effraction (les forces de l'ordre et un agent de sécu Aquila se sont déplacés et n'ont rien constaté, aucun cambriolage le client me le confirme au tel) svp ? \n\n\nAlerte intrusion\nSalon\tpir\t-\t02/08/2025 22:34:52\n\nAlerte intrusion\nSalon\tpir\t-\t02/08/2025 22:34:52\n\nAlerte intrusion\nSéjour\tpircam\t-\t02/08/2025 22:34:46\n\nAlerte intrusion\nSéjour\tpircam\t-\t02/08/2025 22:34:45\n\nAlerte intrusion\nCouloir\tpir\t-\t02/08/2025 22:29:56\n\nAlerte intrusion\nCouloir\tpir\t-\t02/08/2025 22:29:56"
+    ],
+    "all_comments": [
+      "COPILOT : L'agent lui demande de débrancher et rebrancher la caméra, mais celle-ci ne s'allume pas. Après plusieurs tentatives, l'agent informe le client qu'une nouvelle caméra sera envoyée par voie postale. Le client mentionne également des erreurs techniques avec un autre équipement. L'agent promet de transmettre le dossier à ses responsables pour résoudre le problème. \n\nWPS KO - LIVEBOX 5\n\nLa caméra ne s'allume pas aucun voyant donc plus fonctionnel, même après avoir testé plusieurs prises et débrancher rebrancher câble au dos de la cam, je lance SAV dessus.\n\nClient évoque également des déclenchements intempestifs en date du 02/08 vu sur M1 je confirme que plusieurs détecteurs ont déclenché sans raison apparente, personne au domicile, pas d'animaux sur place, il n'y a pas eu de tentative d'effraction suite à l'inter d'AQUILA et des FO. \n\nAprès avoir vu avec Ambre qui tout comme moi ne comprend pas le dossier, je rappelle le client afin de lui dire que j'envoie le dossier pour qu'il soit étudié par le service concerné mais inj msg vocal laissé f7c6b2dabdc84652a62d2ae327b20d01\n\n\n@Usages, pouvez-vous m'expliquer pourquoi plusieurs détecteurs ont déclenché le système en date du 02/08 alors qu'il n'y avait personne dans la maison, pas d'animaux, pas d'effraction (les forces de l'ordre et un agent de sécu Aquila se sont déplacés et n'ont rien constaté, aucun cambriolage le client me le confirme au tel) svp ? \n\n\nAlerte intrusion\nSalon\tpir\t-\t02/08/2025 22:34:52\n\nAlerte intrusion\nSalon\tpir\t-\t02/08/2025 22:34:52\n\nAlerte intrusion\nSéjour\tpircam\t-\t02/08/2025 22:34:46\n\nAlerte intrusion\nSéjour\tpircam\t-\t02/08/2025 22:34:45\n\nAlerte intrusion\nCouloir\tpir\t-\t02/08/2025 22:29:56\n\nAlerte intrusion\nCouloir\tpir\t-\t02/08/2025 22:29:56"
+    ]
+  },
+  {
+    "ticket_id": 1100992,
+    "contract_id": "MPC43ND39XG6",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1100992",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC43ND39XG6",
+    "creation_date": "2025-08-14",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "Le client appelle pour signaler que son alarme s'active sans qu'il l'ait réactivée, ce qui lui cause des frustrations. Il mentionne avoir déjà rencontré ce problème et demande l'intervention d'un technicien. L'agent insiste sur le fait que l'alarme ne peut pas s'activer seule, ce qui aggrave la colère du client. Finalement, l'agent promet de transmettre le dossier au service informatique. Degré de satisfaction : 2.\n\nJ'ai vérifié il y'a bien eu une activation du système \nLe client maintient qu'il n'a pas activé l'accès pour sa femme, et qu'il est le seul à avoir accès.\n\nActivation partielle-\tgateway\tJean Luc\t27/08/2025 14:47:54 \n\n@Réf pouvez-vous vérifier avec @Usage d'où provient l'activation, car le client maintient qu'il n'a pas activé le système et que cela s'est produit deux fois. svp merci ",
+      "@Usages, avez-vous la possibilité de connaître la source de l'activation partielle du 27/08 à 14h47, svp?\nClient maintient qu'il n'en est pas l'auteur, qu'il était sur place et qu'il est le seul à avoir accès à l'appli."
+    ],
+    "all_comments": [
+      "explication alarme ok ",
+      "Le client appelle pour signaler que son alarme s'active sans qu'il l'ait réactivée, ce qui lui cause des frustrations. Il mentionne avoir déjà rencontré ce problème et demande l'intervention d'un technicien. L'agent insiste sur le fait que l'alarme ne peut pas s'activer seule, ce qui aggrave la colère du client. Finalement, l'agent promet de transmettre le dossier au service informatique. Degré de satisfaction : 2.\n\nJ'ai vérifié il y'a bien eu une activation du système \nLe client maintient qu'il n'a pas activé l'accès pour sa femme, et qu'il est le seul à avoir accès.\n\nActivation partielle-\tgateway\tJean Luc\t27/08/2025 14:47:54 \n\n@Réf pouvez-vous vérifier avec @Usage d'où provient l'activation, car le client maintient qu'il n'a pas activé le système et que cela s'est produit deux fois. svp merci ",
+      "@Usages, avez-vous la possibilité de connaître la source de l'activation partielle du 27/08 à 14h47, svp?\nClient maintient qu'il n'en est pas l'auteur, qu'il était sur place et qu'il est le seul à avoir accès à l'appli.",
+      "Le client a signalé un problème avec son alarme qui s'active toute seule, ce qui a causé des frustrations lors d'un appel précédent. Il a expliqué qu'il désactive l'alarme chaque matin, mais qu'elle a sonné alors qu'il pensait qu'elle était désactivée. L'agent a informé le client que le problème avait été remonté au service technique et qu'il attendait un retour. Le client a exprimé son impatience face à la situation. Degré de satisfaction : 5.\n\nclient relance et confirme ne pas avoir activé l'alarme le 27/08 à 14h47 \nj'indique que sa demande est ECDT",
+      "Clt relance de nouveau, il me reconfirme qu'il n'a pas fait l'activation du 27/08 à 14h47  \nEt m'indique qu'il y'a d'autre MES en partiel qui ne sont pas de lui, notamment celle du 12/09 à 17h22\nIl y'a eu des déclenchements et le clt m'explique qu'il n'a pas activé le partiel car il était dans son studio de musique \nIl explique qu'il active le système le soir en partiel avant de dormir vers 23h environ et le désactive tous les matins vers 7h environ \nSinon en total quand il sort mais affirme qu'entre tps il n'active pas le système\n\nJe lui explique que sa demande est tjr en cours de traitement et je prends note de ses nouvelles infos \nClt ok"
+    ]
+  },
+  {
+    "ticket_id": 1099192,
+    "contract_id": "MPA42JLL266A",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1099192",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA42JLL266A",
+    "creation_date": "2025-08-13",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Réponse :\n\nMonsieur GILLE,\n\nVotre demande concernant le contrat Orange Maison Protégée a été prise en compte et a été transmise au service concerné qui reviendra prochainement vers vous.\n\nRestant à votre disposition pour toute question supplémentaire,\n\n\n@Hanafi, comme convenu ensemble par téléphone je te transmets le dossier pour Usages ",
+      "Le PIRCAM  sous la ref s/n 11473466 émet de temps à autre des flash lumineux alors que le système n'est pas armé. Est ce un comportement normal, pouvez vous corrigez cela ou devons nous réaliser une demande sav pour le remplacer ? \nLa cliente est anxieuse et pense que nous prenons des photos d'elle à distance "
+    ]
+  },
+  {
+    "ticket_id": 1098904,
+    "contract_id": "MPC42KB4G29J",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1098904",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC42KB4G29J",
+    "creation_date": "2025-08-13",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages, la carte SIM ne prend pas le relais malgré une bonne couverture réseau (installation à Marseille) et 2 redémarrages (le 12 et 13/08).\nPouvez-vous regarder, svp? Le client a eu une coupure internet durant ses congés et demande un GC car dit ne pas avoir reçu de notif d'ATC."
+    ],
+    "all_comments": [
+      "Centrale connec au SI PTL OK mais aucune autre info\n5min d'att toujours aucune remonté, màj reboot impossible \nClient pas chez lui va voir si quelqu'un peut aller sur place ",
+      "Le client appelle car son alarme ne fonctionne plus alors qu'il est à l'étranger. Il exprime son angoisse face à cette situation et demande des informations sur les appels en absence d'Orange. L'agent explique que le problème pourrait venir de la connexion et qu'il n'y a pas d'informations sur une panne. Le client se demande si quelqu'un peut intervenir pour vérifier le système, mais l'agent indique que cela ne peut pas se faire avant 20h. Le client semble satisfait de l'échange, notant un degré de satisfaction de 6.",
+      "Le client a contacté le service client pour signaler un problème avec son alarme, qui a été désactivée par une personne ayant un badge. Il est à l'étranger et ne peut pas contrôler l'alarme via l'application. L'agent a proposé de débrancher la centrale et le câble RJ 45 pendant 30 secondes pour réinitialiser le système. Le client a convenu de faire cela avec une personne qui viendra chez lui dans 1 heure.",
+      "Message :\n\nBonjour,\nJe n’arrive pas à activer mon alarme à distance ni à prendre de photo depuis hier.\nImpossible également de me connecter via le site web à mon espace.\nPouvez vous m’expliquer ce qu’il se passe ?\n\nCordialement,\n\nGUERIOT Bastien\n\nRéponse :\n\nMonsieur GUERIOT,\n\nNous accusons réception de votre demande concernant votre contrat Orange Maison Protégée\n\nAprès vérification, nous constatons qu'une réponse vous a déjà été apportée concernant votre demande. Si toutefois vous avez besoin de précisions complémentaires ou si une nouvelle question devait survenir, n'hésitez pas à contacter notre service client/technique au 3900 du lundi au samedi de 8h à 20h . \n\nNous vous remercions de votre confiance.\n",
+      "Le client appelle pour signaler un incident sur son alarme pendant ses vacances. Il a perdu l'accès à l'application car sa connexion Internet a été coupée par sa femme de ménage. Il s'inquiète de ne pas avoir reçu d'alerte et a dû appeler le service, entraînant des frais de 100 € depuis l'étranger. L'agent explique que la carte SIM ne prend pas le relais sans option. Le client exprime son mécontentement et demande un geste commercial. Degré de satisfaction : 3.\n\nje lui indique bien que la carte sim peut prendre le relais même si la fibre est coupée. Le client insiste sur le fait qu'il n'arrivait pas à piloter son système et que de notre côté nous n'avions pas d'info également. Malgré les explications données le client reste insatisfait et aimerait des explications ",
+      "@Usages, la carte SIM ne prend pas le relais malgré une bonne couverture réseau (installation à Marseille) et 2 redémarrages (le 12 et 13/08).\nPouvez-vous regarder, svp? Le client a eu une coupure internet durant ses congés et demande un GC car dit ne pas avoir reçu de notif d'ATC.",
+      "Le client a contacté le service technique concernant des problèmes avec son système de maison protégée. Il a signalé que sa femme de ménage avait déconnecté Internet, ce qui l'a empêché d'accéder à l'application. De plus, il a mentionné un flash suspect d'une caméra sans explication dans l'application. Le client a également exprimé son mécontentement face aux frais d'appel à l'étranger. L'agent a promis de relancer le dossier et de vérifier les équipements. j'informe au client qu'il n'y à pas de remontés de photo et un redémarrage sur ses équipements ainsi que son dossier est en ECDT   Degré de satisfaction : 5.",
+      "Le client a contacté le service technique d'Orange pour exprimer son mécontentement concernant l'absence de retour sur son dossier, qui est en cours depuis plusieurs mois. L'agent a confirmé que le dossier est toujours en analyse et qu'un retour est attendu de la part du service informatique. Le client a exprimé des doutes sur la durée du traitement, mais l'agent l'a rassuré en promettant un rappel dès qu'il y aura des nouvelles. Degré de satisfaction : 5."
+    ]
+  },
+  {
+    "ticket_id": 1097465,
+    "contract_id": "MPA3ZF9TDVCN",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1097465",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA3ZF9TDVCN",
+    "creation_date": "2025-08-12",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le client appelle pour signaler une alarme sur son équipement, spécifiquement sur la console de contrôle. Il exprime des frustrations concernant le manque de notifications sur l'état des piles, malgré une promesse initiale. L'agent explique que les piles doivent être changées et que les notifications sont envoyées à un seul numéro. Le client est mécontent de ne pas avoir été prévenu d'une alarme potentielle. Il demande des vérifications sur les notifications. Degré de satisfaction : 4.\n\n@ref le client n'a pas reçu de sms alertes pour le prévenir du l'état des piles faibles \nPile faible   Entrée\tkeypad\tCédric\t04/08/2025 13:21:20",
+      "Nom :  CHERRIER Cédric\n\nN° contrat : MPA3ZF9TDVCN\n\nEmail : cedric.cherrier@gmail.com\n\nMessage :\n\nBonjour,\nMon épouse s’est levée à 5h19 et a voulu désactiver l’alarme. Suite à son action j’ai reçu le sms suivant : Orange MP : le clavier avec sirène (Emplacement : Entrée / Numéro de série : 9429122) n'est plus connecté à la centrale. Vous pouvez contacter Orange.\nL’alarme ne sonne plus.\nCdt.\n\n \n\nCordialement,\n\nCHERRIER Cédric\n\nDT",
+      "Message :\n\nBonjour, hier notre nous nous sommes aperçus que l un de nos équipements ne fonctionnait plus. Après appel auprès du service client il nous a été indiqué que nous avions été informés le 4/08 du défaut de batterie de l appareil mais nous n avons reçu aucune information en ce sens. C est regrettable\n\nCordialement,\n\nCHERRIER Cédric\n\nRéponse :\n\nMonsieur CHERRIER,\n\nVotre demande concernant le contrat Orange Maison Protégée a été prise en compte\n\nNous vous informons que votre dossier a été pris en charge par notre collègue en date du 12 août.\nLe fait que vous n’ayez pas reçu de message concernant l’état des piles de votre clavier a bien été remonté au service concerné.\n \nVotre dossier est actuellement en cours de traitement et nous reviendrons vers vous prochainement afin de vous apporter une réponse complète.\n\nRestant à votre disposition pour toute question supplémentaire,"
+    ]
+  },
+  {
+    "ticket_id": 1098046,
+    "contract_id": "GLB240900627",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1098046",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB240900627",
+    "creation_date": "2025-08-12",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Il a déjà réinitialisé sa box, mais les caméras ne fonctionnent toujours pas. L'agent a conseillé de faire un test de débit et de vérifier les paramètres des caméras via l'application. Le client a exprimé sa frustration face à la situation, mais a décidé de réessayer les étapes suggérées. Degré de satisfaction : 5.",
+      "Le client appelle pour signaler un problème avec sa caméra de cuisine qui ne fonctionne pas après avoir changé de fournisseur Internet. Malgré plusieurs tentatives de réinitialisation, la caméra reste déconnectée. Le client exprime sa frustration face à la situation et demande si un technicien peut intervenir. L'agent assure que le système fonctionne malgré le problème de la caméra et promet de se renseigner sur la connectivité avec le routeur. Degré de satisfaction : 7\n\n@ref la cliente a routeur starlink et ne parvient pas à connecter sa cam int sercomm \npourtant elle a bien réussit a connecter sa cam ext, et est bien en 2.4hz \npouvez-vous me dire comment procéder pour la cam int svp ?  le routeur ne possède pas de  wps ",
+      "Il n'y a pas de bouton wps sur ce type de modem/routeur, la caméra n'arrive pas à se connecter au réseau wifi à l'étape dans laquelle nous présentons le QR code de l'appli à la caméra intér. Avons nous une solution ?  aussi nous ne pouvons pas encore proposer au client de passer sur une meari ",
+      "Compléments d'infos , nous réinitialisé la caméra intérieure mais sans résultat pour sa connexion \nla caméra ext est pourtant bien connectée au réseau wifi  \n",
+      "Nom : HELOU BERNADETTE\nVersion : GBHV2\nN° client : 06207193\nEmail : valeriedavid102@gmail.com\nMessage :\n\nBonjour, depuis le 12/08/2025 la caméra installée dans la cuisine ne fonctionne plus. impossible de la connecter même en réinitialisant elle ne s'allume pas. je vous remercie de bien vouloir revenir vers moi à ce sujet. Tél 06 21 09 36 27 Bien cordialement, Bernadette HELOU\n\nREPONSE :\n\nMadame HELOU,\n\nVotre demande concernant le contrat Box Habitat a été prise en compte.\n\nNous vous remercions de nous avoir contactés à propos de votre installation de sécurité. Après vérification, nous constatons que vous nous avez déjà contactés à ce sujet et qu'un dossier a été formulé auprès de nos services techniques.\n\nActuellement, vos équipements sont en cours d'analyse par notre équipe technique. Nous vous tiendrons informé dès que nous aurons une réponse ou des mises à jour concernant votre situation.\n\nNous vous remercions de votre patience et restons à votre disposition pour toute question supplémentaire.",
+      "Mail : \nBonjour , Dysfonctionnement sur ma caméra cuisine depuis le 12/08/2025. Elle ne s'ouvre plus. même en l'ayant réinitialisé. Tél 06 21 09 36 27. En vous remerciant de me contacter. Bien cordialement, Bernadette HELOU\nRéponse : \nMadame HELOU ,\n\nNous vous informons que notre équipe dédiée est actuellement en train de traiter votre demande avec la plus grande attention.\nSoyez assurée que nous mettons tout en œuvre pour résoudre votre problème dans les meilleurs délais.\nLe service concerné reviendra vers vous dès que possible avec une solution ou des informations complémentaires.\n\nNous vous remercions de votre patience et de votre compréhension.\nRestant à votre disposition pour toute question supplémentaire,\n\nNous vous remercions de votre confiance,",
+      "Le client appelle pour signaler un problème avec sa caméra de cuisine qui ne fonctionne plus depuis le 12 août. Malgré plusieurs tentatives de réinitialisation, la caméra reste inopérante. L'agent propose de faire recontacter le client par le service technique de niveau 2 pour résoudre le problème. Le client exprime son impatience face à l'absence de solution rapide et souhaite un échange de l'appareil si nécessaire. Degré de satisfaction : 4.",
+      "Le client a contacté le service technique au sujet d'une caméra qui ne fonctionne pas depuis le 12 août. L'agent a expliqué que le problème pourrait venir du routeur Starlink et a confirmé que le dossier était en cours de traitement. Le client a exprimé son mécontentement face à la durée de la situation et a demandé un geste commercial. Finalement, un rendez-vous a été fixé pour le 16 septembre à 13h. Degré de satisfaction : 6.",
+      "MAIL CLIENT 20/09 ////\nNom : HELOU BERNADETTE\nVersion : GBHV2\nN° client : 06207193\nEmail : valeriedavid102@gmail.com\nMessage :\n\nma caméra extérieure ne fonctionne plus impossible de la réinstaller\n\n\nMAIL RETOUR ///\nMonsieur HELOU,\n\nVotre demande concernant le contrat Box Habitat a été prise en compte.\n\nNous vous informons que votre demande d'intervention a bien été enregistrée. Il ne reste plus qu'à planifier le rendez-vous pour que notre technicien puisse intervenir à votre domicile.\n\nPour toute demande de modification de rendez-vous, merci de prendre contact avec le service planification au 01 58 02 96 31.\n\nRestant à votre disposition,\n \nNous vous remercions de votre confiance,"
+    ]
+  },
+  {
+    "ticket_id": 1098020,
+    "contract_id": "MPC42PGNR4TC",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1098020",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC42PGNR4TC",
+    "creation_date": "2025-08-12",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Client pas chez lui pour reappairage + test sur cam ext \nNous rpl une fois à domicile \nLe client a signalé que ses 3 caméras extérieures ne détectent pas les mouvements malgré plusieurs tests. De plus, sa caméra intérieure est désactivée depuis 2 mois et ne fonctionne plus même après avoir été débranchée et rebranchée. L'agent a proposé de vérifier la connexion internet et de rappeler lorsque le client sera à domicile. Le client a exprimé des frustrations concernant le non-fonctionnement des caméras. Degré de satisfaction : 4.",
+      "Nom :  LOVAL Mario\n\nN° contrat : MPC42PGNR4TC\n\nEmail : m.loval@yahoo.fr\n\nMessage :\n\nbonjour j'ai différentes fonctionnements sur mon installation que j'ai signalé depuis plusieurs jours et que je n'ai à ce jour aucune réponse et j'aimerais une intervention rapide de vos services merci\n\n \n\nCordialement,\n\nLOVAL Mario\n\n\n\nDT",
+      "Reappairage de la cam int WPS ok \n\naucune zone orange sur les zones de zooning le client va faire des test\n\nLe client a signalé des problèmes avec ses caméras extérieures qui ne détectent pas la présence humaine et une caméra intérieure hors service. L'agent a proposé des solutions, notamment la vérification de la zone de détection sur l'application mobile. Après des manipulations, la caméra intérieure a été reconnectée. Le client a compris l'importance des zones de détection et a modifié les réglages. Il a exprimé sa satisfaction à la fin de l'appel.\n",
+      "Le client a contacté le service technique concernant des problèmes de connexion avec sa caméra intérieure, qui ne renvoie pas d'images malgré plusieurs tentatives. L'agent a proposé de faire un test de vitesse Internet et a noté les résultats. Il a également informé le client que le problème serait remonté à l'équipe informatique et qu'une réponse pourrait prendre jusqu'à 48 heures. Le client a exprimé son mécontentement face à l'absence de caméra depuis plus de 2 mois. Degré de satisfaction : 4.\n\nstreaming KO, Live KO pour ref et client \nReboot de la cam int, \nSpeed test \n413,8 Transfère Mb/s \n228.7 \n",
+      "La caméra est bien connectée mais pas de possibilité de faire du streaming  , pouvez vous regarder ?  \n",
+      "Le client appelle pour signaler un problème persistant avec sa caméra intérieure, qui ne fournit pas d'image malgré plusieurs tentatives de réinitialisation. Il exprime sa frustration après plus de 2 mois sans solution. L'agent propose d'escalader le dossier et d'envoyer un technicien. Le client mentionne également des soucis de détection avec ses caméras extérieures, demandant des ajustements. Le degré de satisfaction du client est de 5."
+    ]
+  }
+]

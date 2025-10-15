@@ -1,0 +1,269 @@
+[
+  {
+    "ticket_id": 1096671,
+    "contract_id": "MPA3Y3HL7Z6K",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1096671",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA3Y3HL7Z6K",
+    "creation_date": "2025-08-11",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "Le client appelle pour signaler un problème persistant avec son système d'alarme, qui affiche un point d'exclamation malgré plusieurs interventions de techniciens depuis mai. Il exprime sa frustration face à la situation, mentionnant des réinitialisations sans succès et des conseils contradictoires sur le changement de la centrale. L'agent assure que le système fonctionne, mais reconnaît la nécessité d'une analyse plus approfondie. Le client souhaite une solution rapide. Degré de satisfaction : 4. \n\n@Usages\nLa sirène extérieure du client mentionne piles faibles met rien sur le CRM, ce qui entraine l'apparition du symbole défaut sur le clavier "
+    ],
+    "all_comments": [
+      "L'agent a tenté de résoudre le problème par des manipulations à distance, mais le client reste inquiet quant à la récurrence du problème. Le degré de satisfaction du client est de 4.\nProblème résolu elle n'a plus le défaut au niveau de la sirène mais la cliente dit que sa se reproduit tout le temps\nAppel long transfère N2",
+      "Mail du 09/08/2025\nMessage :\n\n\nCela fait 4 mois qu’on vous signale que nous avons le voyant pt d’exclamation qui s’affiche sur le boîtier de commande.\nUn technicien est de nouveau passé hier\nIl a changé les piles et a réinitialisé la centrale. Je lui ai dit que cela avait déjà été fait. Le pt a disparu hier mais revenu ce jour\n\n Cordialement,\n\nRP: déjà traité ",
+      "Le client appelle pour signaler un problème persistant avec son système d'alarme, qui affiche un point d'exclamation malgré plusieurs interventions de techniciens depuis mai. Il exprime sa frustration face à la situation, mentionnant des réinitialisations sans succès et des conseils contradictoires sur le changement de la centrale. L'agent assure que le système fonctionne, mais reconnaît la nécessité d'une analyse plus approfondie. Le client souhaite une solution rapide. Degré de satisfaction : 4. \n\n@Usages\nLa sirène extérieure du client mentionne piles faibles met rien sur le CRM, ce qui entraine l'apparition du symbole défaut sur le clavier ",
+      "Call back, Le client a contacté le service client pour exprimer des frustrations concernant un problème persistant avec son alarme, qui affiche un voyant d'exclamation depuis mai. Malgré plusieurs interventions de techniciens, le problème persiste, ce qui pousse le client à envisager de résilier son contrat. Il attend un retour d'un technicien qui s'est engagé à le recontacter. Degré de satisfaction : 4.",
+      "Le défaut pile est encore présent sur la centrale. J'ai fait un restart et le défaut à disparu",
+      "@Brandon, je te laisse prendre connaissance du retour d'Usages.\nPI, les remontées pour Usages doivent être faites par les référents :-)\n",
+      "@REFS \nLe défaut apparait toujours \nDernière notification le 20/08 à 2h ",
+      "Le défaut est revenu "
+    ]
+  },
+  {
+    "ticket_id": 1093363,
+    "contract_id": "GGE250200897",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1093363",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GGE250200897",
+    "creation_date": "2025-08-11",
+    "has_usage_mention": false,
+    "all_comments": [
+      "TRAITEMENT N1\natc\nINJ MVL + SMS ",
+      "traitement n1 \nLe client a reçu un appel du service technique concernant un problème de connexion. L'agent a vérifié l'état du système avec le client, qui a pu activer et désactiver le système sans problème. Après quelques manipulations, l'agent a effectué une mise à jour et a promis qu'un technicien recontacterait le client pour confirmer que tout fonctionnait correctement. Le client a semblé satisfait de l'assistance reçue.\n@n2 svp pour le defaut avec l'uc ATC ? ",
+      "Traitement N2 : \n\nJ'appelle le clt pour faire le pts mais inj mvl, je lui laisse msg vocal mais l'appel coupe \nJ'ai quand même vérifier le système et la MES / MHS semble bien fonctionné, les équipements n'ont aucun défaut \nMais il manque des infos au niveau de la centrale\nJ'envoi tickets aux refs pour remontés Usages \n\n@CRC, si clt rappelle lui indiquer que son système à priori semble fonctionner mais à notre niveau nous n'avons pas toutes les infos concernant sa centrale\nDonc dossier en cours de traitement pour demande d'infos \n\n@Hanafi, comme vu ensemble je te transmet le dossier stp, merci \n",
+      "Nous n'avons pas accès à certain indicateur de la centrale dans la partie états des composant dans le CRM comme \nalim secteur, boitier et connexion radio centrale- équipements. Pouvez- vous regarder pourquoi ? \n",
+      "Chargement de la centrale qui tourne en boucle, des éléments manquent sur la page de la centrale, je transfère à Usages"
+    ]
+  },
+  {
+    "ticket_id": 1094894,
+    "contract_id": "GOC250300137",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1094894",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GOC250300137",
+    "creation_date": "2025-08-09",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "Client ne traite pas l'alerte intrusion contact 1 +33676912470 08/08/2025 20:43:43\nDemande de prise en charge transmise au CTS Entrée\tdoshock\tnull\t08/08/2025 20:43:43\nsms prise en charge transmise au CTS contact 1 +33676912470 08/08/2025 20:43:43\nsms conversationnel Intrusion contact 1 +33676912470 08/08/2025 20:42:53 Alerte intrusion\nEntrée\tdoshock\t-\t08/08/2025 20:42:35 Activation\n-\tgateway\tCECILE\t08/08/2025 13:34:57 Alerte intrusion\nEntrée\tdoshock\t-\t08/08/2025 10:42:53\nDésactivation gateway\tCECILE\t02/08/2025 22:43:54\n\nLe client appelle pour signaler des alertes d'intrusion de son alarme, notamment une alerte à 10h42 alors qu'il était chez lui. Il s'inquiète d'un possible problème de paramétrage et d'un décalage horaire. L'agent confirme qu'il n'y a pas de défaut dans le système, mais qu'il y a un souci avec l'historique des alertes. L'agent va remonter le problème au service informatique. Le client exprime des doutes sur le fonctionnement de son alarme. Degré de satisfaction : 7.\n\n@Usages, l'alarme n'était pas activée depuis le 02-08 mais il y a eu une alerte intrusion qui est remonté le 08-08 à 10h42 ensuite la cliente a activé son alarme à 13h34 et l'alerte intrusion est remonté réellement à CGDV et à la cliente 10h apres soit 20h42 \n\nPouvez vous voir ce qu'il se passe svp ?"
+    ],
+    "all_comments": [
+      "Client ne traite pas l'alerte intrusion contact 1 +33676912470 08/08/2025 20:43:43\nDemande de prise en charge transmise au CTS Entrée\tdoshock\tnull\t08/08/2025 20:43:43\nsms prise en charge transmise au CTS contact 1 +33676912470 08/08/2025 20:43:43\nsms conversationnel Intrusion contact 1 +33676912470 08/08/2025 20:42:53 Alerte intrusion\nEntrée\tdoshock\t-\t08/08/2025 20:42:35 Activation\n-\tgateway\tCECILE\t08/08/2025 13:34:57 Alerte intrusion\nEntrée\tdoshock\t-\t08/08/2025 10:42:53\nDésactivation gateway\tCECILE\t02/08/2025 22:43:54\n\nLe client appelle pour signaler des alertes d'intrusion de son alarme, notamment une alerte à 10h42 alors qu'il était chez lui. Il s'inquiète d'un possible problème de paramétrage et d'un décalage horaire. L'agent confirme qu'il n'y a pas de défaut dans le système, mais qu'il y a un souci avec l'historique des alertes. L'agent va remonter le problème au service informatique. Le client exprime des doutes sur le fonctionnement de son alarme. Degré de satisfaction : 7.\n\n@Usages, l'alarme n'était pas activée depuis le 02-08 mais il y a eu une alerte intrusion qui est remonté le 08-08 à 10h42 ensuite la cliente a activé son alarme à 13h34 et l'alerte intrusion est remonté réellement à CGDV et à la cliente 10h apres soit 20h42 \n\nPouvez vous voir ce qu'il se passe svp ?"
+    ]
+  },
+  {
+    "ticket_id": 1094831,
+    "contract_id": "MPC4322K9CXM",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1094831",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC4322K9CXM",
+    "creation_date": "2025-08-09",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le client appelle pour signaler des déconnexions fréquentes de la caméra de sécurité, malgré plusieurs mises à jour effectuées. Il exprime sa frustration face à l'inefficacité du système, qui ne fonctionne pas comme prévu. L'agent propose des solutions, notamment d'espacer la caméra de la box Internet pour éviter les interférences. Le client pose également des questions sur le mode d'alarme à la maison, exprimant des préoccupations concernant la sécurité de sa mère. Degré de satisfaction : 6.",
+      "La cliente appel car la caméra c'est de nouveaux déconnectez \nSpeed test résultat \ntéléchargement 59.9\ntransfert 69.3\nLe client appelle pour signaler que sa caméra se déconnecte fréquemment, malgré des manipulations effectuées précédemment. Il exprime sa frustration, surtout lorsqu'il ne peut pas surveiller sa maison. L'agent suggère de faire un test de vitesse Internet, qui montre des fluctuations importantes la cliente à effectué plusieurs speet test et le transfert était de plus en plus bas. Le client est inquiet car cela affecte la fonctionnalité de la caméra. Il est conseillé de contacter l'opérateur pour résoudre le problème de réseau. Degré de satisfaction : 4.\nclient nous rappel pour reco la cam une fois qu'elle a vue avec son opérateur ",
+      "Le client appelle pour signaler que sa caméra se déconnecte constamment, même après avoir contacté l'opérateur pour des manipulations. Cela dure depuis plusieurs mois, et le client exprime sa frustration de payer pour un service non fonctionnel. L'agent prend les informations nécessaires pour examiner l'historique de la caméra. Le degré de satisfaction du client est de 3 sur 10.\n\nLe client a signalé des problèmes de connexion avec sa caméra, qui se déconnecte fréquemment malgré plusieurs tentatives de réinitialisation. L'agent a proposé de reconnecter la caméra et a suggéré un remplacement si le problème persiste. Le client a exprimé sa frustration, surtout en raison de la sécurité de ses enfants. L'agent a promis de revenir vers le client avec des informations. Degré de satisfaction : 5.\n\n@ref\nCAM INT se déconnecte tout le temps toute seule \nJ'ai refait la connexion ce jour avec elle + elle a déjà fait la meme chose la veille\nPas de pb au niveau de la box + a la LiveBox 7",
+      "La caméra se déconnecte réguliererment, la cliente est obligée de redémarrer la caméra pour qu'elle se reconnecte. Avons nous un solution à cella ? Cliente équipé d'un box orange livebox 7   ",
+      "Le client appelle pour signaler un problème persistant avec la caméra de sécurité qui se déconnecte fréquemment depuis plusieurs mois. Malgré plusieurs tests effectués, le problème persiste. L'agent informe le client que le dossier a été transféré au service informatique et qu'un retour est attendu. Le client exprime sa frustration face à l'absence de solution rapide, surtout après avoir été sans surveillance pendant l'été. Degré de satisfaction : 5.",
+      "Le client appelle pour un incident technique concernant une caméra, signalant qu'il n'a pas reçu de retour depuis août malgré plusieurs appels. Il exprime sa frustration face à un service non fonctionnel et demande un remplacement de la caméra. L'agent assure que le dossier sera traité en priorité et qu'un geste commercial sera envisagé. Le client semble satisfait de la réponse, notant un degré de satisfaction de 7.",
+      "Vu avec @Ambre pour relance prioritaire ",
+      "e client a contacté le service technique pour une réclamation faite le 25 août concernant une caméra dysfonctionnante. Malgré des promesses de traitement prioritaire, le client n'a reçu aucune nouvelle et exprime sa frustration face à la lenteur du service. L'agent propose une réduction de 10% sur la prochaine facture, mais le client estime que cela est dérisoire par rapport aux désagréments subis. Le client attend toujours une solution. Degré de satisfaction : 3.\n\nvu avec SUP remise de 10% sur la prochaine facture \n",
+      "Le client appelle car sa caméra est déconnectée depuis le 25 août et il a une réclamation en cours. Il exprime sa frustration face à la lenteur du traitement de son dossier et refuse de reconnecter la caméra, demandant plutôt un remplacement. L'agent explique que le dossier est en cours de traitement par ses supérieurs, mais le client est insatisfait de la situation. Il envisage de résilier son contrat en raison du manque de service. Degré de satisfaction : 2."
+    ]
+  },
+  {
+    "ticket_id": 1091349,
+    "contract_id": "GLB220700940",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1091349",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB220700940",
+    "creation_date": "2025-08-06",
+    "has_usage_mention": false,
+    "all_comments": [
+      "L'agent a confirmé un problème de piles sur plusieurs appareils. Le client a exprimé des frustrations concernant la notification de l'état des piles. L'agent a conseillé d'utiliser des piles au lithium et a expliqué comment vérifier l'état via l'application. Le client a prévu de changer les piles et a apprécié l'aide reçue. Degré de satisfaction : 8.\n\n@REFS, En regardant l'historique de la cliente je constate qu'elle n'a pas reçu de notification de pile faible pour aucun des détecteurs, comme le clavier, et/ou le PIRCAM garage. \nElle se plaint en disant qu'elle s'en rend compte maintenant car il y a un défaut dont on l'informe sur son autre PIRCAM mais qu'elle aurait aimé être prévenue. Comment s'assurer qu'elle reçoivent bien les messages de pile faibles ?",
+      "Nous ne pouvons pas vérifier si le client a été notifié d'un défaut pile concernant le PIRCAM Séjour (pas d'indication dans le CRM ) , pouvez nous dire si le défaut de supervision fait suite à un niveau batterie trop faible   ?"
+    ]
+  },
+  {
+    "ticket_id": 1087911,
+    "contract_id": "MPG3ZHVYL4V5",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1087911",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG3ZHVYL4V5",
+    "creation_date": "2025-08-05",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Traitement N1 \n@ref plusieurs supervision sans raison \nle client informe que aucun élément ne serait l'origine du problème \n@refs que peut on faire ? \n",
+      "Pouvez vous regarder si il y a une indication brouillage radio de votre côté ? "
+    ]
+  },
+  {
+    "ticket_id": 1085049,
+    "contract_id": "MPA42DABT332",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1085049",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA42DABT332",
+    "creation_date": "2025-07-31",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usage je relance le dossier car il n'y a pas eu de retour et la cliente a appelé pour sa problématique."
+    ],
+    "all_comments": [
+      " L'agent a guidé le client à travers le processus de connexion, mais la caméra clignotait toujours en rouge. Beaucoup trop long l'appel transf N2",
+      "Le client appelle pour signaler un problème avec sa caméra de télésurveillance, récemment remplacée, qui ne fonctionne pas. Elle exprime son inquiétude car elle part en vacances le 15 août et souhaite avoir un œil sur sa maison. L'agent propose d'envoyer une nouvelle caméra et suggère que la fille du client rappelle pour effectuer des tests. Le client semble frustré par la situation. Degré de satisfaction : 4.",
+      "Client rappelle mais la cam n'apparait pas dans les équipements \nDans les options la cam est indiqué actif depuis le 15/05/2024 \nUN SAV a été fait le 25/07/2025 mais aucune apparition de cette caméra sur le CRM \n\n@refs pouvez-vous voir pour quelle raison la nouvelle caméra n'apparait pas dans les équipements \n\n\nCopilot:  Le client appelle pour obtenir de l'aide concernant la connexion d'une nouvelle caméra intérieure avec l'application sur le téléphone de sa mère. Malgré plusieurs tentatives et l'assistance d'autres agents, la caméra ne s'affiche pas dans les équipements. L'agent informe le client que le dossier a été transféré au service technique supérieur, qui le contactera. Le client semble frustré par la situation. Degré de satisfaction : 4.",
+      "Elle n'apparait pas dans la liste des équipements car n'a n'a pas eu de 1ere connexion. Il faut tout simplement qu'elle soit connectée  ",
+      "Message :\n\nBonjour nous avions reçu une nouvelle caméra mais impossible de l’installer même en téléphonant au technicien\n\n \n\nCordialement,\n\nPATTYN Huguette\n\nJ'ai contacté la cliente, mais elle n'était pas à son domicile. Elle nous recontactera demain pour la caméra intérieure",
+      "Madame Patin appelle pour signaler que sa caméra intérieure ne fonctionne toujours pas après avoir reçu un remplacement. Elle exprime sa frustration après avoir contacté plusieurs conseillers sans succès et demande l'envoi d'un technicien. L'agent lui assure qu'il va faire une demande pour un rendez-vous. Le client semble satisfait de la réponse de l'agent, notant un degré de satisfaction de 6 sur 10.\n\nAppairage KO \n\n@expert  l'appairage ne fonctionne pas après plusieurs essaye , possibilité pour envoyer un tech ?  ",
+      "@N2 pouvez vous aider la cliente à connecter sa caméra intérieure, si c'est Ko aussi, faire intervenir un tech ",
+      "Traitement N2.\nLe client a reçu un appel du service technique d'Orange concernant l'installation d'une caméra. Le client a exprimé des difficultés à installer la caméra et a demandé à rappeler sa fille pour obtenir de l'aide. L'agent a accepté de rappeler dans 2 minutes. Le degré de satisfaction du client est de 5/10. Durée de communication : 5 minutes.",
+      "Le client a contacté le service technique pour un rendez-vous téléphonique, car sa petite fille était occupée. L'agent a proposé un rendez-vous pour le lendemain à 11h, ce que le client a accepté. L'agent a confirmé le rendez-vous et a souhaité une bonne soirée au client. Degré de satisfaction : 8/10. Durée de l'appel : environ 10 minutes.\n\nRendez vous tél programmé pour le 07/08 à 11 00 AM ",
+      "Call transmis à Ines N2",
+      "Traitement N2 Callback repris : \n\nAprès plusieurs étapes de dépannage, la caméra a été ajoutée, mais des problèmes de connexion subsistent. \nElle était connecté et lorsqu'elle a fait la demande de live --> Msg d'erreur \"flux vidéo indisponible\"\nPuis cam s'est déconnecté en l'espace de quelques minutes.\nImpossible de la reconnecter malgré les manips\n\nVu avec ref, je demande à la cliente de voir avec son fournisseur internet , quelles fréquence elle possède, car 2 fréquence wifi activé mais pas dissocier pour la cam.\nIl faudrait que la cam int soit sur la fréquence 2.4 \nLe client semble satisfait des efforts fournis, mais reste préoccupé par la situation. Degré de satisfaction : 6.\nElle va donc appeler son fournisseur internet orange",
+      "Callback N2 : \n\nTicket déjà traité",
+      "Le client appelle pour signaler des problèmes persistants avec sa caméra de sécurité, qui ne fonctionne pas malgré plusieurs manipulations. Elle exprime sa frustration après une semaine d'inefficacité et menace de changer de fournisseur si la situation ne s'améliore pas avant son départ en vacances le 14 août. L'agent assure qu'il va remonter l'information au service technique pour une analyse approfondie. Degré de satisfaction : 3.\n\ncliente est bien sur fréquence wi-fi 2.4\nVu avec ambre demande quelle livebox elle possède\n> Livebox 5 orange",
+      "Nous ne parvenons pas à connecter la caméra int de la cliente après de multiples essais , la cliente est équipé d'une livebox 5, avez vous une piste qui nous permettrait de débloquer la situation ? ",
+      "@Usage je relance le dossier car il n'y a pas eu de retour et la cliente a appelé pour sa problématique.",
+      "Le client a contacté le service technique car sa caméra ne se connecte pas. Il a exprimé son mécontentement face à l'absence de réponse à son précédent appel et a mentionné qu'il partait en vacances le 19 octobre. L'agent a confirmé que le dossier était en cours de traitement et que le service informatique travaillait dessus. Le client a été rassuré que tout le reste fonctionnait correctement. Degré de satisfaction : 7."
+    ]
+  },
+  {
+    "ticket_id": 1078269,
+    "contract_id": "GLB240700712",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1078269",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB240700712",
+    "creation_date": "2025-07-26",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "L'agent explique que le problème vient des piles, qui doivent être au lithium. Bien que le système fonctionne temporairement, le défaut reste en mémoire. L'agent promet de remonter l'information au service concerné. La cliente semble satisfaite de l'explication. \n\nPile faible  Entrée\tkeypad\tANNETTE\t26/07/2025 11:55:29\n\n@Usages, pouvez-vous regarder pourquoi le clavier affiche un triangle rouge et envoi des défauts de piles faibles alors que RAS sur le CRM ? "
+    ],
+    "all_comments": [
+      "L'agent explique que le problème vient des piles, qui doivent être au lithium. Bien que le système fonctionne temporairement, le défaut reste en mémoire. L'agent promet de remonter l'information au service concerné. La cliente semble satisfaite de l'explication. \n\nPile faible  Entrée\tkeypad\tANNETTE\t26/07/2025 11:55:29\n\n@Usages, pouvez-vous regarder pourquoi le clavier affiche un triangle rouge et envoi des défauts de piles faibles alors que RAS sur le CRM ? "
+    ]
+  },
+  {
+    "ticket_id": 1078724,
+    "contract_id": "GPV230603702",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1078724",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GPV230603702",
+    "creation_date": "2025-07-26",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@REF la conseillère m'appel parce que les client n'ont pas reçu le message de coupure de courant, j'observe dans le tableau des événements le 21/07 un redémarrage à 22h40\nun message de batterie faible apparait  ensuite le 25/07 à 10h54, la cliente me rappel samedi et m'informe du problème je lui demande donc de procéder au test ci-dessus, je regarde ajd et je vois que cela est bien opérationnel les alerte coupure de courant sont bien remontées\n \nla conseillère m'appel ajd et demande une geste CO de 100€ ou de 3 mois de mensualités offerte car cela représente la perte des aliments dans sont frigo, j'informe la conseillère que notre système n'ai pas fait pour prévenir de la perte des aliments et que l'alarme rester opérationnel malgré la coupure voir les alerte intrusion du 26/07 et qu'un geste CO de cette ampleur ne sera pas possible, \npourriez vous voir avec @USAGES pourquoi cela n'a pas fonctionné lorsque les client était en vacance, alors que le test avec moi était concluant svp ? et également me dire si un Geste co est possible par rapport à cet incident SVP malgré ça n'empêchais en rien le bon fonctionnement du système merci.  \n\nLe client appelle pour signaler un problème avec des clients, M. et Mme Carismier, qui ont perdu 100 € de marchandises à cause d'une coupure d'électricité non signalée par leur box. Ils demandent un geste commercial de 3 mois offerts. L'agent explique qu'il y a eu un dysfonctionnement, mais que le geste commercial ne sera pas possible. Il promet de faire remonter la demande et de rappeler les clients. Degré de satisfaction : 5.",
+      "@usage Le client indique avoir subi une coupure de courant durant son absence, sans pouvoir préciser la date exacte, n’étant pas sur place. À son retour, elle a constaté que le courant avait été coupé.\nElle s'était absentéedu 21 au 26 juillet.\nDe notre côté, nous ne relevons aucune alerte de coupure ni de rétablissement de courant pendant cette période, uniquement une alerte de batterie faible enregistrée le 25 juillet.\nUn test a pourtant été effectué le 26 juillet : le client a volontairement débranché la centrale pendant 30 minutes, et les notifications (SMS/mail) ont bien été envoyées, confirmant le bon fonctionnement du système d’alerte dans ce contexte.\n\nPouvez-vous analyser ce qui a pu se passer entre le 21 et le 26 juillet, et pourquoi aucune alerte de coupure ou de rétablissement n’a été remontée malgré la coupure confirmée par le client ?"
+    ],
+    "all_comments": [
+      "Le client a contacté le service technique en raison d'une coupure d'électricité à son domicile après son retour de vacances. L'agent a expliqué que le voyant clignotant était normal et a procédé à une mise à jour de la centrale. Le client a exprimé son inquiétude de ne pas avoir été averti de la coupure. L'agent a conseillé de débrancher la centrale pour 30 minutes et de vérifier si une notification était reçue dans le cas contraire de nous rappeler lundi. Le client a semblé satisfait des explications données, notant son degré de satisfaction à 8.",
+      "@REF la conseillère m'appel parce que les client n'ont pas reçu le message de coupure de courant, j'observe dans le tableau des événements le 21/07 un redémarrage à 22h40\nun message de batterie faible apparait  ensuite le 25/07 à 10h54, la cliente me rappel samedi et m'informe du problème je lui demande donc de procéder au test ci-dessus, je regarde ajd et je vois que cela est bien opérationnel les alerte coupure de courant sont bien remontées\n \nla conseillère m'appel ajd et demande une geste CO de 100€ ou de 3 mois de mensualités offerte car cela représente la perte des aliments dans sont frigo, j'informe la conseillère que notre système n'ai pas fait pour prévenir de la perte des aliments et que l'alarme rester opérationnel malgré la coupure voir les alerte intrusion du 26/07 et qu'un geste CO de cette ampleur ne sera pas possible, \npourriez vous voir avec @USAGES pourquoi cela n'a pas fonctionné lorsque les client était en vacance, alors que le test avec moi était concluant svp ? et également me dire si un Geste co est possible par rapport à cet incident SVP malgré ça n'empêchais en rien le bon fonctionnement du système merci.  \n\nLe client appelle pour signaler un problème avec des clients, M. et Mme Carismier, qui ont perdu 100 € de marchandises à cause d'une coupure d'électricité non signalée par leur box. Ils demandent un geste commercial de 3 mois offerts. L'agent explique qu'il y a eu un dysfonctionnement, mais que le geste commercial ne sera pas possible. Il promet de faire remonter la demande et de rappeler les clients. Degré de satisfaction : 5.",
+      "@usage Le client indique avoir subi une coupure de courant durant son absence, sans pouvoir préciser la date exacte, n’étant pas sur place. À son retour, elle a constaté que le courant avait été coupé.\nElle s'était absentéedu 21 au 26 juillet.\nDe notre côté, nous ne relevons aucune alerte de coupure ni de rétablissement de courant pendant cette période, uniquement une alerte de batterie faible enregistrée le 25 juillet.\nUn test a pourtant été effectué le 26 juillet : le client a volontairement débranché la centrale pendant 30 minutes, et les notifications (SMS/mail) ont bien été envoyées, confirmant le bon fonctionnement du système d’alerte dans ce contexte.\n\nPouvez-vous analyser ce qui a pu se passer entre le 21 et le 26 juillet, et pourquoi aucune alerte de coupure ou de rétablissement n’a été remontée malgré la coupure confirmée par le client ?",
+      "+33254464609 : Agence Groupama. \n\nLe client appelle pour un dossier concernant une coupure de courant qui a causé la perte de marchandises d'une valeur d'environ 100 euros. Il exprime son mécontentement face à l'absence de notification par SMS et demande un geste commercial, comme une réduction de cotisation. L'agent explique que le dossier est en cours d'examen par le service informatique et qu'il n'y a pas encore de délai de réponse. Le client semble frustré par la situation. Degré de satisfaction : 5.",
+      "Si le client veut vraiment tester la coupure de courant il faut assir débrancher le câble Ethernet car la cause la plus plausible est que le secours n'a pas pris le relais.\nDemande lui de faire ce test si Ko cela veut dire que lors de sa coupure en juillet, le secours n'a pas pris le relais. ",
+      "Le client ne souhaite pas tester, mais comprendre pourquoi nous ne relevons aucune alerte de coupure ni de rétablissement de courant pendant cette période 21 au 26 juillet. , uniquement une alerte de batterie faible enregistrée le 25 juillet.\nUn test a pourtant été effectué le 26 juillet : le client a volontairement débranché la centrale pendant 30 minutes, et les notifications (SMS/mail) ont bien été envoyées, confirmant le bon fonctionnement du système d’alerte dans ce contexte. \n \nPouvez-vous analyser ce qui a pu se passer entre le 21 et le 26 juillet, et pourquoi aucune alerte de coupure ou de rétablissement n’a été remontée malgré la coupure confirmée par le client ? ",
+      "Nom : CARISMIER MICHEL\nVersion : GBHV2\nN° client : 38528794\nEmail : michel.carismier@orange.fr\nMessage :\n\nA notre retour de vacances le 26 juillet, nous avons constaté qu il y avait une coupure d électricité et que nous n avons pas été prévenu par sms et mail. Nous avons perdu tout ce que nous avions dans notre congélateur (environ pour 100 Euros). j ai contacté votre service technique qui a constaté l absence de sms et mail et qui a fait une manipulation pour que cela re fonctionne. Je souhaiterais un geste commercial pour ce dysfonctionnement. pouvez vous me donner une réponse tout en sachant que vous avez déjà été contacté par ma conseillère de Groupama. Cordialement\n\nsuite au retour de usages pourvez vous attribuer au refs pour attrubution du geste co ou non ",
+      "L'agent confirme que le dossier est en cours de traitement par le service concerné, mais le client exprime son impatience après plus d'un mois d'attente. L'agent assure que le dossier n'est pas oublié et qu'ils attendent des réponses. Le client semble frustré par la situation. Degré de satisfaction : 4."
+    ]
+  },
+  {
+    "ticket_id": 1078668,
+    "contract_id": "MPE43N4EEYTA",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1078668",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPE43N4EEYTA",
+    "creation_date": "2025-07-26",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@usage trouve que le seuil de sa cam n'est pas suffisant, il voudrait avoir la notif avant les 8m "
+    ],
+    "all_comments": [
+      "Le client a demandé qu'un technicien revienne pour finaliser l'installation, mais l'agent a suggéré de rappeler une fois chez eux. Le client a exprimé sa frustration face aux retards et à la mauvaise communication, indiquant qu'ils avaient attendu toute une journée. Degré de satisfaction : 2.\nJ'ai expliqué au client qu'il devrons rappeler une fois à leurs domicile pour faire le rebranchement du câble Ethernet a leurs nouvelle box. Ils veulent absolument qu'un technicien intervienne pour faire la manipulation mais sans payer de frais. Je leurs ai expliqué que ce n'était pas possible.",
+      "Le client, Monsieur Guillot, appelle pour un problème d'installation de son système d'alarme lié à sa nouvelle box Internet. Il exprime sa frustration face aux frais de déplacement d'un technicien, qu'il considère injustes. L'agent explique que le déplacement est facturé 59 €. Le client envisage de résilier son contrat d'alarme en raison de cette situation. Degré de satisfaction : 2.",
+      "Le client, M. Guillot, a contacté le service client pour réinitialiser son alarme, car elle est actuellement connectée à une flybox et ne fonctionne pas sur la box fournie. L'agent a proposé d'envoyer un technicien pour effectuer les réinstallations, ce qui a été accepté par le client. Un lien digital pour choisir un créneau sera envoyé par SMS. Le coût du service est de 59 €. Le client semble satisfait de l'assistance reçue, notant son degré de satisfaction à 8.",
+      "Le client a contacté le service technique pour demander l'intervention d'un technicien afin de paramétrer son matériel d'alarme, notamment une caméra extérieure et une box, qui ne fonctionnent pas correctement. Il a mentionné des problèmes liés à l'installation de la fibre qui a été retardée. L'agent a proposé un rendez-vous pour le vendredi entre 15h et 19h, ce que le client a accepté avec satisfaction.",
+      "Le client a signalé des problèmes avec son alarme récemment installée, notamment l'absence de déclenchement et des caméras qui ne fonctionnent pas correctement. Il a exprimé des frustrations concernant la configuration et l'installation, demandant une prise en charge des frais de technicien. L'agent a expliqué le fonctionnement des détecteurs et proposé de faire une demande pour une mise à jour. Le client a finalement demandé un remplacement de caméra. Degré de satisfaction : 5.\nTest detection CAM INT ko > SAV ok\n+ Test detection PIRCAM après sensibilité augmenté ok \n+ explication mode partiel et detection cam ext ok\n\n@ref\nClient trouve que détection CAM EXT trop faible",
+      "Je ne comprends pas le SAV CAM INT, elle est forcément KO, car elle n'est pas appairée au système. Il faudrait tenter d'appairer la cam int.\nDe plus, pour la cam ext, je ne vois aucun test de fait sur celle-ci.\nJe te laisse faire des tests sur la cam ext en lui expliquant le seuil de détection.\n+ tenter l'appairage cam int et la retester. ",
+      "j'ai fais les test avec la cam int et elle ne déclenche pas donc je l'ai mis en sav c'est ca qui l'a retirer des équipements mais elle était bien connecté et l'œil s'ouvrait \nPour la cam ext justement il trouve juste que 8m n'est pas assez je vous donne le ticket pour les réclamations en rapport à la maj de la sensibilité",
+      "@usage trouve que le seuil de sa cam n'est pas suffisant, il voudrait avoir la notif avant les 8m "
+    ]
+  },
+  {
+    "ticket_id": 1077773,
+    "contract_id": "MPE43GRJ88WJ",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1077773",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPE43GRJ88WJ",
+    "creation_date": "2025-07-25",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@usage pb de connexion cam int qui reste en voyant rouge suite a connexion depusi live box 7"
+    ],
+    "all_comments": [
+      " L'agent a confirmé un souci de connexion avec la centrale et a planifié un rendez-vous pour le 29. Le client a également mentionné des difficultés à activer l'alarme avec le badge test ko lors du sav verif. L'agent a proposé de transférer le client au 3900 pour un problème d'activation de Disney+. Degré de satisfaction : 7.\n\nPB de cam int reco LiveBox 7 \n\ntransfert @REF vue avec sup car ne peux pas me garder le ticket pour avertir de la résolution du fait de mon départ le 30/07/2025",
+      "@usage pb de connexion cam int qui reste en voyant rouge suite a connexion depusi live box 7"
+    ]
+  },
+  {
+    "ticket_id": 1074532,
+    "contract_id": "MPC43EW443E3",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1074532",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC43EW443E3",
+    "creation_date": "2025-07-24",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages \" je vous transmet le ticket car pb lors du ré appairage de la cam ext, elle passe bien au bleu avec les petits sons \nMais elle n'apparait pas connecter sur le CRM et sur appli clt \nLe clt se retrouve sur la page d'accueil une fois que la cam clignote bleu. \nMême lorsqu'il appuie sur \"Appairage finalisé\" la cam reste à clignoter et ne se connecte pas svp \""
+    ],
+    "all_comments": [
+      "L'agent a tenté de l'aider à la reconnecter via l'application et le QR code, mais sans succès. L'agent a proposé de transférer le dossier au service technique pour un suivi. Le client a exprimé des frustrations concernant des rappels précédents non effectués. Degré de satisfaction : 6.\n\nRé appairage Ko \nTransfert Niv 2 ",
+      "Traitement N2 : \n\nJ'appelle le clt pour réappairer la cam ext ---> KO malgré 3 manip via appli\nClt a du mal à scanner son QR Code mais après plusieurs essais la cam clignote bien bleu avec le bruit \nMais elle ne remonte pas connecté sur le CRM ni sur appli clt, pourtant toutes les étapes sont bien faites et la cam reste à clignoter bleu\nVu avec ref, pour faire ticket Refs concernant le pb\n\n+ Aide à se connecter sur appli pour sa femme car elle indique ne pas avoir réussi \nJe lui fais désinstaller et réinstaller appli en acceptant tout les paramètres --> Connexion OK \n\n\n@Refs, je vous transmet le ticket car pb lors du ré appairage de la cam ext, elle passe bien au bleu avec les petits sons\nMais elle n'apparait pas connecter sur le CRM et sur appli clt\nLe clt se retrouve sur la page d'accueil une fois que la cam clignote bleu.\nMême lorsqu'il appuie sur \"Appairage finalisé\" la cam reste à clignoter et ne se connecte pas svp",
+      "La cam est bien connectée.\nCependant la qualité du signal est mauvaise, à voir si le client peut rapprocher un peu de l'UC.",
+      "Client rappelle \nD/R N2 ",
+      "le commentaire de Ines visé la caméra extérieur @ref pouvez vous revoir sa problématique svp ?",
+      "@Usages \" je vous transmet le ticket car pb lors du ré appairage de la cam ext, elle passe bien au bleu avec les petits sons \nMais elle n'apparait pas connecter sur le CRM et sur appli clt \nLe clt se retrouve sur la page d'accueil une fois que la cam clignote bleu. \nMême lorsqu'il appuie sur \"Appairage finalisé\" la cam reste à clignoter et ne se connecte pas svp \"",
+      "Cliente relance et part en vacances jeudi soir et possède du matériel agricole sensible donc souhaite être impérativement dépanné \nMenace de résilier si aucune solution n'est apportée avant jeudi \n\nLe client a contacté le service technique pour signaler que sa caméra extérieure ne fonctionnait plus après 8 jours d'appels sans solution. Il exprime son mécontentement, car il part en vacances dans 2 jours et craint pour son matériel agricole. L'agent a confirmé que le service informatique travaillait sur le problème, mais n'a pas pu garantir une résolution avant le départ du client. Le client menace de résilier tous ses contrats si le problème n'est pas résolu. Degré de satisfaction : 2"
+    ]
+  },
+  {
+    "ticket_id": 1074718,
+    "contract_id": "MPA43L3BJ8SV",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1074718",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA43L3BJ8SV",
+    "creation_date": "2025-07-24",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@usage. Le client nous indique que lors des live dans la nuit la cam est noire, l'infrarouge ne fonctionnerait pas.\nPouvez-vous regarder ? "
+    ],
+    "all_comments": [
+      "Réponse:\nMonsieur duval\n\nVotre demande concernant le contrat Orange Maison Protégée a été prise en compte.\n\nAprès analyse, nous ne constatons pas de défaut sur votre caméra extérieure.\nCependant, celle-ci est bien infrarouge.\nNous allons transmettre votre dossier à notre service informatique afin d’effectuer des vérifications et nous reviendrons vers vous suite à leur retour.\n\nRestant à votre disposition pour toute question supplémentaire,",
+      "@usage. Le client nous indique que lors des live dans la nuit la cam est noire, l'infrarouge ne fonctionnerait pas.\nPouvez-vous regarder ? "
+    ]
+  },
+  {
+    "ticket_id": 1073573,
+    "contract_id": "GLB230201186",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1073573",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB230201186",
+    "creation_date": "2025-07-23",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le technicien à fait un changement dfo celui-ci remonte sur le CRM avec le nouveau numéro de série mais aucune donnée sur la communication. Lui sur place il lance le dfo v2 pour l'appairage mais le dfo continue de clignoter en vert sans jamais passer au rouge donc cela veut dire que le dfo ce connecte pas à la centrale. Il à essayer avec 2 dfo v2 et toujours le même problème. Il à effectuer plusieurs reboot manuelle et de mon côté j'ai fait un reboot à distance aussi mais le problème et persistant. Il n'a donc pas pu faire le changement de dfo."
+    ]
+  },
+  {
+    "ticket_id": 1072751,
+    "contract_id": "MPC43L3FXBLU",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1072751",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC43L3FXBLU",
+    "creation_date": "2025-07-23",
+    "has_usage_mention": false,
+    "all_comments": [
+      " L'agent explique que la notification provient de l'ancien détecteur et qu'il va demander sa suppression. La cliente est soulagée mais frustrée par les fausses alertes. Elle remercie l'agent et termine l'appel. Degré de satisfaction : 7.\n\n@Réf,est-il possible de supprimer le détecteur de choc et d'ouverture (DO) avec le numéro 14326490, actuellement actif dans la Chambre 1 ? La cliente a indiqué qu'elle ne possède que quatre DO chez elle et avait demandé la résiliation de celui-ci. Cependant, il apparaît toujours actif. La résiliation a été effectuée le 08/07, et la cliente affirme qu'elle a bien retourné le do .",
+      "Le client a appelé pour signaler un problème avec un détecteur de mouvement renvoyé, qui semble toujours connecté à sa centrale d'alarme. L'agent a expliqué que la désactivation n'avait pas encore été traitée, ce qui causait des messages d'erreur. Le client a exprimé sa frustration face à l'impossibilité d'activer son alarme sans déclencher une alerte. L'agent a rassuré le client sur le bon fonctionnement de son système d'alarme. Degré de satisfaction : 7."
+    ]
+  }
+]

@@ -10,6 +10,11 @@ et par gravité ?
 
 --> Message teams envoyé : attente de réponse de Julien, Chris et Emna
 
+## Système d'alerte
+
+Plusieurs système de notif cohabitent. Beaucoup sont rattaché au même mail du coup si t'envois à ces "topics" tu renvois plusieurs fois au même mail ?
+
+
 ## Formation cloudwatch par Julien
 
 

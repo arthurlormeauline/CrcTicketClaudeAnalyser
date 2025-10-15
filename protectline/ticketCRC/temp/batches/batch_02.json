@@ -1,0 +1,266 @@
+[
+  {
+    "ticket_id": 1168086,
+    "contract_id": "MPG42V9RPMCD",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1168086",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG42V9RPMCD",
+    "creation_date": "2025-10-06",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "Le client a signalé des problèmes avec sa caméra extérieure, qui ne détecte plus les alertes malgré des tests effectués. L'agent a expliqué qu'il fallait valider les paramètres de détection et a proposé de faire un test en temps réel. Le client a exprimé sa frustration face à des réglages qui semblent se réinitialiser sans intervention de sa part. Ils ont convenu de vérifier ensemble les zones de détection. \n\n@Usages, pouvez-vous m'expliquer pourquoi la caméra extérieure détecte une fois sur deux le client, le client arme bien le système en total mais la caméra extérieure affiche en niveau de protection \"mode partiel\", elle détecte le client lorsque je lance le TUS mais sans cela KO, le client est bien à 5/6 mètres de la caméra extérieure et je lui ai refait faire son zoning qui est ok. Les résultats qui sont remontés dans le tableau des événements se sont produits lorsque le TUS était en cours sans cela ca ne le détectait pas et la led restait rouge. Faut-il changer la caméra extérieure ? \n\nTraitement N2"
+    ],
+    "all_comments": [
+      "Le client appelle pour signaler un problème avec son alarme, qui ne détecte plus correctement depuis la modification de son contrat. Il exprime sa frustration face à un délai de 20 secondes avant que l'alarme ne se déclenche, ce qui le rend vulnérable aux cambriolages. L'agent explique comment modifier les paramètres via l'application mobile, mais les changements ne semblent pas s'appliquer. Après plusieurs tentatives, l'agent propose de régler le délai à 0 seconde. Le client teste et semble satisfait du résultat final. Satisfaction : 8/10.",
+      "@ref \nje remonte un potentielle bug\nLe client dit ne pas avoir toucher au DO Entrée celui-ci à une Tempo de 20 secondes \nEn regardant sur l'application par la rubrique Equipement -> DO Entrée la deuxième lignes est bien en non \nJ'invite le client à valider Modification niveau de protection => partial Salon\tdoshock\tClient - os20163856\t06/10/2025 13:49:44  Le DO reste en 20 secondes\nPuis j'invite le client à cocher la temporisation puis confirmer Modification niveau de protection => partial Salon\tdoshock\tClient - os20163856\t06/10/2025 13:50:11\nEnsuite le client retourne sur la rubrique pour décocher ensuite confirmer mais celui reste à 20 secondes  Modification niveau de protection => partial Salon\tdoshock\tClient - os20163856\t06/10/2025 13:50:31\nJe fais la modification manuellement, dans toute les manipulations aucune modification sur la temporisation ne remonte sur le CRM à part la mienne mais uniquement sur le mode partiel pas le total ",
+      "Je ne comprend pas la demande ??\nLe DO entrée est en tempo 0 sec en total et en partiel ce qui va surement poser problème car à chaque entrée du client le système va se déclencher et s'il ne répond pas un agent va se déplacer donc il n'a pas le choix de mettre une tempo en total.\nDe plus je vois que la centrale n'est pas branchée en Ethernet et il n'y a pas d'option liberté 4G.\nEnfin, quand tu fais une modif paramètre il faut être sûr que le système n'est pas armé.",
+      "Le client préfère rester à 0 sec sur le total et partiel.\nPour la modification des paramètres le client à bien désactiver le système avant mais au moment de modifier p",
+      "pas de remontée sur le CRM sur les modifications de la temporisation*",
+      "Client inj, voir avec lui pour remettre à 20s pour éviter le déplacement d'un agent.\n@N2 est-il possible de voir les paramètres du client sur l'application concernant la temporisation, si celle-ci est bien paramétrer ",
+      "Client rappelle l'appel a coupé INJ MVL",
+      "client rappelle \n\nsa caméra extérieure ne détecte pas, je fais les tests avec lui la caméra ne le détecte  pas n2 pouvez vous tentez de le joindre svp ",
+      "Le client a signalé des problèmes avec sa caméra extérieure, qui ne détecte plus les alertes malgré des tests effectués. L'agent a expliqué qu'il fallait valider les paramètres de détection et a proposé de faire un test en temps réel. Le client a exprimé sa frustration face à des réglages qui semblent se réinitialiser sans intervention de sa part. Ils ont convenu de vérifier ensemble les zones de détection. \n\n@Usages, pouvez-vous m'expliquer pourquoi la caméra extérieure détecte une fois sur deux le client, le client arme bien le système en total mais la caméra extérieure affiche en niveau de protection \"mode partiel\", elle détecte le client lorsque je lance le TUS mais sans cela KO, le client est bien à 5/6 mètres de la caméra extérieure et je lui ai refait faire son zoning qui est ok. Les résultats qui sont remontés dans le tableau des événements se sont produits lorsque le TUS était en cours sans cela ca ne le détectait pas et la led restait rouge. Faut-il changer la caméra extérieure ? \n\nTraitement N2"
+    ]
+  },
+  {
+    "ticket_id": 1168642,
+    "contract_id": "MPA43X9YB8CE",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1168642",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA43X9YB8CE",
+    "creation_date": "2025-10-06",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages lorsque le client effectue une rotation de la cam ça le sort du live on a fait un reboot caméra mais après reboot le live est complètement KO avec message d'erreur et le débit est bon.\n\nQue peut-on faire de plus svp ?"
+    ],
+    "all_comments": [
+      "Le client appelle pour signaler que la caméra intérieure de son système d'alarme, récemment installée, s'est déconnectée. L'agent l'aide à réinitialiser la caméra en le guidant pour scanner un QR code. Après plusieurs étapes, la caméra se reconnecte avec succès. Le client exprime sa satisfaction quant à la simplicité de la procédure et indique qu'il n'a pas d'autres questions pour le moment. Il semble satisfait de l'assistance reçue, notant son expérience à 9 sur 10.",
+      "Le client appelle pour signaler un problème avec la caméra intérieure de son système d'alarme récemment installé. Après avoir effectué des manipulations, il constate que la caméra se déconnecte de l'application après quelques secondes. L'agent lui recommande de désinstaller puis réinstaller l'application après s'être déconnecté. Le client exprime des doutes sur la caméra, mais l'agent assure que cela pourrait être lié à la connexion. Le client semble satisfait des conseils reçus. Degré de satisfaction : 8.",
+      "Le client a contacté le service client pour signaler un problème avec la caméra de son alarme. Bien que la vidéo externe fonctionne, la vidéo interne se déconnecte et affiche une erreur lors de mouvements. L'agent a proposé des solutions, y compris un redémarrage à distance et des tests de connexion. Après plusieurs tentatives, le problème persiste. Le client a également posé des questions sur les frais liés à l'utilisation de la 4G, et l'agent a conseillé de vérifier avec le service de téléphonie. Le client semble satisfait de l'assistance, notant une satisfaction de 7/10.\n\npb cam int, le live fonctionne quelques secondes puis KO lorsqu'il change la cam d'orientation \nreboot de la cam avec ref, suite au reboot live KO client n'a plus du tout accès aux images message d'erreur direct\nqualité du réseau wifi est bonne \n@refs pouvez vous voi svp? ",
+      "@Usages lorsque le client effectue une rotation de la cam ça le sort du live on a fait un reboot caméra mais après reboot le live est complètement KO avec message d'erreur et le débit est bon.\n\nQue peut-on faire de plus svp ?"
+    ]
+  },
+  {
+    "ticket_id": 1167971,
+    "contract_id": "MPA43WTD64KW",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1167971",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA43WTD64KW",
+    "creation_date": "2025-10-06",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages sur l'app client c'est le prénom de sa femme qui apparait en user 0 au lieu du souscripteur, pouvez-vous rétablir cela svp ?"
+    ],
+    "all_comments": [
+      "Le client a signalé un problème avec l'application de son système d'alarme, où il ne reçoit pas les notifications de mise en service et hors service sans éteindre son téléphone. L'agent a expliqué que cela pourrait être lié à la connexion Internet et a proposé de rafraîchir l'application. Après avoir confirmé que le système d'alarme fonctionnait, l'agent a décidé de transférer le dossier au service technique de niveau 2 pour un suivi. Le client a exprimé sa gratitude pour l'assistance.\n\nD/R @N2 pour test MES/MHS avec app",
+      "Traitement N2 :\n\nLe client a contacté le service technique pour des problèmes d'activation et de désactivation via l'application. L'agent a guidé le client à travers les étapes, expliquant qu'il fallait rafraîchir la page pour voir les mises à jour. Le client a exprimé des frustrations concernant le temps de mise à jour et la visibilité de son nom sur l'application. L'agent a promis de remonter le problème. Le client a compris les instructions et a remercié l'agent. Degré de satisfaction : 8.\n\n@Réf lorsque le client désactive via l'application, c'est le prénom de sa femme qui apparaît 'Christine' au lieu de son prénom. Est-il possible de faire la modification ?svp merci ",
+      "@Usages sur l'app client c'est le prénom de sa femme qui apparait en user 0 au lieu du souscripteur, pouvez-vous rétablir cela svp ?"
+    ]
+  },
+  {
+    "ticket_id": 1166801,
+    "contract_id": "MPC3XLP7Y3MB",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1166801",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC3XLP7Y3MB",
+    "creation_date": "2025-10-04",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages pouvez-vous désactiver la caméra SERCOMM résiliée depuis le mois de Mai mais reconnecter par le client le 04/10 svp ?"
+    ],
+    "all_comments": [
+      "Le client a signalé des problèmes de connexion de ses 2 caméras après avoir séparé les réseaux Wi-Fi de sa Livebox. L'agent a expliqué que l'une des caméras avait été résiliée et qu'il fallait la renvoyer. Après plusieurs tentatives de reconnecter les caméras via l'application, l'agent a finalement réussi à reconnecter les deux caméras. Le client a exprimé sa frustration face à la situation, mais a été satisfait de la résolution. Degré de satisfaction : 8.",
+      "Le client à mentionné le fait de vouloir res quand j'annonce qu'il ne peut n'avoir qu'une caméra, au final je l'accompagne pour co les deux cam ce qui se fait très très vite.\nclient très satisfait mais ne paye qu'une caméra par mois est-il possible par exemple de désactiver la caméra 2201DNU000341 qui est normalement résilié depuis le 10.05.2025 ",
+      "Pk avoir reconnecté une caméra qu'il doit renvoyer ?? Elle est résilié depuis le mois de Mai il doit la renvoyer à ses frais.\nUne fois prise en compte, merci de nous redonner le ticket pour désactiver la cam",
+      "Client inj mais avisé par mvl de retourner la caméra.\ndans le mvl j'informe que la caméra sera bientôt désactiver",
+      "@Usages pouvez-vous désactiver la caméra SERCOMM résiliée depuis le mois de Mai mais reconnecter par le client le 04/10 svp ?"
+    ]
+  },
+  {
+    "ticket_id": 1166504,
+    "contract_id": "MPC43WHLKAMB",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1166504",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC43WHLKAMB",
+    "creation_date": "2025-10-04",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages cam ext paramétrée en partiel le 27/09 par le client mais le 04/10 test effectué et aucune détection (11h30) pouvez-vous nous dire ce qu'il se passe ?"
+    ],
+    "all_comments": [
+      "Détection de répondeur.",
+      "détection de répondeur",
+      "Le client a contacté le service technique pour des problèmes avec son alarme. Il ne peut pas se connecter au site, car il n'y a pas accès, et il ne reçoit pas d'alertes SMS de la caméra extérieure malgré son activation. L'agent a expliqué que la caméra ne déclenche pas l'alarme et a proposé des tests. Le client a également demandé des informations sur les délais d'activation des capteurs. L'agent a promis de remonter le problème de détection à son service informatique. Degré de satisfaction : 7.\n\n@ref \nCAM EXT pas de détection\nTest fait ce jour à 11:30 et pas de détection même juste devant la cam + vérification du zoning ok",
+      "@Usages cam ext paramétrée en partiel le 27/09 par le client mais le 04/10 test effectué et aucune détection (11h30) pouvez-vous nous dire ce qu'il se passe ?"
+    ]
+  },
+  {
+    "ticket_id": 1164790,
+    "contract_id": "GPV220600891",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1164790",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GPV220600891",
+    "creation_date": "2025-10-03",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "Dossier effraction constitué.\n@usage   une récurrence au niveau des coupures tous les jours sur les coups de 22 h 38.\nPouvez-vous regarder ce qu'il se passe potentiellement? "
+    ],
+    "all_comments": [
+      "L'agent explique que l'alarme était en mode partiel, ce qui a permis aux cambrioleurs d'entrer sans être détectés. Le client se sent désormais vulnérable et envisage de changer de système. Il demande des options supplémentaires pour améliorer la sécurité.\n\ncliente indique donc avoir été cambriolé dans la nuit du 28 au 29/09 et étant donné que c'était l'alarme de sa mère avant son décès elle n'avait donc pas les bonnes informations sur comment MES/MHS ce qui l'a donc bouleversée.\nelle souhaitait donc équipements supp pour sécuriser son domicile en sachant que je lui ai expliqué la MES totale mais comprend qu'il faudra payer le cout des options elle souhaite donc comparer \n\nQuelle est la date et l’heure de l’effraction ? nuit du 28 au 29 septembre\nEst-ce que vous avez bien été contacté par le PC de surveillance ? non car activation partielle\nEst-ce que du matériel a été endommagé pendant l’effraction ? non\nL’alarme était-elle bien armée au moment des faits ? oui \n\n@refs pour dossier effraction + on constate que l'alarme a une récurrence au niveau des coupures tous les jours sur les coups de 22h38 peut on voir quel est le problème ? \n ",
+      "Dossier effraction constitué.\n@usage   une récurrence au niveau des coupures tous les jours sur les coups de 22 h 38.\nPouvez-vous regarder ce qu'il se passe potentiellement? ",
+      "Répondeur",
+      "Le client appelle le service client pour résoudre un problème concernant une box Habitat. Il explique que la box a été résiliée alors qu'elle n'aurait pas dû l'être, suite au décès de la conjointe. Le client a tenté de ressaisir la box, mais a rencontré des difficultés avec la signature électronique à cause de l'adresse mail déjà utilisée. Il mentionne également l'urgence de la situation, car le bénéficiaire a 96 ans et n'est pas couvert. L'agent tente d'aider en modifiant l'adresse mail et en vérifiant les informations, mais le client doit ressaisir le contrat. Le client semble frustré par la situation. Degré de satisfaction : 5."
+    ]
+  },
+  {
+    "ticket_id": 1165593,
+    "contract_id": "MPC3V52LEN6D",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1165593",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC3V52LEN6D",
+    "creation_date": "2025-10-03",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages, client a répondu à l'appel mais les contacts 2 et 3 ont quand même été contactés pouvez-vous analyser svp"
+    ],
+    "all_comments": [
+      "Le client appelle pour signaler une fausse alerte d'intrusion. Il explique que, après avoir déclenché l'alarme, le centre de télésurveillance a contacté plusieurs personnes, mais il y a eu des confusions sur la prise en compte de l'alerte. L'agent tente de clarifier la situation, mais le client exprime sa frustration face à la gestion de l'alerte. Le client semble insatisfait de la réponse fournie. Degré de satisfaction : 4.",
+      "Commentaire précédent provient de moi, j'avais consulté Lison pendant l'appel.\n@REFS, nous avons remarqué avec Lison que suite à l'alerte, deux lignes du serveur d'appel apparaissent sur Authentification. Le client dit qu'il a bien de son côté répondu à l'appel mais que les contacts 2 et 3 ont quand même été contacté.\nPossible de voir si le fait qu'il y ait deux \"appels\" ait impacté la gestion de l'alerte du client?",
+      "@Usages, client a répondu à l'appel mais les contacts 2 et 3 ont quand même été contactés pouvez-vous analyser svp"
+    ]
+  },
+  {
+    "ticket_id": 1165388,
+    "contract_id": "MPE3YTDX8R3K",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1165388",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPE3YTDX8R3K",
+    "creation_date": "2025-10-03",
+    "has_usage_mention": false,
+    "all_comments": [
+      " Il peut consulter le flux vidéo, mais ne reçoit pas de notifications lors de l'entrée d'un livreur. L'agent explique que la caméra prend 7 minutes pour s'activer et propose de tester le système. Après plusieurs essais, la caméra ne détecte toujours pas. L'agent promet de remonter le problème au service informatique. Degré de satisfaction : 6.\n\n@ref \nCAM EXT accès au live ok mais détection d'intrusion ko\nTest de détection fait avec le client\nCAM EXT ne détecte rien du tout même en passant juste devant \n+ zone de détection vérifier et ok",
+      "@TUS svp détection KO de la cam ext"
+    ]
+  },
+  {
+    "ticket_id": 1166092,
+    "contract_id": "MPE43VWYM75M",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1166092",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPE43VWYM75M",
+    "creation_date": "2025-10-03",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages cam ext qui ne détecte pas, le zoning n'est pas fait pour moi mais ça devrait détecter partout du coup ? Après l'allée est très grande à voir où a été fait le test par le client"
+    ],
+    "all_comments": [
+      "Le client appelle pour signaler que le système de notification de la caméra ne fonctionne pas, car il est désactivé depuis 16h47. L'agent explique que le client doit réactiver le système et effectuer un test après 6 à 7 minutes. De plus, le client mentionne que le technicien a mal positionné la caméra, mais il prévoit de la déplacer lui-même. Le client semble satisfait de l'assistance reçue. Degré de satisfaction : 8.",
+      "Le client apl pour une installation mercredi. Il exprime sa frustration face à la mauvaise position des capteurs de présence, rendant les photos inutilisables. L'agent propose de faire un test de détection et de déplacer les capteurs. Le client est mécontent des interventions techniques répétées et de la nécessité de prendre des jours de congé. Après le test live cam ext aucune remontée de  détection malgré les 6 min et la cam en total activé appel très long \n\n",
+      "0619226825 Client nous recontacte une fois a domicile ",
+      "Le client a contacté le service technique pour des problèmes avec son alarme et sa caméra extérieure, qui ne détectait pas les mouvements. Après plusieurs tests, l'agent a demandé au client de modifier les paramètres de détection de la caméra. Malgré des ajustements, la caméra ne fonctionnait toujours pas. Le client a effectué un test de débit, révélant des vitesses faibles. L'agent a promis de transmettre les informations au service informatique. Degré de satisfaction : 5.\n\n- Transmettre les informations au service informatique\n- Appeler le client sur son numéro de téléphone pour le tenir informé des avancées",
+      "numéro du client a rappelé : 0619226825\n\ntest de débit : 52 mb/s en réception \n                       58 mb/s en envoie \n\nplusieurs tets fais avec le client et le zoning refais mais toujours ko aucune détection \n\n1er test : \n\nDésactivation\n-\tgateway\tBadge 2\t06/10/2025 18:42:05\nActivation\n-\tgateway\tBadge 2\t06/10/2025 18:35:10\n\n2 ème test après avoir mis la zone de détection complète\n\n Désactivation\n-\tgateway\tBadge 2\t06/10/2025 18:52:23\nActivation\n-\tgateway\tBadge 2\t06/10/2025 18:45:37\nModification zoning => {enable=1, bitmap=ffffffffftfffffffffffffffffffffffffff, width=16, height=9}\nExtérieur\tcameraExt\tClient - os20226328\t06/10/2025 18:45:20\n\n\n\n@ref que peut on faire ? ",
+      "@Usages cam ext qui ne détecte pas, le zoning n'est pas fait pour moi mais ça devrait détecter partout du coup ? Après l'allée est très grande à voir où a été fait le test par le client",
+      "Le client appelle pour exprimer son mécontentement après avoir été raccroché par un commercial. Il se plaint de la difficulté à donner une note d'avis et évoque des problèmes avec son système de sécurité. Après un déménagement, il a perdu des avantages et a rencontré des difficultés avec l'installation de la caméra extérieure, qui ne détecte pas les individus. Malgré des tests de débit satisfaisants, l'agent insiste sur un problème de signal Wi-Fi. Le client propose de déplacer la caméra pour tester la connexion. Il est frustré par la lenteur de la réponse et souhaite une solution rapide. en attente de lappel du client pour test",
+      "Le client appelle pour exprimer son mécontentement concernant l'installation de son système de télésurveillance après un déménagement. Il mentionne des problèmes avec un détecteur mal positionné et une caméra extérieure qui ne fonctionne pas correctement. Malgré plusieurs appels, il n'a pas reçu de réponse satisfaisante et se sent frustré par le manque de communication et de solutions. Le client souligne également des incohérences dans les informations reçues concernant son contrat et les engagements pris par l'entreprise.",
+      "DOUBLON"
+    ]
+  },
+  {
+    "ticket_id": 1166001,
+    "contract_id": "GCA250900256",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1166001",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GCA250900256",
+    "creation_date": "2025-10-03",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "La date de clôture est surement lié à une clôture tardive de la DI par le tech.\n@Usages pouvez-vous expliquer pourquoi le client n'a pas l'historique à jour alors que pour sa femme tout est OK ?"
+    ],
+    "all_comments": [
+      "Le client a contacté le service technique pour des problèmes de communication entre les téléphones lors de l'activation de l'alarme. L'agent a expliqué comment actualiser l'état du système via l'application. Le client a exprimé des doutes sur la facilité d'utilisation, mais a compris les instructions après plusieurs répétitions. Il a mentionné une méfiance due à des expériences passées. À la fin, le client semblait satisfait de l'aide reçue. Degré de satisfaction : 8.",
+      "Le client a contacté le service technique pour un problème persistant avec son alarme, qu'il n'a pas pu désactiver correctement. Il a expliqué que l'historique de son application ne reflétait pas les actions effectuées, contrairement à celui de son épouse. L'agent a proposé plusieurs tests, mais le client a continué à rencontrer des difficultés. L'agent a décidé de transmettre les informations à des experts pour analyse. Le client a exprimé sa frustration face à la situation. Degré de satisfaction : 5.\n\n@REFS, le client n'a pas les derniers logs du 04/10 sur son téléphone malgré une application à jour et des MES/MHS depuis sont téléphone.\nSur le téléphone de sa femme qui est identique au sien il a pourtant toutes les infos. Une chose, l'installation à eu lieu le 01/10 sur le CRI, mais le contrat apparait actif le 03/10 sur le CRM, cela pourrait un impact ?\n\n1.Modèle du téléphone : Xiaomi Hyper OS Poco C75\n2.Version du téléphone Android / IOS : Android 15 APP3A\n3.Version app : A jour\n4.Nouveau Problème : Oui\n5. Est-ce que ça a déjà fonctionné avant ? > Oui mais pas sur le même téléphone (celui de madame) \n6.VPN : Non \nTest Wifi et 5G/4G ? Date/Heure de tentative KO - WiFi // Le 04/10 dans la matinée\n7.Est-ce que plusieurs personnes ont accès à l’application ? - Oui Mr & Mme.\n",
+      "La date de clôture est surement lié à une clôture tardive de la DI par le tech.\n@Usages pouvez-vous expliquer pourquoi le client n'a pas l'historique à jour alors que pour sa femme tout est OK ?"
+    ]
+  },
+  {
+    "ticket_id": 1165313,
+    "contract_id": "MPG43VPF9FJG",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1165313",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG43VPF9FJG",
+    "creation_date": "2025-10-03",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages plusieurs problèmes au niveau transmission de la centrale : \n\n1/ Redémarrage le 01/10 + coupure secteur le 02/10, alerte batterie faible OK mais aucune notif de coupure alors que le réseau GSM est OK.\n2/ alerte intrusion du PIRCAM le 03/10 visible sur le M1 mais pas sur le CRM seul indice : la ligne de sms conversationnel envoyé.\n\nPouvez-vous expliquer ce qu'il s'est passé svp ?"
+    ],
+    "all_comments": [
+      "Le client a signalé une coupure de courant qui a affecté son alarme, sans qu'il ait été informé. Il a exprimé sa frustration concernant l'absence de notification sur la défaillance de la batterie, qui était à plat. L'agent a expliqué que les alertes ne sont pas immédiates et a promis d'analyser le système. Un dysfonctionnement a été identifié dans l'envoi des messages. Le client a demandé un geste commercial et attend un retour sur la résolution du problème. Degré de satisfaction : 6.\n\n- Effectuer une analyse complète du système d'alarme du client.\n- Remonter le dysfonctionnement au service informatique.\n- Contacter le client pour l'informer des résultats de l'analyse et des actions entreprises.",
+      "@REFS pouvez vous voir pour le dysfonctionnement avec l'envoi des SMS/Mails ? ",
+      "@Usages plusieurs problèmes au niveau transmission de la centrale : \n\n1/ Redémarrage le 01/10 + coupure secteur le 02/10, alerte batterie faible OK mais aucune notif de coupure alors que le réseau GSM est OK.\n2/ alerte intrusion du PIRCAM le 03/10 visible sur le M1 mais pas sur le CRM seul indice : la ligne de sms conversationnel envoyé.\n\nPouvez-vous expliquer ce qu'il s'est passé svp ?"
+    ]
+  },
+  {
+    "ticket_id": 1164473,
+    "contract_id": "MPC3ZJV9ANBL",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1164473",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC3ZJV9ANBL",
+    "creation_date": "2025-10-02",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages pas de détection de la cam ext, TUS OK, Zoning OK, Débit OK "
+    ],
+    "all_comments": [
+      "Le client signale un problème avec un détecteur de choc tombé d'une baie vitrée, qu'il a tenté de remettre en place sans succès. Il mentionne également une caméra extérieure qui ne fonctionne pas, en raison d'un signal Wi-Fi insuffisant. L'agent aide le client à repositionner le détecteur et lui explique comment s'assurer qu'il fonctionne correctement. Le client semble satisfait de l'assistance reçue. Degré de satisfaction : 8.",
+      "Le client appelle pour signaler un problème avec sa caméra extérieure, qui ne détecte pas les mouvements malgré l'installation d'un troisième répéteur. L'agent explique que la caméra utilise une intelligence artificielle pour la détection et vérifie les paramètres de détection. Après avoir clarifié le fonctionnement des zones de détection, l'agent propose de transférer le dossier au service technique pour un test. Le client semble satisfait de l'assistance reçue, notant son degré de satisfaction à 8.\n\n-> Zoning vérifié et tout est bien sélectionné chez le client, @N2 pouvez vous faire un test de détection avec le client svp? ",
+      "Client recontacté \ntests de débit OK \npas de réaction de la caméra\n@ref que peut on faire ",
+      "@Usages pas de détection de la cam ext, TUS OK, Zoning OK, Débit OK ",
+      "Le client appelle pour obtenir des nouvelles concernant un problème avec sa caméra extérieure. L'agent informe le client que le dossier est toujours en attente d'un retour du service informatique, ce qui pourrait prendre un certain temps. Le client semble comprendre la situation et n'a pas d'autres questions à poser. L'agent assure au client qu'il sera recontacté dès qu'il y aura des informations. La conversation se termine sur une note polie, avec des remerciements mutuels. Degré de satisfaction : 7."
+    ]
+  },
+  {
+    "ticket_id": 1164480,
+    "contract_id": "MPG43X9W6JVX",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1164480",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG43X9W6JVX",
+    "creation_date": "2025-10-02",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@usage La prise connectée de la cliente est bien activée, elle ne parait pas avoir de problème, la cliente a créé un scénario et la lumière est restée continuellement allumée. \n Pouvez-vous vérifier le scénario qu'elle a créé en date du 02.10.25 svp ?"
+    ],
+    "all_comments": [
+      "Le client signale que sa lampe de présence ne fonctionne pas, le voyant étant éteint alors qu'il était bleu auparavant. L'agent lui demande de rester en ligne pour analyser le système. Le client n'est pas chez lui et ne peut pas tester la lampe. L'agent lui explique comment réinitialiser la prise en appuyant sur le bouton on/off. Le client prévoit de rappeler si le problème persiste. Degré de satisfaction : 7.",
+      "Le client appelle pour un problème avec une lumière qui ne s'éteint pas. Après avoir suivi les instructions d'un autre agent, la lumière reste verte mais s'éteint lorsque l'alarme est activée. L'agent explique que la prise connectée doit être programmée via l'application. Le client planifie une simulation de présence de 19h44 à 23h30. Il prévoit de rappeler si le problème persiste. Degré de satisfaction : 7.",
+      "Cliente rappelle car prise connecté ne fonctionne tjr pas \nElle a tester en activant le bouton ON de la prise et en allumant l'interrupteur de la lampe + en créant un scenario et la lumière est resté continuellement allumé\n\n@ref \nVu avec Hanafi Pouvez-vous vérifier le scénario qu'elle a créer en date du 02.10.25 svp",
+      "@Melissa il faudrait vérifier si la lampe est à variateur de lumière stp. Si c'est le cas, la prise ne prend pas en compte ce type d'appareil.\n+ il n'est pas nécessaire d'allumer le bouton de la lampe pour l'allumer, la programmation peut gérer cette fonction",
+      "Le client a reçu un appel de l'agent concernant une prise connectée. L'agent a demandé si la lampe branchée était à variateur, ce que le client a nié, précisant qu'il s'agissait d'une lampe basique. L'agent a expliqué que cela pouvait influencer le fonctionnement des prises. Il a promis de transmettre cette information et de revenir vers le client. Le client a remercié l'agent. Degré de satisfaction : 8.\n\n@ref\nC'est une lampe simple sans variateur de lumière",
+      "@usage La prise connectée de la cliente est bien activée, elle ne parait pas avoir de problème, la cliente a créé un scénario et la lumière est restée continuellement allumée. \n Pouvez-vous vérifier le scénario qu'elle a créé en date du 02.10.25 svp ?"
+    ]
+  },
+  {
+    "ticket_id": 1161742,
+    "contract_id": "MPG43VHWBKJL",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1161742",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG43VHWBKJL",
+    "creation_date": "2025-10-01",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le client signale que l'une de ses caméras extérieures est déconnectée, bien qu'il puisse voir les vidéos. L'agent l'assiste pour vérifier la connexion et lui demande de désactiver le système temporairement. Après quelques manipulations, l'agent informe le client qu'il transmet le dossier au service technique pour une analyse à distance. Le client exprime sa gratitude pour l'aide reçue. Degré de satisfaction : 8.\n\n- Transmettre le dossier au service technique supérieur pour analyse à distance des caméras.\n- Recontacter le client dans les jours à venir pour donner des nouvelles sur l'état des caméras.\n\n@ref la cam extérieur terrasse reste en statut inactive lors d'une MES totale \npouvez viys voir pour quel r",
+      "La cam terrasse Meari-703A2DA77B3A était en statut inactive dans CRM contrairement à la seconde cam ext  alors que le système était armé en mode total.\nEn revenant dans le dossier, je constate que le statut a changé  \npouvez-vous m'expliquer ce changement de statut ?   "
+    ]
+  },
+  {
+    "ticket_id": 1161899,
+    "contract_id": "MPE43VJ4XWJ4",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1161899",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPE43VJ4XWJ4",
+    "creation_date": "2025-10-01",
+    "has_usage_mention": false,
+    "all_comments": [
+      "a la demande du tech sur place , demande la suppression du DO non présent sur site \n13797713 mais présent dans CRM et appli client \n\n"
+    ]
+  }
+]

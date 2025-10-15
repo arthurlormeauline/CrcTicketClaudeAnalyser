@@ -1,0 +1,606 @@
+{
+  "date_analyse": "2025-10-15T16:21:09.862022",
+  "statistiques": {
+    "total_tickets_analyses": 205,
+    "tickets_classifies": 178,
+    "themes_identifies": 50,
+    "tickets_avec_usage": 132
+  },
+  "distribution_themes": [
+    {
+      "theme": "Probleme detection camera",
+      "count": 35,
+      "percentage": 19.7,
+      "ticket_ids": [
+        "988384",
+        "898991",
+        "890360",
+        "1178072",
+        "1172058",
+        "1168086",
+        "1166504",
+        "1166092",
+        "1165388",
+        "1164473",
+        "1157300",
+        "1153830",
+        "1153091",
+        "1151979",
+        "1151934",
+        "1146421",
+        "1143978",
+        "1143840",
+        "1139349",
+        "1135174",
+        "1133921",
+        "1133228",
+        "1131518",
+        "1129163",
+        "1128163",
+        "1128076",
+        "1116884",
+        "1116622",
+        "1114101",
+        "1113985",
+        "1102790",
+        "1102509",
+        "1098020",
+        "1078668",
+        "1058164"
+      ]
+    },
+    {
+      "theme": "Demande suppression equipement",
+      "count": 25,
+      "percentage": 14.0,
+      "ticket_ids": [
+        "498840",
+        "392497",
+        "1176343",
+        "1169505",
+        "1166801",
+        "1161899",
+        "1161743",
+        "1161293",
+        "1159534",
+        "1158847",
+        "1155044",
+        "1152009",
+        "1151967",
+        "1149306",
+        "1148958",
+        "1145776",
+        "1144359",
+        "1140651",
+        "1139477",
+        "1136745",
+        "1129230",
+        "1117289",
+        "1114188",
+        "1072751",
+        "1010326"
+      ]
+    },
+    {
+      "theme": "Probleme acces live camera",
+      "count": 23,
+      "percentage": 12.9,
+      "ticket_ids": [
+        "981238",
+        "898228",
+        "1176218",
+        "1155131",
+        "1147291",
+        "1146955",
+        "1145457",
+        "1144821",
+        "1143978",
+        "1143752",
+        "1143619",
+        "1142489",
+        "1142421",
+        "1141170",
+        "1140405",
+        "1140176",
+        "1136253",
+        "1134773",
+        "1134199",
+        "1098020",
+        "1069858",
+        "1067621",
+        "1021813"
+      ]
+    },
+    {
+      "theme": "Probleme notifications",
+      "count": 10,
+      "percentage": 5.6,
+      "ticket_ids": [
+        "1167690",
+        "1141717",
+        "1126163",
+        "1124554",
+        "1101469",
+        "1097465",
+        "1091349",
+        "1078724",
+        "1071014",
+        "1070651"
+      ]
+    },
+    {
+      "theme": "Probleme remontee evenements",
+      "count": 8,
+      "percentage": 4.5,
+      "ticket_ids": [
+        "1165313",
+        "1155852",
+        "1148555",
+        "1106929",
+        "1101687",
+        "1094894",
+        "1053605",
+        "1001680"
+      ]
+    },
+    {
+      "theme": "Probleme carte SIM",
+      "count": 7,
+      "percentage": 3.9,
+      "ticket_ids": [
+        "1168124",
+        "1139025",
+        "1137220",
+        "1098904",
+        "1069152",
+        "1066744",
+        "1066510"
+      ]
+    },
+    {
+      "theme": "Probleme appairage materiel",
+      "count": 6,
+      "percentage": 3.4,
+      "ticket_ids": [
+        "1140503",
+        "1139167",
+        "1098046",
+        "1085049",
+        "1074532",
+        "1073573"
+      ]
+    },
+    {
+      "theme": "Probleme camera interieure",
+      "count": 6,
+      "percentage": 3.4,
+      "ticket_ids": [
+        "1171372",
+        "1168642",
+        "1134039",
+        "1132665",
+        "1094831",
+        "1006842"
+      ]
+    },
+    {
+      "theme": "Probleme detection animaux domestiques",
+      "count": 5,
+      "percentage": 2.8,
+      "ticket_ids": [
+        "1178368",
+        "1175342",
+        "1138479",
+        "1132190",
+        "1118055"
+      ]
+    },
+    {
+      "theme": "Probleme systeme alarme",
+      "count": 5,
+      "percentage": 2.8,
+      "ticket_ids": [
+        "976326",
+        "1140320",
+        "1109874",
+        "1100992",
+        "1019351"
+      ]
+    },
+    {
+      "theme": "Probleme vision nocturne camera",
+      "count": 4,
+      "percentage": 2.2,
+      "ticket_ids": [
+        "1153722",
+        "1074718",
+        "1067621",
+        "1013387"
+      ]
+    },
+    {
+      "theme": "Question fonctionnement technique",
+      "count": 3,
+      "percentage": 1.7,
+      "ticket_ids": [
+        "1178559",
+        "1110829",
+        "1110766"
+      ]
+    },
+    {
+      "theme": "Faux declenchement alarme",
+      "count": 3,
+      "percentage": 1.7,
+      "ticket_ids": [
+        "1175170",
+        "1143126",
+        "1101112"
+      ]
+    },
+    {
+      "theme": "Probleme affichage defaut",
+      "count": 3,
+      "percentage": 1.7,
+      "ticket_ids": [
+        "1117583",
+        "1096671",
+        "1078269"
+      ]
+    },
+    {
+      "theme": "Probleme consultation videos",
+      "count": 2,
+      "percentage": 1.1,
+      "ticket_ids": [
+        "1154155",
+        "1133228"
+      ]
+    },
+    {
+      "theme": "Probleme temporisation alarme",
+      "count": 2,
+      "percentage": 1.1,
+      "ticket_ids": [
+        "1150100",
+        "1135946"
+      ]
+    },
+    {
+      "theme": "Probleme materiel pircam",
+      "count": 2,
+      "percentage": 1.1,
+      "ticket_ids": [
+        "1175616",
+        "1099192"
+      ]
+    },
+    {
+      "theme": "Probleme supervision",
+      "count": 2,
+      "percentage": 1.1,
+      "ticket_ids": [
+        "1087911",
+        "1024655"
+      ]
+    },
+    {
+      "theme": "Probleme technique installation",
+      "count": 2,
+      "percentage": 1.1,
+      "ticket_ids": [
+        "1170346",
+        "1047783"
+      ]
+    },
+    {
+      "theme": "Probleme affichage equipement",
+      "count": 2,
+      "percentage": 1.1,
+      "ticket_ids": [
+        "1138905",
+        "1021813"
+      ]
+    },
+    {
+      "theme": "Probleme application",
+      "count": 2,
+      "percentage": 1.1,
+      "ticket_ids": [
+        "1127984",
+        "1108510"
+      ]
+    },
+    {
+      "theme": "Demande reintegration equipement",
+      "count": 2,
+      "percentage": 1.1,
+      "ticket_ids": [
+        "1128877",
+        "1111227"
+      ]
+    },
+    {
+      "theme": "Probleme connexion camera",
+      "count": 2,
+      "percentage": 1.1,
+      "ticket_ids": [
+        "1103177",
+        "1077773"
+      ]
+    },
+    {
+      "theme": "Probleme technique recurrent",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1164790"
+      ]
+    },
+    {
+      "theme": "Effraction",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1164790"
+      ]
+    },
+    {
+      "theme": "Verification fonctionnement materiel",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1169513"
+      ]
+    },
+    {
+      "theme": "Probleme gestion alerte telesurveillance",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1165593"
+      ]
+    },
+    {
+      "theme": "Probleme fonctionnement badge",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1158847"
+      ]
+    },
+    {
+      "theme": "Probleme statut camera",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1161742"
+      ]
+    },
+    {
+      "theme": "Probleme autonomie camera",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1139349"
+      ]
+    },
+    {
+      "theme": "Probleme affichage clavier",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1065688"
+      ]
+    },
+    {
+      "theme": "Demande mise a jour contrat",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1008685"
+      ]
+    },
+    {
+      "theme": "Probleme intervention agent securite",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "890360"
+      ]
+    },
+    {
+      "theme": "Probleme camera",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1175616"
+      ]
+    },
+    {
+      "theme": "Probleme affichage application",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1167971"
+      ]
+    },
+    {
+      "theme": "Probleme synchronisation application",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1166001"
+      ]
+    },
+    {
+      "theme": "Probleme prise connectee",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1164480"
+      ]
+    },
+    {
+      "theme": "Vol camera exterieure",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1105987"
+      ]
+    },
+    {
+      "theme": "Probleme connexion wifi camera",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1139318"
+      ]
+    },
+    {
+      "theme": "Probleme connexion ethernet centrale",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1127095"
+      ]
+    },
+    {
+      "theme": "Probleme centrale",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1126311"
+      ]
+    },
+    {
+      "theme": "Probleme batterie centrale",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1107130"
+      ]
+    },
+    {
+      "theme": "Probleme notification pile faible",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1114133"
+      ]
+    },
+    {
+      "theme": "Probleme affichage evenements",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1026059"
+      ]
+    },
+    {
+      "theme": "Probleme supervision equipement",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1110858"
+      ]
+    },
+    {
+      "theme": "Probleme connexion application",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1101813"
+      ]
+    },
+    {
+      "theme": "Probleme mode prive camera",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1107436"
+      ]
+    },
+    {
+      "theme": "Probleme capteur ouverture",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1061621"
+      ]
+    },
+    {
+      "theme": "Probleme reception SMS",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1036972"
+      ]
+    },
+    {
+      "theme": "Probleme affichage centrale",
+      "count": 1,
+      "percentage": 0.6,
+      "ticket_ids": [
+        "1093363"
+      ]
+    }
+  ],
+  "recommandations": [
+    {
+      "priorite": 1,
+      "titre": "Prioriser la resolution du theme 'Probleme detection camera'",
+      "description": "Avec 35 tickets (19.7%), ce theme represente la problematique la plus frequente et necessite une attention immediate.",
+      "actions": [
+        "Analyser les causes profondes des incidents",
+        "Identifier les patterns communs entre les tickets",
+        "Mettre en place des actions correctives ciblees",
+        "Former les equipes sur les bonnes pratiques de resolution"
+      ]
+    },
+    {
+      "priorite": 2,
+      "titre": "Traiter le theme 'Demande suppression equipement'",
+      "description": "25 tickets (14.0%) concernent ce theme. Une action systematique est necessaire.",
+      "actions": [
+        "Creer un processus standardise de traitement",
+        "Automatiser les taches repetitives si possible",
+        "Documenter les procedures pour les equipes CRC",
+        "Suivre l'evolution du nombre de tickets dans le temps"
+      ]
+    },
+    {
+      "priorite": 3,
+      "titre": "Adresser le theme 'Probleme acces live camera'",
+      "description": "23 tickets (12.9%) relevent de cette categorie.",
+      "actions": [
+        "Evaluer l'impact sur l'experience client",
+        "Identifier les ameliorations possibles du systeme",
+        "Communiquer avec les equipes techniques concernees",
+        "Mettre en place un suivi regulier"
+      ]
+    },
+    {
+      "priorite": 4,
+      "titre": "Analyser les tickets avec mentions @Usage",
+      "description": "132 tickets (64.4%) contiennent une mention @Usage, indiquant une necessite d'intervention technique.",
+      "actions": [
+        "Identifier les bugs recurrents remontes a l'equipe Usage",
+        "Ameliorer la collaboration CRC-Usage",
+        "Reduire le temps de resolution des tickets escalades",
+        "Former les equipes CRC pour eviter les escalades inutiles"
+      ]
+    },
+    {
+      "priorite": 5,
+      "titre": "Suivre l'evolution des themes dans le temps",
+      "description": "Mettre en place une analyse periodique pour mesurer l'efficacite des actions correctives.",
+      "actions": [
+        "Realiser cette analyse mensuellement",
+        "Comparer l'evolution des volumes par theme",
+        "Ajuster les priorites en fonction des tendances",
+        "Partager les resultats avec toutes les equipes concernees"
+      ]
+    }
+  ]
+}

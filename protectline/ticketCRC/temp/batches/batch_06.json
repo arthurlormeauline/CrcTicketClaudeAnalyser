@@ -1,0 +1,270 @@
+[
+  {
+    "ticket_id": 1138479,
+    "contract_id": "MPG43DWGT987",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1138479",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG43DWGT987",
+    "creation_date": "2025-09-15",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le client appelle pour signaler un problème avec la caméra de son salon qui détecte son chat, ce qui n'était pas le cas auparavant. Il demande si la sensibilité de la caméra peut être réduite ou si la caméra peut être désactivée. L'agent explique qu'il ne peut pas modifier la caméra à distance, mais propose de configurer le système en mode partiel pour éviter les fausses alertes. Le client est satisfait de la solution proposée et prévoit de suivre les conseils de l'agent.",
+      "@REFS, sur la détection du 14/09 à 00h31, un faux-positif est bien enregistré (le chat apparait sur la vidéo) mais sur les déclenchements du 15/09 le chat est détecté et la cliente averti par SMS. Est-ce normal ? Je lui ai conseillé de passer les équipements en mode à la maison sauf pour la cam et d'activer ce mode ",
+      "Je constate effectivement que les déclenchement du 15/09 font suite à la présence du chat.\nmais nous aurions dû avoir des faux positifs ? \nPouvez vous vérifier le seuil de déclenchement de la cam int ? \n\nclip\n\tSalon \tcamera \t- \t15/09/2025 12:37:21 "
+    ]
+  },
+  {
+    "ticket_id": 1139167,
+    "contract_id": "MPA42PT5CTHP",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1139167",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA42PT5CTHP",
+    "creation_date": "2025-09-15",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le client a contacté le service technique pour des problèmes de connexion avec une nouvelle caméra après l'installation de la fibre. Malgré plusieurs tentatives de connexion, la caméra clignotait en rouge et ne se connectait pas. L'agent a proposé des étapes pour résoudre le problème, mais la caméra n'a pas fonctionné. Finalement, l'agent a transmis le dossier au service informatique pour un suivi. Degré de satisfaction : 4.",
+      "Cliente rappelle pour appairer sa nouvelle cam int + reconnecter sa cam ext\n\nOn fait appairage de la cam int via QR Code orange et moi mais KO, cam int clignote bien bleu avec le bruit et reste bleu fixe mais ne remonte pas sur le système ni sur l'appli \nMsg d'erreur \"Erreur technique est survenu, ce n'est pas vous c'est nous\"\nVu avec ref, pour remonté usage \n\n+ Cam ext reconnecté ok \n+ J'indique à la cliente que son clavier est en piles faible, ref donné\nCliente fera le changement",
+      "Je garde ticket en cours, en ATT retour ref pour usage",
+      "@Refs pouvez-vous me dire si vous avez pu avoir un retour d'Usage concernant ce msg d'erreur \"Erreur technique est survenu, ce n'est pas vous c'est nous\" ? svp \nLa cam int de la cliente clignote bien bleu lors lorsqu'on présente le QR Code + petit bruit ok mais le msg d'erreur s'affiche \nMerci ",
+      "Lorsque la cliente  réalise le parcours pour installer la cam int à la fin du parcours elle a le message  \"Erreur technique est survenu, ce n'est pas vous c'est nous\" alors que visuellement la cam donne l'impression qu'elle est bien connectée\nPouvez vous regarder et nous dire ce que nous devon faire, si elle doit être remplacé ou pas ? "
+    ]
+  },
+  {
+    "ticket_id": 1139025,
+    "contract_id": "MPA3Y275CN5R",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1139025",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA3Y275CN5R",
+    "creation_date": "2025-09-15",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages la sim apparait déco même après reboot et le client confirme ne pas avoir été prévenu récemment à la suite d'une coupure pouvez-vous agir à distance ou doit-on remplacer l'UC ?"
+    ],
+    "all_comments": [
+      "APPEL SORTANT :\n\nclient indispo\n\nrvdv le 16/09 vers 10h",
+      "mvl\nmail pile ko camir et clavier",
+      "client rappelle je transfère à Stéphanie ",
+      "Résumé\n\nLe client appelle pour un problème technique avec son boîtier et son détecteur de présence. L'agent explique que les piles doivent être changées et propose d'envoyer un technicien pour effectuer cette tâche et déplacer un détecteur mal placé. Un rendez-vous est fixé pour le lendemain matin. Le client exprime sa satisfaction concernant le service et les améliorations apportées au système d'alarme. Degré de satisfaction : 9.\n\n- client ne mettait pas alarme car a une chambre d'hote dans le garage ou il y a un détecteur de mouvement\n- voulait programmer en partiel mais n'a pas réussi : avisé que si pb avec système ou autre on se tient a sa disposition\n- sav changement pile + changer de place ir garage pour que le client puisse mettre alarme dans sa totalité\n\n\n",
+      "@ref\n\n4 G ok chez le client \nantenne relais a 100 m\nuc mis a 1 mètre de la box internet, rien sur uc et pas d'autre équipement a proximité qui puisse perturbé le réseau\n\nmerci de voir si vous pouvez rétablir signal sim et me faire un retour svp (client veut etre rappelé car a eu une coupure générale et a cause de ce pb n'a pas recu info coupure, de plus avait un v1 avant dans cette maison et la sim 2 g a toujours fonctionner)",
+      "@Usages la sim apparait déco même après reboot et le client confirme ne pas avoir été prévenu récemment à la suite d'une coupure pouvez-vous agir à distance ou doit-on remplacer l'UC ?"
+    ]
+  },
+  {
+    "ticket_id": 1138905,
+    "contract_id": "MPA43DD8HCCL",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1138905",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA43DD8HCCL",
+    "creation_date": "2025-09-15",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Réponse :\n\nMadame TERBAH,\n\nVotre demande concernant le contrat Orange Maison Protégée a été prise en compte.\n\nNous avons vérifié votre installation et nous confirmons qu’à ce jour votre caméra intérieure est correctement connectée et que votre système fonctionne parfaitement.\n\nRestant à votre disposition pour toute question supplémentaire,\n\n\n@Offres, comment cela se fait-il que la cliente reçoive des sms/mails d'ATC pour une caméra extérieure alors qu'elle a juste une caméra intérieure et qu'elle n'a jamais eu de cam ext sur son contrat (j'ai vérifié le CRI), la caméra extérieure est localisée dans le salon tout comme l'est sa caméra intérieure, pour moi il y a un problème sur l'intitulé, pouvez-vous apporter un correctif svp ? ",
+      "Transféré à la Team Usages"
+    ]
+  },
+  {
+    "ticket_id": 1136745,
+    "contract_id": "GPV250500854",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1136745",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GPV250500854",
+    "creation_date": "2025-09-13",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages."
+    ],
+    "all_comments": [
+      "Le client a contacté le service client concernant un problème avec un détecteur de fumée. L'agent a expliqué qu'il y avait un dysfonctionnement lié à une ligne d'information de l'ancien détecteur. Il a assuré que le service expert s'occuperait de la suppression de cette ligne pour éviter toute importunité future. Le client a exprimé sa satisfaction et a remercié l'agent. Degré de satisfaction : 9.\n\npouvez vous supprimer la ligne de se détecteur de fumée s'il vous plait \n\n11487095\n\nNuméro d’identification:\nCrow-0013A129715E_0_2",
+      "@TOP pour suppression du DFO svp resté dans les équipements suite à un SAV \n\n11487095 \n \nNuméro d’identification: \nCrow-0013A129715E_0_2",
+      "@Usages.",
+      "Mail client : 04/10 - 20:43\n\nBonsoir, J'ai un problème sur le détecteur de fumée puisque je reçois des alertes me disant qu'il est déconnecté. Quand je me connecte sur mon application, je vois que j'ai 2 détecteurs qui sont connectés (je n'en ai qu'un seul dans la maison!) Merci d'avance de votre aide Ludivine HOUY\n\n\nEn réponse :\n\nMadame, Monsieur,\nVotre demande pour la Box Habitat a été prise en compte.\nNous avons transmis votre demande auprès de notre service concerné, nous reviendrons vers vous dans les plus brefs délais.\nEn cas de difficultés, vous pouvez nous contacter au 0969368839 du lundi au samedi de 8h à 20h.\nRestant à votre disposition,\nNous vous remercions de votre confiance,",
+      "@Opération pour suppression ancien détecteur de fumée",
+      "déjà répondu le 18/09/2025, ok pour suppression de notre côté"
+    ]
+  },
+  {
+    "ticket_id": 1136253,
+    "contract_id": "GOC230200559",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1136253",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GOC230200559",
+    "creation_date": "2025-09-13",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@usages live KO Groupama"
+    ],
+    "all_comments": [
+      "L'agent explique que le problème pourrait être lié à une mauvaise qualité du réseau Wi-Fi (vu avec ref pb réseau car TUS OK)\nLe client mentionne des orages récents qui pourraient avoir affecté la caméra. \nL'agent suggère de rapprocher la caméra ext de la box ou de contacter le fournisseur Internet pour augmenter le débit. \n+ Faire test live sur un autre tel et voir si c'est ok, mais cliente indique que son mari à un très ancien et donc ca ne fonctionnera pas\nElle va appeler son fournisseur internet orange\nDegré de satisfaction : 6.",
+      "Le client appelle car sa caméra ne fonctionne pas malgré une connexion correcte. Il a déjà contacté le service et a été conseillé de changer de box, ce qu'il a fait. L'agent a effectué une analyse et a confirmé qu'il n'y avait pas de dysfonctionnement, mais le client continue de recevoir des erreurs. L'agent a proposé de transférer le dossier au service technique de niveau 2 pour résoudre le problème. Le client exprime sa frustration face à la situation. Degré de satisfaction : 6.\n\n@n2 cam ext live Ko ",
+      "Madame, Monsieur, \nNous avons tenté de vous joindre concernant une demande sur votre abonnement de télésurveillance. \nNous vous informons qu’une nouvelle tentative sera effectuée par l’un de nos conseillers. \nL’équipe Groupama box habitat\n",
+      "N2 : INJ MVL SMS ",
+      "N2 : Le client a signalé un problème avec sa caméra extérieure qui ne fonctionne plus depuis une semaine, affichant une erreur. L'agent a pris note des détails techniques et a proposé de remonter le problème au service informatique. Le client a exprimé sa frustration face à la situation, mentionnant qu'il pourrait envisager de changer de fournisseur si le problème persiste. L'agent a assuré un suivi rapide. Degré de satisfaction : 6.\n\nModèle du téléphone XIAOMI  \nVersion du téléphone 14UPNA.230905.011\nVersion app 2.8.0\nTéléphone Pro : [ Non ]\nNouveau Problème : [ Oui  ]\nEst-ce que ça a déjà fonctionné avant ? > Si oui avec le même téléphone ? OUI \nVPN : [Non]\nTest Wifi et 5G/4G ? 5G \nDate/Heure de tentative KO 12H30 \nEst-ce que plusieurs personnes ont accès à l’application ? NON \n",
+      "@usages live KO Groupama",
+      "Le client a signalé un problème avec sa caméra qui ne fonctionnait pas. L'agent a vérifié le dossier et a confirmé que le problème était général et toujours en cours. Le client a tenté de se connecter à l'application, mais a rencontré des difficultés pour accéder à ses équipements. L'agent a expliqué comment changer de compte dans l'application. Le client a reçu un message indiquant que la caméra était reconnectée, mais ne pouvait toujours pas la visualiser. Degré de satisfaction : 6.",
+      "Le client appelle pour signaler un problème avec sa caméra extérieure qui ne fonctionne pas depuis 2 semaines. Elle exprime sa frustration face à l'absence de solution malgré plusieurs appels. L'agent explique que le problème est connu et qu'un service est en cours d'analyse. Le client demande également comment changer son nom suite à son mariage. L'agent fournit des instructions sur l'envoi des documents nécessaires. Le degré de satisfaction du client est de 4/10."
+    ]
+  },
+  {
+    "ticket_id": 1137220,
+    "contract_id": "GGE220501095",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1137220",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GGE220501095",
+    "creation_date": "2025-09-13",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le client a signalé un problème avec son système d'alarme qui ne fonctionne plus après une coupure Internet. L'agent a expliqué que la centrale est connectée à la box Internet et a guidé le client pour vérifier les connexions. Après plusieurs manipulations, le client a trouvé la carte SIM sous la batterie, mais celle-ci n'était pas détectée. L'agent a proposé de vérifier à distance si une solution était possible ou de remplacer la carte SIM. Degré de satisfaction : 8.",
+      "@REFS j'ai guider la cliente pour ouvrir l'UC , enlever la carte SIM , la frotter, souffler dans l'emplacement de la sim, tout refermé et la carte SIM n'est toujours pas détectée. \nPouvez vous m'indiquer si je dois faire un SAV?svp,  ou une action à distance est possible? ",
+      "Pouvez vous vérifier le fonctionnement du module Gsm ?  la centrale ne fixe pas le signal gsm alors que client est couvert par le réseau Orange à son domicile ",
+      "ECDT\nMAIL CLIENTE du 09/09 15h29\nIl semble que mon système soit déconnecté depuis le 08/09. Merci de me contacter\n\nREPONSE MAIL\nMadame BILLET,\n\nNous accusons réception de votre demande concernant votre contrat Groupama Box habitat. \n\nNous vous confirmons que votre dossier est actuellement en cours de traitement.\n\nDès que nous aurons un retour du service concerné, nous reviendrons vers vous dans les plus brefs délais.\n\n Merci de votre patience et de votre compréhension.\n"
+    ]
+  },
+  {
+    "ticket_id": 1135174,
+    "contract_id": "MPA43VHMVEMX",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1135174",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA43VHMVEMX",
+    "creation_date": "2025-09-12",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages, Cam Ext fait un clip négatif le 18/09 à 13h03 alors que la cliente se trouve seule entre sa maison et sa voiture mais elle fait un clip positif à 13h35 quand la cliente est proche de la voiture.\nPouvez-vous regarder pourquoi, svp? "
+    ],
+    "all_comments": [
+      "Le client appelle pour des problèmes de notifications avec sa caméra extérieure et son détecteur de mouvement dans le garage, récemment installés. Il n'a pas reçu de notifications lors de tests effectués. L'agent lui demande de patienter pendant qu'il effectue des tests et lui explique comment activer les notifications. Après plusieurs tests, le client reçoit finalement des notifications, mais il reste frustré par le fonctionnement initial. Degré de satisfaction : 7.",
+      "Pas de détection sur la caméra ext débit excellent que peut on faire?",
+      "A quel niveau il n'est pas détecté ? Car la cour est grande, il faudrait refaire un test et indiquer l'horodatage stp avec plus de précision sur le chemin parcouru par le client",
+      "(MES 13h21)  de l'alarme à 13h28 heure du test   KO, la caméra ne se détecte pas malgré quel sois dans le champs de la caméra, Led bleu bien affiché sur la caméra, le chemin parcouru par la cliente est le suivant : \n\nClient sors de chez elle pas de détection ( elle à bien patienter les 5-6 minutes le temps que la caméra se déclenche) \nclient va jusqu'à sont portail KO pas de détection\nLa cliente s'est rapproché au maximum pas de détection\nla cliente s'est éloigné au maximum pas de détection \nla cliente va devant la voiture bleu, OK la caméra à détecté à ce moment la \nZooning en PJ\n \n @ref une explication par rapport à ça ? ",
+      "copilot : Le client appelle concernant un problème avec sa caméra extérieure qui ne lui envoie pas de notifications lors de détections de mouvement. Après plusieurs tests, il a reçu une alerte intrusion, mais seulement après avoir désactivé le système. L'agent a promis de transmettre les informations à un expert pour une analyse plus approfondie. Le client semble frustré par la situation. Degré de satisfaction : 6.",
+      "@Usages, Cam Ext fait un clip négatif le 18/09 à 13h03 alors que la cliente se trouve seule entre sa maison et sa voiture mais elle fait un clip positif à 13h35 quand la cliente est proche de la voiture.\nPouvez-vous regarder pourquoi, svp? ",
+      "cliente relance concernant la même demande je lui indique que c'est en cours de traitement ",
+      "client relance,  Il exprime sa frustration de payer un abonnement complet pour un service incomplet. L'agent informe le client que le problème est en cours de traitement et qu'il fera une demande auprès du service commercial pour un suivi.",
+      "Le client a contacté le service client pour signaler un problème avec la caméra extérieure de son installation de maison protégée, qui ne fonctionne pas depuis l'installation. L'agent a confirmé qu'un dossier était déjà ouvert et qu'ils attendaient une réponse du service informatique. Le client a exprimé sa frustration face au délai de résolution, soulignant qu'il payait un abonnement pour un service incomplet. L'agent a proposé de faire un geste commercial une fois le problème résolu. Le client a également demandé des précisions sur une offre promotionnelle qu'il avait vue à la télévision, mais l'agent a clarifié qu'il ne s'agissait pas d'une offre applicable à son contrat. Le client a finalement accepté d'attendre une mise à jour sur la réparation de la caméra. Degré de satisfaction : 6."
+    ]
+  },
+  {
+    "ticket_id": 1134773,
+    "contract_id": "GCM250800357",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1134773",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GCM250800357",
+    "creation_date": "2025-09-12",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Message d'erreur: \"Une erreur est survenue lors de la connexion à la caméra  \nLive KO \nInstallation récente: 09/09 impossible d'avoir le live depuis hier \nIl a déjà désinstallé et réinstallé l'appli \n@N2 Aider le client pour son direct \n\n\n\nLe client appelle pour signaler un problème avec ses caméras de sécurité, qui ne fonctionnent plus depuis 2 jours. Il mentionne que la caméra arrière est allumée en bleu et celle de devant en rouge, sans image sur l'application. L'agent propose de transférer le dossier au service technique, qui devrait recontacter le client dans les 24 heures. Le client semble satisfait de la réponse, notant un degré de satisfaction de 7.",
+      "Traitement N2 : \n\nOn fait test live sur les 2 cam ext ---> KO; Msg d'erreur \"une erreur s'est produite lors de la connexion de la caméra\"\nCam ext devant clignote rouge mais je la vois bien connectée\nCam ext arrière clignote bleu, connectée aussi\n\nLe live fonctionne sur le tel de sa femme, elle a un Iphone 15\nClt possède lui un Samsung S22 et live KO\n\nOn fait test de détection sur les 2 cam ext ---> KO, aucune détection , cam bien paramétré en mode partiel\nElles s'activent bien mais pas de détection\nRefs pas dispo, j'envoi ticket\n\nInfo tel monsieur pour son live ko :\n\n- Samsung S22\n- Version App : Version 2.8.0\n- Téléphone perso uniquement \n- Nouveau pb, avant ca fonctionnait, lors de l'install tout fonctionnait bien \nIl a également fait le live à distance lors de son déplacement à Paris et tout fonctionnait \nEt clt a le pb du live depuis hier (11/09/25)\n- Aucun VPN\n- Test live KO en wifi et 4/5G\n- Date et heure des tests : 12/09/25 vers 14h40 + 14h55\n- Sa femme a accès à l'appli et cela fonctionne pour elle\n- Opérateur mobile : Orange sosh / sa Femme : free\n- Opérateur internet : Orange, livebox\n\n\n@Refs, pouvez-vous voir si tout est ok de votre côté svp ?\n\nDétection KO + Live KO sur le tel du clt , alors que cela fonctionnait il y'a quelques jours\nCam ext devant clignote rouge / Cam ext arrière clignote bleu\nA savoir qu'aucun test de détection des cam ext a été fait lors de l'install d'après le clt \nIls ont uniquement fait des tests de détections pour l'intérieur et test de live ",
+      "Le TUS fonctionne sur les deux caméras et ça fonctionne aussi pour sa femme donc le problème n'est pas matériel, je pense plus a un problème de tel du client ou du réseau, une des deux cam est en mauvaise qualité.\n\n@RD pour remontée appli concernant le tel du client ",
+      "Pouvez-vous regarder ce que vous avez dans les logs au moment des tests svp : 12/09/25 vers 14h40 + 14h55 ",
+      "Message :\n\nbonjour je n arrive pas a me connecter aux caméras avec l application\n\n----\n\n\nMadame, Monsieur,\n\nVotre demande concernant le contrat Box Habitat est en cours de traitement.\n\nLes informations ont été transmises au service concerné, nous reviendrons vers vous dans les plus brefs délais.\n \nRestant à votre disposition pour toute question supplémentaire,\n\nNous vous remercions de votre confiance,"
+    ]
+  },
+  {
+    "ticket_id": 1135946,
+    "contract_id": "MPA437T2K2KJ",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1135946",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA437T2K2KJ",
+    "creation_date": "2025-09-12",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le client appelle pour signaler un problème avec son système d'alarme, qui ne lui laisse pas assez de temps pour sortir de chez lui après l'avoir activé. L'agent explique les modes de fonctionnement de l'alarme et guide le client à travers des tests. Après plusieurs échanges, l'agent promet de se renseigner auprès du service technique et de rappeler le client pour une solution. Le client semble frustré par la situation. Degré de satisfaction : 5.",
+      "@REFS SVP Pouvez vous m'indiquer quelle solution je peux proposer à la cliente? plusieurs tests ont confirmé cela à l'instant : le mode partiel ne donne aucune temporisation (délai d'activation) pour avoir le temps de sortir de l'habitation. La cliente est contrainte d'activer le mode partiel en étant déjà à l'extérieur, et cela depuis le dernier SAV changement de DO. \n",
+      "La tempo est d'une minute en total ou partiel, si c'est trop court pour la cliente elle doit le faire une fois sortie avec l'application",
+      "Nous avons fait le test et le clavier ne donne pas la tempo d'UNE minute justement.\nDès qu'elle active le Mode Partiel le clavier ne reste pas rouge comme durant une temporisation en cours, et l'alarme s'active immédiatement. \nActivation partielle -\tgateway\tEmmanuelle\t12/09/2025 18:18:06\nAlerte intrusion Entrée\tdoshock\t-\t12/09/2025 18:18:14",
+      "Pouvez vous mettre en place une tempo d'une minute à l'activation en mode partiel ? "
+    ]
+  },
+  {
+    "ticket_id": 1133921,
+    "contract_id": "GGE250700182",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1133921",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GGE250700182",
+    "creation_date": "2025-09-11",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "C'est pas encore chez nous ça. @Usages vous pouvez regarder svp. "
+    ],
+    "all_comments": [
+      "Problème de détection sur les 3 caméras du système, aucune remontée d'intrusion mais direct fonctionnel.\nAprès 12 minutes d'attente avant de faire déclencher les 3 caméras, aucune d'entre elle ne détecte et n'envoie de sms intrusions.\nMEAG703A2D98B7D3\nMEAG703A2D9DE9FF\nMEAG703A2D9DEB70\nMerci de regarder ce qu'il ce passe et recontacter le client.\nCordialement ",
+      "C'est pas encore chez nous ça. @Usages vous pouvez regarder svp. "
+    ]
+  },
+  {
+    "ticket_id": 1133228,
+    "contract_id": "MPA42HG83DKX",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1133228",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA42HG83DKX",
+    "creation_date": "2025-09-11",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le technicien a remplacé la caméra extérieur et la détection ce fait tardivement , ainsi que le clip vidéo n'est pas lisible sur l'application client.\nLe direct fonctionne correctement.\nHors avant le remplacement de celle-ci le client pouvait visionner les clips.\nMerci de regarder ce qu'il ce passe et de recontacter le client qui est soucieux de son système. \nCordialement "
+    ]
+  },
+  {
+    "ticket_id": 1134039,
+    "contract_id": "MPC43REWFRU7",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1134039",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC43REWFRU7",
+    "creation_date": "2025-09-11",
+    "has_usage_mention": true,
+    "usage_mentions": [
+      "@Usages caméra déjà changée mais client a toujours le même problème avec sa cam int qui répond lors de la demande du live mais au bout d'une minute le live se referme cam int clignote rouge puis bleu puis bleu fixe et c'est comme cela a chaque essai "
+    ],
+    "all_comments": [
+      "Le client a signalé un problème avec sa caméra de sécurité, qui ne se connecte pas correctement et reste rouge ou clignote. Il a mentionné avoir trouvé le bon mot de passe, mais la caméra ne fonctionne pas de manière fiable. L'agent a confirmé que la connexion était bonne, mais a noté que le direct ne fonctionnait pas toujours. L'agent a promis de transmettre le problème au service technique pour un diagnostic. Degré de satisfaction : 6.\nN2 live direct ko \nreboot ko",
+      "Doublon ",
+      "Le client a signalé des problèmes avec sa caméra intérieure, qui ne fonctionne qu'une fois sur trois, se déconnectant souvent et nécessitant une reprogrammation fréquente. L'agent a proposé des solutions, y compris le débranchement et le rebranchement de l'appareil. Après plusieurs tentatives, la caméra a finalement fonctionné, mais le client a exprimé des frustrations quant à la nécessité de répéter ces étapes. Le degré de satisfaction du client est de 6.",
+      "tél : ONOR 90 lite \nversion appli : 5.0\nwifi et 4g même problème \nréseau wifi : SFR fibre box 8\nréseau mobile : SFR \n\nsa caméra reste phasé une fois qu'elle ouvre le direct et les voyant clignote en bleu \nune fois qu'elle débranche la caméra int elle doit obligatoirement la ré appairer et l'appli fonctionnera seulement sur le moment une fois que la cliente fermera l'appli et la ré ouvrira le problème reviendra la cam phase sur le direct et ne bouge pas ni rien avec voyant bleu qui clignote \n\n@ref que peut on faire ? ",
+      "n2 ticket ",
+      "Il faudrait un speedtest pour contrôler le débit, si le débit est OK on peut tenter de réinitialiser la cam + reconnexion et si le problème persiste on la changera.",
+      "client appelé - messagerie \n si elle rappelle faire les tests avec elle du speedtest ",
+      "Le client a contacté le service client pour signaler un problème persistant avec sa caméra intérieure, qui ne fonctionne pas correctement malgré des tentatives de connexion. L'agent a proposé de faire appel à un technicien pour des tests approfondis. Le client a également mentionné des difficultés à retourner une caméra défectueuse à cause d'un problème avec le transporteur. Le client a exprimé sa frustration face à la situation. Degré de satisfaction : 4.\n@N2\nlorsqu elle se connecte au live ça l éjecte\nelle me dit qu elle n arrête pas de clignoter\n+voir pour lui renvoyer 1 BR pour retourner l anciennes cam  merci\n\nspeed test déjà fait :SPEED TEST : TC 60.22 / TF 83.61 \nvoir ticket https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1129109\n\n+ voir si possibilité cam ext à 1€",
+      "doublon",
+      "Doublon plus de 47h",
+      "Le client a signalé des problèmes avec sa caméra depuis le 10, notamment un code-barres non reconnu pour le retour. L'agent a pris les informations nécessaires et a mis le client en attente pour analyser le dossier. L'agent a confirmé l'envoi d'un bon de retour par email et a mentionné qu'un technicien de niveau 2 le rappellerait. Le client a exprimé sa frustration face à la lenteur du service technique. Le degré de satisfaction du client est de 4 sur 10.\n\nDemande de Br faite aux refs ",
+      "BR ENVOYE PAR MAIL",
+      "N2\n\nLe client a signalé un dysfonctionnement de sa caméra intérieure, débranchée puis rebranchée. L'agent a constaté qu'elle était déconnectée et a suggéré de rafraîchir la page. Après plusieurs tentatives, la caméra clignotait en rouge et bleu, ne restant pas connectée plus d'1 minute. L'agent a mis à jour le logiciel de la caméra et a renvoyé un bon de retour pour une caméra défectueuse. Le client a reçu le bon, mais reste frustré par le problème persistant.\n\n@refs du coup la cliente atouours le même problème avec sa cam int qui répond lors de la demande du live mais au bout d'une minute le live se referme cam int clignote rouge puis bleu puis bleu fixe et c'est comme cela a chaque essai\n\nje reprends donc les infos de du tel de l'appli et de la box ce sont les suivantes :\n\ntél : HONOR 90 lite  \nversion appli : 5.0 \nwifi et 4g même problème  \nréseau wifi : SFR fibre box 8 \nréseau mobile : SFR  \n\nSPEED TEST : TC 60.22 / TF 83.61  \n\npouvez-vous voir ce qu'il se passe car même avec firmware a jour même problème svp ?",
+      "@Usages caméra déjà changée mais client a toujours le même problème avec sa cam int qui répond lors de la demande du live mais au bout d'une minute le live se referme cam int clignote rouge puis bleu puis bleu fixe et c'est comme cela a chaque essai ",
+      "Le client appelle pour signaler que sa caméra intérieure ne fonctionne pas depuis le 10 septembre. Il exprime sa frustration face à l'absence de solution et menace de résilier son abonnement. L'agent explique que le problème pourrait venir de l'application et propose de rappeler la semaine suivante pour faire le point. Le client souhaite que la situation soit résolue rapidement, sinon il contactera le service commercial.",
+      "Le client appelle pour signaler un problème avec sa caméra intérieure depuis le 10 septembre. Il exprime son mécontentement face à l'absence de nouvelles du service technique et souhaite contacter le service commercial. L'agent explique que le problème est en cours d'étude et qu'un geste commercial sera envisagé une fois la situation résolue. Le client se sent frustré par le manque de communication et menace de résilier son abonnement. ",
+      "doublon 2h",
+      "Le client appelle pour signaler un problème avec sa caméra intérieure, qui ne fonctionne pas depuis le 10 septembre. L'agent confirme que le dossier est en cours de traitement par le service informatique, mais le client exprime son mécontentement face à l'absence de nouvelles et à la nécessité d'une réponse rapide. Le client souligne l'importance de la caméra pour des raisons de sécurité et demande un geste commercial. L'agent promet de relancer le dossier et de rappeler le client. Degré de satisfaction : 4.",
+      "@ref cliente relance car pas de retour par rapport à sa cam et pas de retour de usages pouvez vous relancer svp \n\nLe client appelle le service technique d'Orange pour signaler que sa caméra intérieure ne fonctionne pas depuis environ un mois. L'agent vérifie le dossier et confirme que le problème est en cours d'analyse par le service technique supérieur. Il s'excuse pour le délai de traitement et assure au client qu'un geste commercial sera appliqué une fois la caméra opérationnelle. Le client exprime sa frustration face à la situation, mais l'agent le rassure sur le suivi de son dossier. Degré de satisfaction : 6.\n\n",
+      "Relance Usages par Teams"
+    ]
+  },
+  {
+    "ticket_id": 1134199,
+    "contract_id": "GGE240800724",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1134199",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GGE240800724",
+    "creation_date": "2025-09-11",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Détection de répondeur.",
+      "Le client a contacté le service technique en raison d'un problème de connexion avec sa caméra extérieure, qui ne fonctionne plus depuis environ 7 jours. Il a tenté de redémarrer et de réinstaller l'application sans succès. L'agent a reconnu le problème et a promis de le remonter pour un diagnostic, avec la possibilité de remplacer la caméra si nécessaire. Le client a exprimé sa compréhension face à la situation. Degré de satisfaction : 7.\n\n@REFS \n\nErreur \"direct_error_\" lors de la demande de streaming 3e cas ajd\nAppli désinstallé reinstallé \nSpeed trst OK \n\nToujours KO\n",
+      "J'ai testé de mon côté j'ai bien accès au live à partir de TUS \nIl nous faudrait les infos par rapport à son téléphone \nA t-il la possibilité de tester aussi à partir d'un autre téléphone ? ",
+      "Le client appelle pour un problème de caméra extérieure qui ne détecte plus les mouvements. Il avait déjà contacté le service technique sans retour. L'agent confirme que des tests ont été effectués et demande au client d'envoyer des captures d'écran des messages d'erreur. Le client envoie les informations demandées et attend un retour concernant un éventuel changement de caméra. Le client semble satisfait de l'assistance reçue, notant son degré de satisfaction à 8.\n\n@REFS, voici la remontée d'information par rapport aux téléphones des clients. Il dit avoir essayer de faire des visionnages ce weekend, mais rencontre toujours les messages d'erreur. Il nous envoi les captures d'écran qu'il a prit par mail. \nAu niveau de la caméra, tout est au vert. Le client a déjà essayé d'éteindre et rallumer la caméra.\n\n1.Modèle du téléphone : Monsieur Samsung S24+, Madame: Samsung S21 Ultra\n2.Version du téléphone Android : Android 15\n3.Version app Téléphone Pro : Non \n4.Nouveau Problème : Oui - Plus d'images à partir du 11/09, dit que sur le téléphone de sa femme sa fonctionnait mais quelques jours après non.\n5. Est-ce que ça a déjà fonctionné avant ? >oui \n6.VPN : Non Test Wifi et 5G/4G ? Date/Heure de tentative KO \n7.Est-ce que plusieurs personnes ont accès à l’application ?  Oui, monsieur et madame \n8.Capture d’écran ; Le client nous les envoi",
+      "Le client appelle au sujet de sa caméra extérieure qui ne fonctionne pas depuis 15 jours. L'agent confirme que le problème a été remonté et qu'il relancera le service concerné. Le client mentionne des erreurs de connexion et l'absence d'alerte de détection. L'agent explique qu'il y a un bug connu sur Android et propose un mois gratuit pour l'option payante. Le client attend un retour. Degré de satisfaction : 6.\n\nle client relance j'indique que sa demande est en cours de traitement\ncomme vu dans le mail concernant le pb de streaming sur Android j'indique qu'on pourra faire un GC sur l'option cam ext mais n'étant pas le seul problème je l'invite à refaire une demande de GC une fois résolu "
+    ]
+  },
+  {
+    "ticket_id": 1132665,
+    "contract_id": "MPG43SSPSZ7D",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1132665",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG43SSPSZ7D",
+    "creation_date": "2025-09-11",
+    "has_usage_mention": false,
+    "all_comments": [
+      "Le client a contacté le service technique pour un problème avec sa caméra de maison protégée, nécessitant une connexion sur la fréquence 2,4. Après avoir été transféré, l'appel a été coupé. L'agent a expliqué que le client devait appeler le 3900 pour le service Internet. Le client a exprimé sa frustration face à la coupure et a remercié l'agent avant de décider de rappeler. Degré de satisfaction : 5.",
+      "Le client a contacté le service pour des problèmes de connexion avec sa caméra, nécessitant un changement de fréquence à 2,4 GHz. L'agent a expliqué que cela devait être fait par le service Internet, et a conseillé de rappeler le 3900 sans mentionner la caméra. Le client a exprimé sa frustration face à la difficulté d'obtenir de l'aide et a tenté plusieurs fois de résoudre le problème. Le degré de satisfaction du client est de 4.",
+      "Le client a contacté le service client pour un problème de caméra qui se déconnecte fréquemment. Malgré des manipulations effectuées avec le service technique, le problème persiste, et le client exprime sa frustration. L'agent a proposé de faire remonter le cas à ses supérieurs pour une solution. Le client part en vacances dans 10 jours et souhaite que le problème soit résolu d'ici là. Degré de satisfaction : 4.\n\ncliente rappelle car live toujours KO\nspeedtest téléchargement :  21.4 / transfert 20.2 \ntest TUS avec ref OK\nje fais reboot cam, après cela la cliente reteste le live ça fonctionne quelque seconde puis KO avec message \"une erreur s'est produite\"\nelle retente : écran noir \n\n@refs live toujours KO du coté de la cliente malgré tests que peut-on faire svp?",
+      "La consultation du live côté client ne dépasse pas les 30 secondes avant le message d'erreur\" une erreur s'est produite\".\nPas de déconnexion en consultant le live avec Tus \ndébit internet ok \n"
+    ]
+  }
+]

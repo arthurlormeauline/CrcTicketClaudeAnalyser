@@ -53,7 +53,7 @@ python scripts/preprocess_tickets.py
 Cree le dossier `temp/` avec les fichiers intermediaires
 
 ### Etape 2 : Analyse manuelle par Claude
-Consulter le fichier `prompt/instructions-analyse-tickets.md` pour la methodologie detaillee.
+Lance la commande `instructions-analyse-tickets 0`.
 
 
 ### Etape 3 : Generation des rapports finaux

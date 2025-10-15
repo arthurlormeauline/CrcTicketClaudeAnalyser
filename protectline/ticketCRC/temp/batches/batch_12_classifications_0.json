@@ -1,0 +1,17 @@
+{
+  "1021813": ["Probleme visibilite camera interieure CRM"],
+  "1019351": ["Probleme desactivation systeme non initiee"],
+  "1013387": ["Probleme infrarouge camera exterieure"],
+  "1008685": ["Demande mise a jour contrat"],
+  "1010326": ["Demande arret notifications camera debranchee"],
+  "1006842": ["Probleme live camera interieure"],
+  "1001680": ["Probleme delai notification alarme incendie"],
+  "988384": ["Probleme detection camera exterieure faux negatifs"],
+  "981238": ["Probleme live camera exterieure telephone specifique"],
+  "976326": ["Probleme redemarrage centrale activation"],
+  "898991": ["Probleme detection camera exterieure faux positifs"],
+  "898228": ["Probleme live camera exterieure"],
+  "890360": ["Probleme detection camera exterieure faux positifs"],
+  "498840": ["Demande suppression equipement"],
+  "392497": ["Demande suppression equipement"]
+}

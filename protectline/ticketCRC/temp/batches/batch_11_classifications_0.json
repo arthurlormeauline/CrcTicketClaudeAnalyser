@@ -1,0 +1,17 @@
+{
+  "1071014": ["Probleme notifications defaut pile PIRCAM"],
+  "1070651": ["Probleme notifications supervision DFO recurrentes"],
+  "1061621": ["Probleme alerte intrusion systeme desarme"],
+  "1069858": ["Probleme live camera interieure"],
+  "1069152": ["Probleme module GSM deconnecte"],
+  "1066744": ["Probleme module SIM deconnecte"],
+  "1067621": ["Probleme ecran noir live camera"],
+  "1066510": ["Probleme module GSM deconnecte"],
+  "1065688": ["Probleme affichage pictogramme porte clavier"],
+  "1058164": ["Probleme seuil detection camera exterieure"],
+  "1053605": ["Probleme alerte intrusion systeme desarme"],
+  "1047783": ["Probleme parametrage wifi centrale"],
+  "1036972": ["Probleme reception code verification SMS"],
+  "1026059": ["Probleme affichage evenements application"],
+  "1024655": ["Probleme supervision detecteur ouverture"]
+}

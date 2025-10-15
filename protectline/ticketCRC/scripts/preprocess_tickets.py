@@ -16,7 +16,7 @@ def get_usage_mentions(ticket_id, ticket_details):
             for comment in comments:
                 comment_text = comment.get('comment', '')
                 comment_text_lower = comment_text.lower()
-                if '@usage' in comment_text_lower:
+                if '@usage' or '@usages' in comment_text_lower:
                     usage_mentions.append({
                         'date': comment.get('createdAt'),
                         'text': comment_text
@@ -189,8 +189,3 @@ if __name__ == '__main__':
     print("- tickets_old.json (tickets anciens)")
     print("- tickets_for_analysis.json (tous les tickets a analyser, avec et sans @Usage)")
     print("- tickets_for_llm_analysis.txt (version lisible)")
-    print("\nEtape suivante:")
-    print("1. Executer: python scripts/split_tickets_for_analysis.py")
-    print("2. Analyser les batches manuellement avec Claude")
-    print("3. Executer: python scripts/merge_batch_classifications.py")
-    print("4. Executer: python scripts/generate_final_html.py")

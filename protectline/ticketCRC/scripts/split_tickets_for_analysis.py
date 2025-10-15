@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 import json
+import sys
 from pathlib import Path
 
-def split_tickets_into_batches(input_file, output_dir, batch_size=15):
+def split_tickets_into_batches(input_file, output_dir, index, batch_size=15):
     """
     Decoupe le fichier tickets_for_analysis.json en plusieurs petits fichiers
     pour permettre a Claude de les lire et analyser manuellement
@@ -34,7 +35,7 @@ def split_tickets_into_batches(input_file, output_dir, batch_size=15):
         end_idx = min(start_idx + batch_size, total_tickets)
         batch = tickets_sorted[start_idx:end_idx]
 
-        batch_filename = f"batch_{i+1:02d}.json"
+        batch_filename = f"batch_{i+1:02d}_{index}.json"
         batch_path = output_dir / batch_filename
 
         with open(batch_path, 'w', encoding='utf-8') as f:
@@ -44,12 +45,20 @@ def split_tickets_into_batches(input_file, output_dir, batch_size=15):
 
     print(f"\nTous les batches ont ete crees dans {output_dir}/")
     print(f"\nClaude peut maintenant lire et analyser chaque batch manuellement :")
-    print(f"- Lire temp/batches/batch_01.json avec l'outil Read")
+    print(f"- Lire temp/batches/batch_01_{index}.json avec l'outil Read")
     print(f"- Analyser les mentions @Usage et le contexte")
     print(f"- Identifier les themes manuellement")
     print(f"- Passer au batch suivant")
 
 if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print("ERREUR: L'index d'analyse est requis")
+        print("Usage: python scripts/split_tickets_for_analysis.py <index>")
+        print("Exemple: python scripts/split_tickets_for_analysis.py 01")
+        exit(1)
+
+    index = sys.argv[1]
+
     script_dir = Path(__file__).parent
     parent_dir = script_dir.parent
     temp_dir = parent_dir / 'temp'
@@ -62,4 +71,4 @@ if __name__ == '__main__':
         print("Executez d'abord: python scripts/preprocess_tickets.py")
         exit(1)
 
-    split_tickets_into_batches(input_file, output_dir, batch_size=15)
+    split_tickets_into_batches(input_file, output_dir, index, batch_size=15)

@@ -1,5 +1,25 @@
 [
   {
+    "ticket_id": 988384,
+    "contract_id": "MPC3Z6DGKWUY",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/988384",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC3Z6DGKWUY",
+    "creation_date": "2025-05-23",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-05-23"
+  },
+  {
+    "ticket_id": 1065688,
+    "contract_id": "GPV240301358",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1065688",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GPV240301358",
+    "creation_date": "2025-07-17",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-07-17"
+  },
+  {
     "ticket_id": 1057196,
     "contract_id": "MPC43FVKL6LT",
     "title": "",
@@ -20,6 +40,16 @@
     "first_usage_date": "2025-07-05"
   },
   {
+    "ticket_id": 1047783,
+    "contract_id": "MPC433AY7S9H",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1047783",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC433AY7S9H",
+    "creation_date": "2025-07-03",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-07-03"
+  },
+  {
     "ticket_id": 1034675,
     "contract_id": "MPC43KV36T5T",
     "title": "",
@@ -28,6 +58,16 @@
     "creation_date": "2025-06-26",
     "has_usage_mention": true,
     "first_usage_date": "2025-06-26"
+  },
+  {
+    "ticket_id": 1024655,
+    "contract_id": "MPG3ZDP7J7TD",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1024655",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG3ZDP7J7TD",
+    "creation_date": "2025-06-18",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-06-18"
   },
   {
     "ticket_id": 1030379,
@@ -40,6 +80,26 @@
     "first_usage_date": "2025-06-23"
   },
   {
+    "ticket_id": 1021813,
+    "contract_id": "GPV240601835",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1021813",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GPV240601835",
+    "creation_date": "2025-06-17",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-06-17"
+  },
+  {
+    "ticket_id": 1019351,
+    "contract_id": "MPG3Y4WKS3ZK",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1019351",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG3Y4WKS3ZK",
+    "creation_date": "2025-06-16",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-06-16"
+  },
+  {
     "ticket_id": 1014445,
     "contract_id": "GNE240400548",
     "title": "",
@@ -47,7 +107,7 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GNE240400548",
     "creation_date": "2025-06-12",
     "has_usage_mention": true,
-    "first_usage_date": "2025-06-13"
+    "first_usage_date": "2025-06-12"
   },
   {
     "ticket_id": 1015017,
@@ -60,6 +120,16 @@
     "first_usage_date": "2025-06-13"
   },
   {
+    "ticket_id": 1008685,
+    "contract_id": "MPE43KASXJMU",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1008685",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPE43KASXJMU",
+    "creation_date": "2025-06-10",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-06-10"
+  },
+  {
     "ticket_id": 998523,
     "contract_id": "MPE42T8GCRU8",
     "title": "",
@@ -67,7 +137,17 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPE42T8GCRU8",
     "creation_date": "2025-06-02",
     "has_usage_mention": true,
-    "first_usage_date": "2025-06-05"
+    "first_usage_date": "2025-06-02"
+  },
+  {
+    "ticket_id": 1001680,
+    "contract_id": "GLB230601805",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1001680",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB230601805",
+    "creation_date": "2025-06-04",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-06-04"
   },
   {
     "ticket_id": 987284,
@@ -77,7 +157,7 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GGE240700581",
     "creation_date": "2025-05-23",
     "has_usage_mention": true,
-    "first_usage_date": "2025-05-27"
+    "first_usage_date": "2025-05-23"
   },
   {
     "ticket_id": 971511,
@@ -97,7 +177,37 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GGE230500660",
     "creation_date": "2025-05-09",
     "has_usage_mention": true,
-    "first_usage_date": "2025-05-10"
+    "first_usage_date": "2025-05-09"
+  },
+  {
+    "ticket_id": 890360,
+    "contract_id": "GCA241200031",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/890360",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GCA241200031",
+    "creation_date": "2025-03-03",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-03-03"
+  },
+  {
+    "ticket_id": 392497,
+    "contract_id": "GCA220500336",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/392497",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GCA220500336",
+    "creation_date": "2023-10-11",
+    "has_usage_mention": true,
+    "first_usage_date": "2023-10-11"
+  },
+  {
+    "ticket_id": 498840,
+    "contract_id": "GPV240100359",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/498840",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GPV240100359",
+    "creation_date": "2024-02-15",
+    "has_usage_mention": true,
+    "first_usage_date": "2024-02-15"
   },
   {
     "ticket_id": 849200,
@@ -107,7 +217,57 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG42ZRESRWL",
     "creation_date": "2025-01-24",
     "has_usage_mention": true,
-    "first_usage_date": "2025-05-31"
+    "first_usage_date": "2025-01-24"
+  },
+  {
+    "ticket_id": 898991,
+    "contract_id": "MPA3ZHGZ2JWE",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/898991",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA3ZHGZ2JWE",
+    "creation_date": "2025-03-10",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-03-10"
+  },
+  {
+    "ticket_id": 976326,
+    "contract_id": "GPV220602827",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/976326",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GPV220602827",
+    "creation_date": "2025-05-14",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-05-14"
+  },
+  {
+    "ticket_id": 334048,
+    "contract_id": "MPG3XY89NETM",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/334048",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG3XY89NETM",
+    "creation_date": "2023-07-21",
+    "has_usage_mention": true,
+    "first_usage_date": "2023-07-21"
+  },
+  {
+    "ticket_id": 898228,
+    "contract_id": "GOC240100202",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/898228",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GOC240100202",
+    "creation_date": "2025-03-10",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-03-10"
+  },
+  {
+    "ticket_id": 1013387,
+    "contract_id": "MPA43GXKBYU3",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1013387",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA43GXKBYU3",
+    "creation_date": "2025-06-12",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-06-12"
   },
   {
     "ticket_id": 981687,
@@ -117,7 +277,17 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GPV240603831",
     "creation_date": "2025-05-19",
     "has_usage_mention": true,
-    "first_usage_date": "2025-07-04"
+    "first_usage_date": "2025-05-19"
+  },
+  {
+    "ticket_id": 1006842,
+    "contract_id": "MPC43JPA4578",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1006842",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC43JPA4578",
+    "creation_date": "2025-06-07",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-06-07"
   },
   {
     "ticket_id": 693443,
@@ -126,6 +296,46 @@
     "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/693443",
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC3ZM272H5C",
     "creation_date": "2024-08-28",
+    "has_usage_mention": true,
+    "first_usage_date": "2024-08-28"
+  },
+  {
+    "ticket_id": 1058164,
+    "contract_id": "MPG43L9BJ8ZP",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1058164",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG43L9BJ8ZP",
+    "creation_date": "2025-07-10",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-07-10"
+  },
+  {
+    "ticket_id": 981238,
+    "contract_id": "GLB220606679",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/981238",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB220606679",
+    "creation_date": "2025-05-19",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-05-19"
+  },
+  {
+    "ticket_id": 1026059,
+    "contract_id": "MPC43JGYAZMB",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1026059",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC43JGYAZMB",
+    "creation_date": "2025-06-19",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-06-19"
+  },
+  {
+    "ticket_id": 1036972,
+    "contract_id": "MPC43MEG7MSW",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1036972",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPC43MEG7MSW",
+    "creation_date": "2025-06-26",
     "has_usage_mention": true,
     "first_usage_date": "2025-06-26"
   },
@@ -147,7 +357,17 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB240200440",
     "creation_date": "2025-04-17",
     "has_usage_mention": true,
-    "first_usage_date": "2025-04-28"
+    "first_usage_date": "2025-04-17"
+  },
+  {
+    "ticket_id": 1010326,
+    "contract_id": "GLB240900415",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1010326",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB240900415",
+    "creation_date": "2025-06-10",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-06-10"
   },
   {
     "ticket_id": 1063235,
@@ -157,7 +377,7 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG43ND2J5Y3",
     "creation_date": "2025-07-16",
     "has_usage_mention": true,
-    "first_usage_date": "2025-07-17"
+    "first_usage_date": "2025-07-16"
   },
   {
     "ticket_id": 1054598,
@@ -177,7 +397,17 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB240701365",
     "creation_date": "2025-06-06",
     "has_usage_mention": true,
-    "first_usage_date": "2025-07-16"
+    "first_usage_date": "2025-06-06"
+  },
+  {
+    "ticket_id": 1053605,
+    "contract_id": "MPE4285TKYT2",
+    "title": "",
+    "crm_url": "https://crm.teamoffre.prod.protectline.fr/main/tickets/edit/1053605",
+    "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPE4285TKYT2",
+    "creation_date": "2025-07-08",
+    "has_usage_mention": true,
+    "first_usage_date": "2025-07-08"
   },
   {
     "ticket_id": 1046489,
@@ -187,7 +417,7 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG437Z84YNV",
     "creation_date": "2025-07-03",
     "has_usage_mention": true,
-    "first_usage_date": "2025-07-07"
+    "first_usage_date": "2025-07-03"
   },
   {
     "ticket_id": 1045661,
@@ -197,7 +427,7 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=GLB241001546",
     "creation_date": "2025-07-02",
     "has_usage_mention": true,
-    "first_usage_date": "2025-07-05"
+    "first_usage_date": "2025-07-02"
   },
   {
     "ticket_id": 549843,
@@ -207,7 +437,7 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA3YGMTZ2LD",
     "creation_date": "2024-04-20",
     "has_usage_mention": true,
-    "first_usage_date": "2025-07-01"
+    "first_usage_date": "2024-04-20"
   },
   {
     "ticket_id": 1031314,
@@ -217,7 +447,7 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPA43L95SRJE",
     "creation_date": "2025-06-23",
     "has_usage_mention": true,
-    "first_usage_date": "2025-07-04"
+    "first_usage_date": "2025-06-23"
   },
   {
     "ticket_id": 73333,
@@ -227,7 +457,7 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPG3XRHG8N3R",
     "creation_date": "2022-03-14",
     "has_usage_mention": true,
-    "first_usage_date": "2025-06-24"
+    "first_usage_date": "2022-03-14"
   },
   {
     "ticket_id": 981857,
@@ -237,6 +467,6 @@
     "backoffice_url": "https://back-office-fe.teamusages.prod.internal/dashboard?contractId=MPE42D6MHGYJ",
     "creation_date": "2025-05-19",
     "has_usage_mention": true,
-    "first_usage_date": "2025-06-09"
+    "first_usage_date": "2025-05-19"
   }
 ]

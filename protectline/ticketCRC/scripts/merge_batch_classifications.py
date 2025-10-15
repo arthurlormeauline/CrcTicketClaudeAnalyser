@@ -1,19 +1,21 @@
 #!/usr/bin/env python3
 import json
+import sys
 from pathlib import Path
 
-def merge_batch_classifications(batches_dir, output_file):
+def merge_batch_classifications(batches_dir, output_file, index):
     """
-    Fusionne tous les fichiers batch_XX_classifications.json
-    en un seul fichier manual_classifications.json
+    Fusionne tous les fichiers batch_XX_classifications_{index}.json
+    en un seul fichier manual_classifications_{index}.json
     """
 
-    # Trouver tous les fichiers de classification
-    classification_files = sorted(batches_dir.glob('batch_*_classifications.json'))
+    # Trouver tous les fichiers de classification pour cet index
+    pattern = f'batch_*_classifications_{index}.json'
+    classification_files = sorted(batches_dir.glob(pattern))
 
     if not classification_files:
         print(f"ERREUR: Aucun fichier de classification trouve dans {batches_dir}")
-        print(f"Les fichiers doivent suivre le pattern: batch_XX_classifications.json")
+        print(f"Les fichiers doivent suivre le pattern: batch_XX_classifications_{index}.json")
         return False
 
     print(f"Fichiers de classification trouves: {len(classification_files)}")
@@ -51,22 +53,31 @@ def merge_batch_classifications(batches_dir, output_file):
     return True
 
 if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print("ERREUR: L'index d'analyse est requis")
+        print("Usage: python scripts/merge_batch_classifications.py <index>")
+        print("Exemple: python scripts/merge_batch_classifications.py 01")
+        exit(1)
+
+    index = sys.argv[1]
+
     script_dir = Path(__file__).parent
     parent_dir = script_dir.parent
     temp_dir = parent_dir / 'temp'
 
     batches_dir = temp_dir / 'batches'
-    output_file = temp_dir / 'manual_classifications.json'
+    output_file = temp_dir / f'manual_classifications_{index}.json'
 
     if not batches_dir.exists():
         print(f"ERREUR: Le dossier {batches_dir} n'existe pas")
         exit(1)
 
-    success = merge_batch_classifications(batches_dir, output_file)
+    success = merge_batch_classifications(batches_dir, output_file, index)
 
     if success:
         print("\nFusion terminee avec succes !")
-        print("Vous pouvez maintenant executer: python scripts/generate_final_html.py")
+        print(f"Fichier cree: {output_file}")
+        print("Vous pouvez maintenant executer: python scripts/generate_final_reports.py")
     else:
         print("\nEchec de la fusion")
         exit(1)

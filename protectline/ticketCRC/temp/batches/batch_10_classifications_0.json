@@ -1,0 +1,17 @@
+{
+  "1096671": ["Probleme defaut sirene exterieure batterie"],
+  "1093363": ["Probleme informations manquantes centrale"],
+  "1094894": ["Probleme remontee alerte intrusion differee"],
+  "1094831": ["Probleme deconnexions camera interieure"],
+  "1091349": ["Probleme notifications defaut pile"],
+  "1087911": ["Probleme supervision sans raison"],
+  "1085049": ["Probleme appairage camera interieure"],
+  "1078269": ["Probleme affichage defaut pile clavier"],
+  "1078724": ["Probleme absence notification coupure courant"],
+  "1078668": ["Demande augmentation seuil detection camera"],
+  "1077773": ["Probleme connexion camera interieure livebox"],
+  "1074532": ["Probleme appairage camera exterieure"],
+  "1074718": ["Probleme infrarouge camera exterieure"],
+  "1073573": ["Probleme appairage DFO"],
+  "1072751": ["Demande suppression equipement"]
+}

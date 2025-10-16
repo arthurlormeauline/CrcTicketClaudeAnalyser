@@ -3,15 +3,17 @@ import json
 import sys
 from collections import Counter
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from config import TEMP_DIR
 
 def analyze_themes(index='0'):
     """Analyse les themes et identifie les categories principales"""
 
     # Charger les classifications
-    classifications_file = Path(f"temp/manual_classifications_{index}.json")
+    classifications_file = TEMP_DIR / f"manual_classifications_{index}.json"
     if not classifications_file.exists():
         # Fallback sur le fichier sans index
-        classifications_file = Path("temp/tickets_classifications.json")
+        classifications_file = TEMP_DIR / "tickets_classifications.json"
 
     with open(classifications_file, 'r', encoding='utf-8') as f:
         classifications = json.load(f)
@@ -107,7 +109,7 @@ def analyze_themes(index='0'):
         }
     }
 
-    output_file = Path("temp/themes_analysis.json")
+    output_file = TEMP_DIR / "themes_analysis.json"
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 

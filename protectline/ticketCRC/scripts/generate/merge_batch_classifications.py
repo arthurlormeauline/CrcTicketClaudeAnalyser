@@ -2,6 +2,8 @@
 import json
 import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from config import TEMP_DIR, BATCHES_DIR
 
 def merge_batch_classifications(batches_dir, output_file, index):
     """
@@ -61,12 +63,8 @@ if __name__ == '__main__':
 
     index = sys.argv[1]
 
-    script_dir = Path(__file__).parent
-    parent_dir = script_dir.parent
-    temp_dir = parent_dir / 'temp'
-
-    batches_dir = temp_dir / 'batches'
-    output_file = temp_dir / f'manual_classifications_{index}.json'
+    batches_dir = BATCHES_DIR
+    output_file = TEMP_DIR / f'manual_classifications_{index}.json'
 
     if not batches_dir.exists():
         print(f"ERREUR: Le dossier {batches_dir} n'existe pas")

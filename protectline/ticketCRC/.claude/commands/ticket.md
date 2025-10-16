@@ -1,5 +1,48 @@
 ---
-description: Analyse ticket crc
+description: Workflow complet d'analyse des tickets CRC (arguments $1 : index de l'analyse)
 ---
 
-Lit le fichier ticket-qualif-prompt.md et suit les instructions
+Commande maitre qui orchestre le workflow complet d'analyse des tickets du centre d'appel.
+
+## Workflow en 3 etapes
+
+Le workflow se decompose en 3 etapes sequentielles :
+
+### Etape 1 : Preparation des donnees
+
+Execute la commande `/prepare-data $1 --force`
+
+Cette etape prepare les donnees pour l'analyse :
+- Pre-traitement des tickets (extraction, nettoyage)
+- Decoupage en batches pour l'analyse manuelle
+
+### Etape 2 : Analyse manuelle par Claude
+
+Execute la commande `/analyse-tickets $1`
+
+Cette etape est l'analyse manuelle par Claude :
+- Lecture et comprehension des tickets
+- Extraction des themes depuis les mentions @Usage
+- Classification semantique basee sur le contexte
+- Sauvegarde des classifications par batch
+
+**IMPORTANT : Cette etape necessite une intervention manuelle de Claude pour analyser les tickets.**
+
+### Etape 3 : Generation des rapports finaux
+
+Execute la commande `/generate-reports $1`
+
+Cette etape genere les rapports finaux :
+- Fusion de toutes les classifications
+- Analyse de la distribution des themes
+- Generation des rapports HTML et JSON
+
+## Utilisation
+
+Lance les 3 commandes sequentiellement avec l'index d'analyse fourni (par defaut 0).
+
+## Fichiers generes
+
+- `temp/batches/` : Fichiers intermediaires de decoupage et classifications
+- `output/tickets_classification_final.html` : Rapport HTML interactif
+- `output/analyse_finale.json` : Donnees structurees JSON

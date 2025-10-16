@@ -2,6 +2,8 @@
 import json
 import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from config import TEMP_DIR, BATCHES_DIR
 
 def split_tickets_into_batches(input_file, output_dir, index, batch_size=15):
     """
@@ -59,16 +61,12 @@ if __name__ == '__main__':
 
     index = sys.argv[1]
 
-    script_dir = Path(__file__).parent
-    parent_dir = script_dir.parent
-    temp_dir = parent_dir / 'temp'
-
-    input_file = temp_dir / 'tickets_for_analysis.json'
-    output_dir = temp_dir / 'batches'
+    input_file = TEMP_DIR / 'tickets_for_analysis.json'
+    output_dir = BATCHES_DIR
 
     if not input_file.exists():
         print(f"ERREUR: Le fichier {input_file} n'existe pas")
         print("Executez d'abord: python scripts/preprocess_tickets.py")
         exit(1)
 
-    split_tickets_into_batches(input_file, output_dir, index, batch_size=15)
+    split_tickets_into_batches(input_file, output_dir, index, batch_size=10)

@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "SlashCommand(/instructions-analyse-tickets:*)"
+      "SlashCommand(/instructions-analyse-tickets:*)",
+      "SlashCommand(/prepare-data:*)",
+      "SlashCommand(/analyse-tickets:*)"
     ],
     "deny": [],
     "ask": []

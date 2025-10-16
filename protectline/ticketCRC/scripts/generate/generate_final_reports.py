@@ -1,20 +1,23 @@
 import json
 import shutil
+import sys
 from pathlib import Path
 from datetime import datetime
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from config import TEMP_DIR, OUTPUT_DIR
 
 def generate_structured_json():
-    with open("temp/tickets_for_analysis.json", 'r', encoding='utf-8') as f:
+    with open(TEMP_DIR / "tickets_for_analysis.json", 'r', encoding='utf-8') as f:
         tickets = json.load(f)
 
     try:
-        with open("temp/tickets_old.json", 'r', encoding='utf-8') as f:
+        with open(TEMP_DIR / "tickets_old.json", 'r', encoding='utf-8') as f:
             old_tickets = json.load(f)
         tickets.extend(old_tickets)
     except FileNotFoundError:
         pass
 
-    with open("temp/tickets_classifications.json", 'r', encoding='utf-8') as f:
+    with open(TEMP_DIR / "tickets_classifications.json", 'r', encoding='utf-8') as f:
         classifications = json.load(f)
 
     themes_stats = {}
@@ -106,27 +109,26 @@ def generate_structured_json():
         "recommandations": recommendations
     }
 
-    output_dir = Path("output")
-    output_dir.mkdir(exist_ok=True)
+    OUTPUT_DIR.mkdir(exist_ok=True)
 
-    with open(output_dir / "analyse_finale.json", 'w', encoding='utf-8') as f:
+    with open(OUTPUT_DIR / "analyse_finale.json", 'w', encoding='utf-8') as f:
         json.dump(structured_data, f, ensure_ascii=False, indent=2)
 
     print(f"Fichier JSON structure genere: output/analyse_finale.json")
     return structured_data
 
 def generate_html_with_json(structured_data):
-    with open("temp/tickets_for_analysis.json", 'r', encoding='utf-8') as f:
+    with open(TEMP_DIR / "tickets_for_analysis.json", 'r', encoding='utf-8') as f:
         tickets = json.load(f)
 
     try:
-        with open("temp/tickets_old.json", 'r', encoding='utf-8') as f:
+        with open(TEMP_DIR / "tickets_old.json", 'r', encoding='utf-8') as f:
             old_tickets = json.load(f)
         tickets.extend(old_tickets)
     except FileNotFoundError:
         pass
 
-    with open("temp/tickets_classifications.json", 'r', encoding='utf-8') as f:
+    with open(TEMP_DIR / "tickets_classifications.json", 'r', encoding='utf-8') as f:
         classifications = json.load(f)
 
     themes_stats = {}
@@ -507,18 +509,16 @@ def generate_html_with_json(structured_data):
 </html>
 """
 
-    output_dir = Path("output")
-    output_dir.mkdir(exist_ok=True)
+    OUTPUT_DIR.mkdir(exist_ok=True)
 
-    with open(output_dir / "tickets_classification_final.html", 'w', encoding='utf-8') as f:
+    with open(OUTPUT_DIR / "tickets_classification_final.html", 'w', encoding='utf-8') as f:
         f.write(html)
 
     print(f"Rapport HTML genere: output/tickets_classification_final.html")
 
 def cleanup_temp_folder():
-    temp_dir = Path("temp")
-    if temp_dir.exists():
-        shutil.rmtree(temp_dir)
+    if TEMP_DIR.exists():
+        shutil.rmtree(TEMP_DIR)
         print(f"Dossier temp/ supprime")
 
 def main():

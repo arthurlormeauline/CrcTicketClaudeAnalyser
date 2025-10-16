@@ -1,6 +1,6 @@
 # Description
 
-Cet outils permet d'analyser un fichier backup json fournis par l'application "usages-tickets" en utilisant claude qualifier les tickets en fonciton de problème/thème.
+Cet outil permet d'analyser un fichier backup json fournis par l'application "usages-tickets" en utilisant claude qualifier les tickets en fonciton de problème/thème.
 
 ## Utilisation
 

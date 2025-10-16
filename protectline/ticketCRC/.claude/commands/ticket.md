@@ -4,9 +4,9 @@ description: Workflow complet d'analyse des tickets CRC (arguments $1 : index de
 
 Commande maitre qui orchestre le workflow complet d'analyse des tickets du centre d'appel.
 
-## Workflow en 3 etapes
+## Workflow en 4 etapes
 
-Le workflow se decompose en 3 etapes sequentielles :
+Le workflow se decompose en 4 etapes sequentielles :
 
 ### Etape 1 : Preparation des donnees
 
@@ -28,7 +28,19 @@ Cette etape est l'analyse manuelle par Claude :
 
 **IMPORTANT : Cette etape necessite une intervention manuelle de Claude pour analyser les tickets.**
 
-### Etape 3 : Generation des rapports finaux
+### Etape 3 : Consolidation des categories
+
+Execute la commande `/consolidate-categories $1`
+
+Cette etape consolide les categories pour respecter les contraintes :
+- Maximum 10-15 categories au total
+- Maximum 5 categories avec un seul ticket
+- Regroupement semantique des themes similaires
+- Reclassification de tous les tickets
+
+**IMPORTANT : Cette etape est critique pour avoir des rapports exploitables.**
+
+### Etape 4 : Generation des rapports finaux
 
 Execute la commande `/generate-reports $1`
 
@@ -39,7 +51,7 @@ Cette etape genere les rapports finaux :
 
 ## Utilisation
 
-Lance les 3 commandes sequentiellement avec l'index d'analyse fourni (par defaut 0).
+Lance les 4 commandes sequentiellement avec l'index d'analyse fourni (par defaut 0).
 
 ## Fichiers generes
 

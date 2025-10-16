@@ -25,10 +25,10 @@ La commande /prepare-data doit avoir ete executee au prealable pour generer les 
 Pour CHAQUE fichier batch (batch_01_{$1}.json, batch_02_{$1}.json, etc.), Claude doit **EN UTILISANT UN AGENT TASK**
 1. LIRE le fichier batch complet avec l'outil Read
 2. Pour chaque ticket dans le batch :
-   a. Lire les mentions @Usage presentes dans usage_mentions
-   b. Comprendre le CONTEXTE de chaque phrase contenant @Usage
-   c. En deduire un ou plusieurs themes bases sur la COMPREHENSION SEMANTIQUE (pas des mots-cles)
-   d. IMPORTANT : Utiliser des categories GENERIQUES des le depart pour eviter trop de fragmentation
+   - Lire les mentions @Usage presentes dans usage_mentions
+   - Comprendre le CONTEXTE de chaque phrase contenant @Usage
+   - En deduire un ou plusieurs themes bases sur la COMPREHENSION SEMANTIQUE (pas des mots-cles): la dernière mention d'"@Usage" est la plus importante puisque détient le dernier message adressé à nos équipes.
+   - IMPORTANT : Utiliser des categories GENERIQUES des le depart pour eviter trop de fragmentation
       - Preferer "Probleme camera" plutot que "Probleme camera exterieure nuit"
       - Preferer "Probleme connexion" plutot que "Probleme connexion wifi camera interieure"
    e. Noter le ticket_id et les themes identifies

@@ -3,7 +3,9 @@
     "allow": [
       "SlashCommand(/instructions-analyse-tickets:*)",
       "SlashCommand(/prepare-data:*)",
-      "SlashCommand(/analyse-tickets:*)"
+      "SlashCommand(/analyse-tickets:*)",
+      "SlashCommand(/generate-reports:*)",
+      "SlashCommand(/consolidate-categories:*)"
     ],
     "deny": [],
     "ask": []

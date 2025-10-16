@@ -34,12 +34,18 @@ def main():
     index = sys.argv[1] if len(sys.argv) > 1 else "0"
 
     # Etape 1 : Fusion des classifications de tous les batches
-    print(f"Fusion des classifications pour l'index '{index}'...")
-    run_script("merge_batch_classifications.py", index)
+    # IMPORTANT: Ne pas refusionner si le fichier consolide existe deja
+    consolidated_file = f"temp/manual_classifications_{index}.json"
+    if os.path.exists(consolidated_file):
+        print(f"\nFichier consolide trouve: {consolidated_file}")
+        print("Utilisation du fichier consolide existant (pas de refusion des batches)")
+    else:
+        print(f"Fusion des classifications pour l'index '{index}'...")
+        run_script("merge_batch_classifications.py", index)
 
     # Etape 2 : Analyse de la distribution des themes
     print("Analyse de la distribution des themes...")
-    run_script("analyze_themes.py")
+    run_script("analyze_themes.py", index)
 
     # Etape 3 : Copier le fichier de classification avec le bon nom
     # Le script generate_final_reports cherche tickets_classifications.json

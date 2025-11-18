@@ -2,23 +2,17 @@ SIU-5941 : DataEnricher Safehome
 
 input de test :
 contractId : OSDEVICE3TNR
-gateway : Safehome-235711131719TNR 
+gateway : Safehome-235711131719TNR
 
 topic d'entrée : teamusages.dataEnrichementSafehome.alarm.send
-
+topic de sortie : teamusages.tracability.send
 
 ## CONTRAT ACTIVE : 
 ### 1. activation :
 
 {
-"metadata": {
-"messageId": "123456789",
-"callerId": "tus.callerId",
-"messageType": "messageType",
-"deviceName": "Safehome-235711131719TNR"
-},
-"dateTimeDevice" : "2025-10-14 00:07:55.000 +0200" ,
-"dateTimeIOTGateway" : "2025-10-14 00:07:55.000 +0200" ,
+"dateTimeDevice" : "2025-10-20 20:20:55.000 +0200" ,
+"dateTimeIOTGateway" : "2025-10-20 20:20:55.000 +0200" ,
 "cid" : "app-arm-rfid",
 "user" : "Celine",
 "source" : "Safehome-001399AAAAADTNR_R_5549463",
@@ -29,7 +23,7 @@ topic d'entrée : teamusages.dataEnrichementSafehome.alarm.send
 {
 "cid" : "app-arm-rfid",
 "dateTimeTB" : "",
-"dateTimeGateway" : "2025-10-14 00:07:55.000 +0200",
+"dateTimeGateway" : "2025-10-20 20:20:55.000 +0200",
 "eventID" : "2be8abcf-e493-4af1-816b-4a5d6bd134d5k",
 "label" : "appearance",
 "deviceId" : "Safehome-001399AAAAADTNR_R_5549463",
@@ -51,8 +45,8 @@ Rien -> le cid ne fait pas partis des cid qui doivent déclencher la traçabilit
 ### 2. alarm intrusion :
 
 {
-"dateTimeDevice" : "2025-10-14 00:07:55.000 +0200",
-"dateTimeIOTGateway" : "2025-10-14 00:07:55.000 +0200",
+"dateTimeDevice" : "2025-10-20 20:20:55.000 +0200",
+"dateTimeIOTGateway" : "2025-10-20 20:20:55.000 +0200",
 "cid" : "app-alarm-matter",
 "user" : "Celine",
 "source" : "Safehome-001399AAAAADTNR_3000116",
@@ -65,7 +59,7 @@ Rien -> le cid ne fait pas partis des cid qui doivent déclencher la traçabilit
 {
 "cid" : "app-alarm-matter",
 "dateTimeTB" : "",
-"dateTimeGateway" : "2025-10-14 00:0:55.000 +0200",
+"dateTimeGateway" : "2025-10-20 20:20:55.000 +0200",
 "eventID" : "35a474ba-f99a-4d7d-81a7-505f4eb28c80",
 "label" : "appearance",
 "deviceId" : "Safehome-001399AAAAADTNR_3000116",
@@ -104,8 +98,8 @@ Rien -> le cid ne fait pas partis des cid qui doivent déclencher la traçabilit
 ### 1. activation :
 
 {
-"dateTimeDevice" : "2025-10-14 00:07:55.000 +0200" ,
-"dateTimeIOTGateway" : "2025-10-14 00:07:55.000 +0200" ,
+"dateTimeDevice" : "2025-10-21 03:00:55.000 +0200" ,
+"dateTimeIOTGateway" : "2025-10-21 03:00:55.000 +0200" ,
 "cid" : "app-arm-rfid",
 "user" : "Celine",
 "source" : "Safehome-001399AAAAADTNR_R_5549463",
@@ -123,8 +117,8 @@ Pas de traçabilité
 ### 2. alarm intrusion :
 
 {
-"dateTimeDevice" : "2025-10-14 00:07:55.000 +0200" ,
-"dateTimeIOTGateway" : "2025-10-14 00:07:55.000 +0200" ,
+"dateTimeDevice" : "2025-10-21 03:00:55.000 +0200" ,
+"dateTimeIOTGateway" : "2025-10-21 03:00:55.000 +0200" ,
 "cid" : "app-alarm-matter",
 "user" : "Celine",
 "source" : "Safehome-001399AAAAADTNR_3000116",
